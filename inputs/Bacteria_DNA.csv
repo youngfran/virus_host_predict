@@ -1,0 +1,68 @@
+pos_label,pos_rank,neg_label,neg_rank,baltimore
+Alteromonadales,order,Gammaproteobacteria,class,DNA
+Salmonella enterica,species,Enterobacteriaceae,family,DNA
+Salmonella,genus,Enterobacteriaceae,family,DNA
+Escherichia coli,species,Enterobacteriaceae,family,DNA
+Escherichia,genus,Enterobacteriaceae,family,DNA
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA
+Klebsiella,genus,Enterobacteriaceae,family,DNA
+Enterobacteriaceae,family,Enterobacterales,order,DNA
+Erwiniaceae,family,Enterobacterales,order,DNA
+Enterobacterales,order,Gammaproteobacteria,class,DNA
+Acinetobacter,genus,Pseudomonadales,order,DNA
+Moraxellaceae,family,Pseudomonadales,order,DNA
+Pseudomonas,genus,Pseudomonadales,order,DNA
+Pseudomonadales,order,Gammaproteobacteria,class,DNA
+Vibrio cholerae,species,Vibrio,genus,DNA
+Vibrio,genus,Gammaproteobacteria,class,DNA
+Vibrionaceae,family,Gammaproteobacteria,class,DNA
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA
+Burkholderia,genus,Burkholderiales,order,DNA
+Burkholderiaceae,family,Proteobacteria,phylum,DNA
+Burkholderiales,order,Proteobacteria,phylum,DNA
+Betaproteobacteria,class,Proteobacteria,phylum,DNA
+Rhizobiales,order,Alphaproteobacteria,class,DNA
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA
+Proteobacteria,phylum,Bacteria,superkingdom,DNA
+Bacillus thuringiensis,species,Bacillus,genus,DNA
+Bacillus cereus,species,Bacillus,genus,DNA
+Bacillus,genus,Bacillales,order,DNA
+Bacillaceae,family,Bacillales,order,DNA
+Listeria monocytogenes,species,Bacillales,order,DNA
+Listeria,genus,Bacillales,order,DNA
+Listeriaceae,family,Bacillales,order,DNA
+Staphylococcus aureus,species,Bacillales,order,DNA
+Staphylococcus,genus,Bacillales,order,DNA
+Bacillales,order,Bacilli,class,DNA
+Lactobacillus,genus,Lactobacillales,order,DNA
+Lactobacillaceae,family,Lactobacillales,order,DNA
+Streptococcus,genus,Streptococcaceae,family,DNA
+Lactococcus lactis,species,Streptococcaceae,family,DNA
+Lactococcus,genus,Streptococcaceae,family,DNA
+Streptococcaceae,family,Lactobacillales,order,DNA
+Enterococcus faecalis,species,Lactobacillales,order,DNA
+Enterococcus,genus,Lactobacillales,order,DNA
+Lactobacillales,order,Bacilli,class,DNA
+Bacilli,class,Firmicutes,phylum,DNA
+Clostridium,genus,Firmicutes,phylum,DNA
+Clostridiales,order,Firmicutes,phylum,DNA
+Clostridia,class,Firmicutes,phylum,DNA
+Firmicutes,phylum,Bacteria,superkingdom,DNA
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA
+Mycolicibacterium,genus,Corynebacteriales,order,DNA
+Mycobacterium,genus,Mycobacteriaceae,family,DNA
+Mycobacteriaceae,family,Corynebacteriales,order,DNA
+Gordonia terrae,species,Corynebacteriales,order,DNA
+Gordonia,genus,Corynebacteriales,order,DNA
+Corynebacteriales,order,Actinobacteria,class,DNA
+Propionibacterium,genus,Actinobacteria,class,DNA
+Cutibacterium acnes,species,Actinobacteria,class,DNA
+Propionibacteriaceae,family,Actinobacteria,class,DNA
+Actinobacteria,phylum,Bacteria,superkingdom,DNA
+Prochlorococcus,genus,Synechococcales,order,DNA
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA
+Synechococcales,order,Bacteria,superkingdom,DNA
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA
+Cellulophaga,genus,Bacteria,superkingdom,DNA
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA

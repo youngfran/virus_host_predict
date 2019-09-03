@@ -1,0 +1,25 @@
+label,label_tax,pool,pool_tax,baltimore,virus holdout
+Bacteroidetes,phylum,Bacteria,kingdom,DNA,Siphoviridae
+Actinobacteria,class,Bacteria,kingdom,DNA,Siphoviridae
+Firmicutes,phylum,Bacteria,kingdom,DNA,Siphoviridae
+Proteobacteria,phylum,Bacteria,kingdom,DNA,Siphoviridae
+Cyanobacteria,phylum,Bacteria,kingdom,DNA,Podoviridae
+Firmicutes,phylum,Bacteria,kingdom,DNA,Podoviridae
+Proteobacteria,phylum,Bacteria,kingdom,DNA,Podoviridae
+Cyanobacteria,phylum,Bacteria,kingdom,DNA,Myoviridae
+Firmicutes,phylum,Bacteria,kingdom,DNA,Myoviridae
+Proteobacteria,phylum,Bacteria,kingdom,DNA,Myoviridae
+Bacillales,order,Firmicutes,phylum,DNA,Siphoviridae
+Bacillales,order,Firmicutes,phylum,DNA,Myoviridae
+Bacillales,order,Firmicutes,phylum,DNA,Podoviridae
+Lactobacillales,order,Firmicutes,phylum,DNA,Siphoviridae
+Lactobacillales,order,Firmicutes,phylum,DNA,Myoviridae
+Clostridiales,order,Firmicutes,phylum,DNA,Siphoviridae
+Clostridiales,order,Firmicutes,phylum,DNA,Myoviridae
+Enterobacterales,order,Proteobacteria,phylum,DNA,Siphoviridae
+Enterobacterales,order,Proteobacteria,phylum,DNA,Podoviridae
+Enterobacterales,order,Proteobacteria,phylum,DNA,Myoviridae
+Pseudomonadales,order,Proteobacteria,phylum,DNA,Myoviridae
+Pseudomonadales,order,Proteobacteria,phylum,DNA,Podoviridae
+Pseudomonadales,order,Proteobacteria,phylum,DNA,Siphoviridae
+Bacillaceae,family,Bacillales,order,DNA,Siphoviridae

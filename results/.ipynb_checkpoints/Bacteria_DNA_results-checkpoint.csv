@@ -1,0 +1,33 @@
+positive label,label tax group,pool label,pool tax group,Baltimore,N in class,Features,k,AUC
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,1,0.516
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,2,0.922
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,3,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,4,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,5,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,6,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,7,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,8,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,9,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,1,0.833
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,2,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,3,0.792
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,4,0.958
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,1,0.604
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,2,0.833
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,3,0.896
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,4,0.75
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,5,0.646
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,6,0.792
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,Domains,0,0.938
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,1,0.534
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,2,0.789
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,3,0.947
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,4,0.966
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,5,0.997
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,6,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,7,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,8,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,9,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,1,0.777
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,2,0.885
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,3,0.972

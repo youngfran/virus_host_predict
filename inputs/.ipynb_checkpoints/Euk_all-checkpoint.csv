@@ -1,0 +1,70 @@
+pos_label,pos_rank,neg_label,neg_rank,Baltimore
+Bos taurus,species,Bovidae,family,all
+Bos,genus,Bovidae,family,all
+Ovis aries,species,Bovidae,family,all
+Sus scrofa,species,Mammalia,class,all
+Suidae,family,Mammalia,class,all
+Vespertilionidae,family,Chiroptera,order,all
+Phyllostomidae,family,Chiroptera,order,all
+Rhinolophus,genus,Chiroptera,order,all
+Pteropus,genus,Pteropodidae,family,all
+Pteropodidae,family,Chiroptera,order,all
+Chiroptera,order,Mammalia,class,all
+Equus caballus,species,Mammalia,class,all
+Equus,genus,Mammalia,class,all
+Equidae,family,Mammalia,class,all
+Perissodactyla,order,Mammalia,class,all
+Canis lupus,species,Carnivora,order,all
+Canidae,family,Carnivora,order,all
+Felis catus,species,Carnivora,order,all
+Felis,genus,Carnivora,order,all
+Felidae,family,Carnivora,order,all
+Carnivora,order,Mammalia,class,all
+Eulipotyphla,order,Mammalia,class,all
+Pan troglodytes,species,Hominidae,family,all
+Pan,genus,Hominidae,family,all
+Homo sapiens,species,Hominidae,family,all
+Homo,genus,Hominidae,family,all
+Hominidae,family,Primates,order,all
+Macaca mulatta,species,Macaca,genus,all
+Macaca,genus,Cercopithecidae,family,all
+Chlorocebus aethiops,species,Cercopithecidae,family,all
+Chlorocebus,genus,Cercopithecidae,family,all
+Cercopithecidae,family,Primates,order,all
+Primates,order,Mammalia,class,all
+Mus musculus,species,Muridae,family,all
+Mus,genus,Muridae,family,all
+Rattus norvegicus,species,Muridae,family,all
+Rattus,genus,Muridae,family,all
+Muridae,family,Rodentia,order,all
+Cricetidae,family,Rodentia,order,all
+Rodentia,order,Mammalia,class,all
+Mammalia,class,Chordata,phylum,all
+Passeriformes,order,Aves,class,all
+Meleagris gallopavo,species,Phasianidae,family,all
+Gallus gallus,species,Galliformes,order,all
+Phasianidae,family,Aves,class,all
+Galliformes,order,Aves,class,all
+Anas,genus,Aves,class,all
+Anatidae,family,Aves,class,all
+Aves,class,Chordata,phylum,all
+Chordata,phylum,Metazoa,kingdom,all
+Ixodidae,family,Arthropoda,phylum,all
+Ixodida,order,Arthropoda,phylum,all
+Arachnida,class,Arthropoda,phylum,all
+Hymenoptera,order,Insecta,class,all
+Aedes,genus,Culicidae,family,all
+Culex,genus,Culicidae,family,all
+Culicidae,family,Diptera,order,all
+Diptera,order,Insecta,class,all
+Noctuidae,family,Lepidoptera,order,all
+Lepidoptera,order,Insecta,class,all
+Hemiptera,order,Insecta,class,all
+Libellulidae,family,Insecta,class,all
+Odonata,order,Insecta,class,all
+Insecta,class,Arthropoda,phylum,all
+Decapoda,order,Arthropoda,phylum,all
+Arthropoda,phylum,Metazoa,kingdom,all
+Veneroida,order,Metazoa,kingdom,all
+Bivalvia,class,Metazoa,kingdom,all
+Mollusca,phylum,Metazoa,kingdom,all

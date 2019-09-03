@@ -1,0 +1,5 @@
+positive label,label tax group,pool label,pool tax group,Baltimore,N in class,Features,k,AUC
+Bos taurus,species,Bovidae,family,all,65,DNA,1,0.341
+Bos taurus,species,Bovidae,family,all,65,DNA,2,0.286
+Bos taurus,species,Bovidae,family,all,65,DNA,3,0.587
+Bos taurus,species,Bovidae,family,all,65,DNA,4,0.73

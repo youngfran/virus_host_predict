@@ -1,0 +1,1341 @@
+positive label,label tax group,pool label,pool tax group,Baltimore,N in class,Features,k,AUC
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,1,0.516
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,2,0.922
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,3,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,4,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,5,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,6,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,7,0.984
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,8,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,DNA,9,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,1,0.833
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,2,1.0
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,3,0.792
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,AA,4,0.958
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,1,0.604
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,2,0.833
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,3,0.896
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,4,0.75
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,5,0.646
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,PC,6,0.792
+Alteromonadales,order,Gammaproteobacteria,class,DNA,30,Domains,0,0.938
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,1,0.534
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,2,0.789
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,3,0.947
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,4,0.966
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,5,0.997
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,6,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,7,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,8,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,DNA,9,1.0
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,1,0.777
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,2,0.885
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,3,0.972
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,AA,4,0.978
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,1,0.718
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,2,0.848
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,3,0.932
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,4,0.901
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,5,0.91
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,PC,6,0.972
+Salmonella enterica,species,Enterobacteriaceae,family,DNA,97,Domains,0,0.918
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,1,0.482
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,2,0.658
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,3,0.863
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,4,0.872
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,5,0.928
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,6,0.952
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,7,0.958
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,8,0.977
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,DNA,9,0.983
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,AA,1,0.739
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,AA,2,0.817
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,AA,3,0.966
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,AA,4,0.886
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,1,0.665
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,2,0.735
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,3,0.764
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,4,0.867
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,5,0.867
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,PC,6,0.956
+Salmonella,genus,Enterobacteriaceae,family,DNA,111,Domains,0,0.943
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,1,0.564
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,2,0.828
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,3,0.959
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,4,0.947
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,5,0.925
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,6,0.984
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,7,0.989
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,8,0.988
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,DNA,9,0.984
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,AA,1,0.889
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,AA,2,0.964
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,AA,3,0.959
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,AA,4,0.984
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,1,0.649
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,2,0.948
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,3,0.868
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,4,0.925
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,5,0.94
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,PC,6,0.978
+Escherichia coli,species,Enterobacteriaceae,family,DNA,245,Domains,0,0.956
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,1,0.639
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,2,0.82
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,3,0.968
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,4,0.946
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,5,0.953
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,6,0.977
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,7,0.981
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,8,0.98
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,DNA,9,0.978
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,AA,1,0.78
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,AA,2,0.909
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,AA,3,0.957
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,AA,4,0.974
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,1,0.56
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,2,0.867
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,3,0.789
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,4,0.916
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,5,0.94
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,PC,6,0.968
+Escherichia,genus,Enterobacteriaceae,family,DNA,250,Domains,0,0.925
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,1,0.375
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,2,0.708
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,3,0.646
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,4,0.667
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,5,0.667
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,6,0.708
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,7,0.812
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,8,0.812
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,DNA,9,0.958
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,AA,1,0.729
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,AA,2,0.979
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,AA,3,1.0
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,AA,4,0.979
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,1,0.771
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,2,0.938
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,3,0.979
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,4,0.917
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,5,0.938
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,PC,6,0.917
+Klebsiella pneumoniae,species,Enterobacteriaceae,family,DNA,28,Domains,0,0.875
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,1,0.671
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,2,0.771
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,3,0.9
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,4,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,5,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,6,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,7,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,8,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,DNA,9,0.986
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,AA,1,0.529
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,AA,2,0.757
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,AA,3,0.857
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,AA,4,0.829
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,1,0.814
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,2,0.857
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,3,0.857
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,4,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,5,1.0
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,PC,6,0.871
+Klebsiella,genus,Enterobacteriaceae,family,DNA,35,Domains,0,0.95
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,1,0.375
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,2,0.719
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,3,0.975
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,4,0.905
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,5,0.933
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,6,0.967
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,7,0.989
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,8,0.989
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,DNA,9,0.983
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,AA,1,0.902
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,AA,2,0.932
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,AA,3,0.957
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,AA,4,0.966
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,1,0.747
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,2,0.902
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,3,0.855
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,4,0.893
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,5,0.917
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,PC,6,0.953
+Enterobacteriaceae,family,Enterobacterales,order,DNA,250,Domains,0,0.95
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,1,0.677
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,2,0.75
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,3,1.0
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,4,0.958
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,5,0.958
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,6,0.938
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,7,0.958
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,8,0.979
+Erwiniaceae,family,Enterobacterales,order,DNA,28,DNA,9,0.958
+Erwiniaceae,family,Enterobacterales,order,DNA,28,AA,1,0.75
+Erwiniaceae,family,Enterobacterales,order,DNA,28,AA,2,0.917
+Erwiniaceae,family,Enterobacterales,order,DNA,28,AA,3,0.75
+Erwiniaceae,family,Enterobacterales,order,DNA,28,AA,4,0.896
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,1,0.75
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,2,0.771
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,3,0.812
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,4,0.771
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,5,0.771
+Erwiniaceae,family,Enterobacterales,order,DNA,28,PC,6,0.917
+Erwiniaceae,family,Enterobacterales,order,DNA,28,Domains,0,0.775
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,1,0.461
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,2,0.747
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,3,0.953
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,4,0.984
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,5,0.977
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,6,0.991
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,7,0.996
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,8,0.996
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,DNA,9,0.997
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,AA,1,0.883
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,AA,2,0.938
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,AA,3,0.956
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,AA,4,0.982
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,1,0.681
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,2,0.877
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,3,0.91
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,4,0.908
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,5,0.953
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,PC,6,0.974
+Enterobacterales,order,Gammaproteobacteria,class,DNA,250,Domains,0,0.981
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,1,0.75
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,2,0.812
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,3,0.75
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,4,0.781
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,5,0.891
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,6,0.922
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,7,0.938
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,8,0.953
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,DNA,9,0.953
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,AA,1,0.75
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,AA,2,0.953
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,AA,3,0.953
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,AA,4,0.969
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,1,0.625
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,2,0.797
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,3,0.891
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,4,0.844
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,5,0.953
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,PC,6,0.984
+Acinetobacter,genus,Pseudomonadales,order,DNA,30,Domains,0,1.0
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,1,0.603
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,2,0.857
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,3,0.905
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,4,0.905
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,5,0.889
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,6,0.921
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,7,0.968
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,8,0.952
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,DNA,9,0.889
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,AA,1,0.825
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,AA,2,0.952
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,AA,3,0.889
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,AA,4,0.905
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,1,0.619
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,2,0.937
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,3,0.889
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,4,0.825
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,5,0.873
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,PC,6,0.937
+Moraxellaceae,family,Pseudomonadales,order,DNA,32,Domains,0,0.873
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,1,0.796
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,2,0.853
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,3,0.937
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,4,0.964
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,5,0.983
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,6,0.988
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,7,0.988
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,8,0.987
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,DNA,9,0.966
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,AA,1,0.928
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,AA,2,0.898
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,AA,3,0.933
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,AA,4,0.955
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,1,0.862
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,2,0.957
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,3,0.947
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,4,0.914
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,5,0.919
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,PC,6,0.953
+Pseudomonas,genus,Pseudomonadales,order,DNA,176,Domains,0,0.954
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,1,0.664
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,2,0.718
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,3,0.974
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,4,0.994
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,5,0.996
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,6,0.997
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,7,0.999
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,8,0.998
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,DNA,9,0.993
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,AA,1,0.913
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,AA,2,0.982
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,AA,3,0.98
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,AA,4,0.978
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,1,0.791
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,2,0.905
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,3,0.874
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,4,0.928
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,5,0.954
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,PC,6,0.963
+Pseudomonadales,order,Gammaproteobacteria,class,DNA,207,Domains,0,0.991
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,1,0.66
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,2,0.833
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,3,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,4,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,5,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,6,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,7,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,8,1.0
+Vibrio cholerae,species,Vibrio,genus,DNA,50,DNA,9,0.972
+Vibrio cholerae,species,Vibrio,genus,DNA,50,AA,1,0.681
+Vibrio cholerae,species,Vibrio,genus,DNA,50,AA,2,0.889
+Vibrio cholerae,species,Vibrio,genus,DNA,50,AA,3,0.972
+Vibrio cholerae,species,Vibrio,genus,DNA,50,AA,4,0.972
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,1,0.764
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,2,0.875
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,3,0.986
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,4,0.917
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,5,0.972
+Vibrio cholerae,species,Vibrio,genus,DNA,50,PC,6,0.986
+Vibrio cholerae,species,Vibrio,genus,DNA,50,Domains,0,0.903
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,1,0.59
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,2,0.843
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,3,0.93
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,4,0.922
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,5,0.938
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,6,0.994
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,7,0.997
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,8,0.986
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,DNA,9,0.994
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,AA,1,0.86
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,AA,2,1.0
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,AA,3,0.908
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,AA,4,0.992
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,1,0.653
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,2,0.776
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,3,0.908
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,4,0.866
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,5,0.874
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,PC,6,0.95
+Vibrio,genus,Gammaproteobacteria,class,DNA,99,Domains,0,0.994
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,1,0.569
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,2,0.728
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,3,0.929
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,4,1.0
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,5,1.0
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,6,1.0
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,7,0.997
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,8,0.992
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,DNA,9,0.987
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,AA,1,0.656
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,AA,2,0.947
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,AA,3,0.992
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,AA,4,0.96
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,1,0.696
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,2,0.868
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,3,0.839
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,4,0.87
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,5,0.905
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,PC,6,0.91
+Vibrionaceae,family,Gammaproteobacteria,class,DNA,100,Domains,0,0.987
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,1,0.547
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,2,0.761
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,3,0.931
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,4,0.972
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,5,0.988
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,6,0.996
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,7,0.996
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,8,0.994
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,DNA,9,0.985
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,AA,1,0.916
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,AA,2,0.939
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,AA,3,0.983
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,AA,4,0.977
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,1,0.627
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,2,0.906
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,3,0.903
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,4,0.908
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,5,0.888
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,PC,6,0.934
+Gammaproteobacteria,class,Proteobacteria,phylum,DNA,250,Domains,0,0.991
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,1,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,2,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,3,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,4,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,5,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,6,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,7,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,8,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,DNA,9,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,AA,1,0.988
+Burkholderia,genus,Burkholderiales,order,DNA,38,AA,2,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,AA,3,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,AA,4,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,1,0.975
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,2,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,3,0.95
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,4,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,5,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,PC,6,1.0
+Burkholderia,genus,Burkholderiales,order,DNA,38,Domains,0,0.986
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,1,0.724
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,2,0.949
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,3,0.929
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,4,0.949
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,5,0.969
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,6,0.969
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,7,0.969
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,8,0.969
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,DNA,9,0.98
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,AA,1,0.969
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,AA,2,0.98
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,AA,3,0.99
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,AA,4,0.959
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,1,0.796
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,2,0.796
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,3,0.816
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,4,0.867
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,5,0.939
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,PC,6,0.918
+Burkholderiaceae,family,Proteobacteria,phylum,DNA,63,Domains,0,0.99
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,1,0.847
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,2,0.996
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,3,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,4,0.969
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,5,0.98
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,6,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,7,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,8,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,DNA,9,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,AA,1,0.906
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,AA,2,0.929
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,AA,3,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,AA,4,1.0
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,1,0.925
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,2,0.937
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,3,0.941
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,4,0.949
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,5,0.925
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,PC,6,0.941
+Burkholderiales,order,Proteobacteria,phylum,DNA,78,Domains,0,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,1,0.945
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,2,0.973
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,3,0.98
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,4,0.969
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,5,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,6,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,7,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,8,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,DNA,9,1.0
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,AA,1,0.941
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,AA,2,0.992
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,AA,3,0.987
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,AA,4,0.979
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,1,0.954
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,2,0.945
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,3,0.958
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,4,0.954
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,5,0.962
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,PC,6,0.979
+Betaproteobacteria,class,Proteobacteria,phylum,DNA,79,Domains,0,0.987
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,1,0.662
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,2,0.662
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,3,0.888
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,4,0.9
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,5,0.95
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,6,0.95
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,7,0.938
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,8,0.925
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,DNA,9,0.925
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,AA,1,0.638
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,AA,2,0.775
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,AA,3,0.8
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,AA,4,0.95
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,1,0.688
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,2,0.788
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,3,0.775
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,4,0.7
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,5,0.85
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,PC,6,0.888
+Rhizobiales,order,Alphaproteobacteria,class,DNA,36,Domains,0,0.912
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,1,0.72
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,2,0.836
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,3,0.96
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,4,0.991
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,5,1.0
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,6,1.0
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,7,0.996
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,8,0.982
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,DNA,9,0.969
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,AA,1,0.86
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,AA,2,0.956
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,AA,3,0.951
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,AA,4,0.924
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,1,0.773
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,2,0.893
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,3,0.902
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,4,0.902
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,5,0.822
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,PC,6,0.942
+Alphaproteobacteria,class,Proteobacteria,phylum,DNA,73,Domains,0,0.991
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,1,0.58
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,2,0.815
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,3,0.986
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,4,0.986
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,5,0.991
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,6,0.994
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,7,0.997
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,8,0.995
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,9,0.996
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,1,0.948
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,2,0.964
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,3,0.994
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,4,0.978
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,1,0.726
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,2,0.891
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,3,0.92
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,4,0.897
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,5,0.929
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,6,0.931
+Proteobacteria,phylum,Bacteria,superkingdom,DNA,250,Domains,0,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,1,0.753
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,2,0.805
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,3,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,4,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,5,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,6,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,7,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,8,0.987
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,DNA,9,0.987
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,AA,1,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,AA,2,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,AA,3,0.987
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,AA,4,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,1,0.987
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,2,0.831
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,3,0.857
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,4,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,5,1.0
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,PC,6,0.974
+Bacillus thuringiensis,species,Bacillus,genus,DNA,40,Domains,0,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,1,0.873
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,2,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,3,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,4,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,5,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,6,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,7,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,8,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,DNA,9,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,AA,1,0.984
+Bacillus cereus,species,Bacillus,genus,DNA,33,AA,2,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,AA,3,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,AA,4,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,1,0.984
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,2,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,3,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,4,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,5,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,PC,6,1.0
+Bacillus cereus,species,Bacillus,genus,DNA,33,Domains,0,1.0
+Bacillus,genus,Bacillales,order,DNA,124,DNA,1,0.921
+Bacillus,genus,Bacillales,order,DNA,124,DNA,2,0.941
+Bacillus,genus,Bacillales,order,DNA,124,DNA,3,1.0
+Bacillus,genus,Bacillales,order,DNA,124,DNA,4,0.971
+Bacillus,genus,Bacillales,order,DNA,124,DNA,5,0.967
+Bacillus,genus,Bacillales,order,DNA,124,DNA,6,0.995
+Bacillus,genus,Bacillales,order,DNA,124,DNA,7,1.0
+Bacillus,genus,Bacillales,order,DNA,124,DNA,8,1.0
+Bacillus,genus,Bacillales,order,DNA,124,DNA,9,1.0
+Bacillus,genus,Bacillales,order,DNA,124,AA,1,0.998
+Bacillus,genus,Bacillales,order,DNA,124,AA,2,1.0
+Bacillus,genus,Bacillales,order,DNA,124,AA,3,0.968
+Bacillus,genus,Bacillales,order,DNA,124,AA,4,0.992
+Bacillus,genus,Bacillales,order,DNA,124,PC,1,0.971
+Bacillus,genus,Bacillales,order,DNA,124,PC,2,0.949
+Bacillus,genus,Bacillales,order,DNA,124,PC,3,0.9
+Bacillus,genus,Bacillales,order,DNA,124,PC,4,0.94
+Bacillus,genus,Bacillales,order,DNA,124,PC,5,1.0
+Bacillus,genus,Bacillales,order,DNA,124,PC,6,1.0
+Bacillus,genus,Bacillales,order,DNA,124,Domains,0,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,1,0.86
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,2,0.947
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,3,0.981
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,4,0.981
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,5,0.999
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,6,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,7,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,8,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,DNA,9,0.993
+Bacillaceae,family,Bacillales,order,DNA,130,AA,1,0.997
+Bacillaceae,family,Bacillales,order,DNA,130,AA,2,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,AA,3,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,AA,4,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,PC,1,0.994
+Bacillaceae,family,Bacillales,order,DNA,130,PC,2,0.968
+Bacillaceae,family,Bacillales,order,DNA,130,PC,3,0.992
+Bacillaceae,family,Bacillales,order,DNA,130,PC,4,0.983
+Bacillaceae,family,Bacillales,order,DNA,130,PC,5,0.997
+Bacillaceae,family,Bacillales,order,DNA,130,PC,6,1.0
+Bacillaceae,family,Bacillales,order,DNA,130,Domains,0,0.999
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,1,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,2,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,3,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,4,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,5,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,6,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,7,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,8,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,DNA,9,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,AA,1,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,AA,2,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,AA,3,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,AA,4,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,1,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,2,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,3,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,4,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,5,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,PC,6,1.0
+Listeria monocytogenes,species,Bacillales,order,DNA,31,Domains,0,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,1,0.857
+Listeria,genus,Bacillales,order,DNA,33,DNA,2,0.905
+Listeria,genus,Bacillales,order,DNA,33,DNA,3,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,4,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,5,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,6,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,7,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,8,1.0
+Listeria,genus,Bacillales,order,DNA,33,DNA,9,1.0
+Listeria,genus,Bacillales,order,DNA,33,AA,1,1.0
+Listeria,genus,Bacillales,order,DNA,33,AA,2,1.0
+Listeria,genus,Bacillales,order,DNA,33,AA,3,1.0
+Listeria,genus,Bacillales,order,DNA,33,AA,4,1.0
+Listeria,genus,Bacillales,order,DNA,33,PC,1,0.984
+Listeria,genus,Bacillales,order,DNA,33,PC,2,1.0
+Listeria,genus,Bacillales,order,DNA,33,PC,3,1.0
+Listeria,genus,Bacillales,order,DNA,33,PC,4,1.0
+Listeria,genus,Bacillales,order,DNA,33,PC,5,1.0
+Listeria,genus,Bacillales,order,DNA,33,PC,6,1.0
+Listeria,genus,Bacillales,order,DNA,33,Domains,0,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,1,0.971
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,2,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,3,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,4,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,5,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,6,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,7,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,8,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,DNA,9,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,AA,1,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,AA,2,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,AA,3,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,AA,4,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,PC,1,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,PC,2,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,PC,3,0.986
+Listeriaceae,family,Bacillales,order,DNA,36,PC,4,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,PC,5,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,PC,6,1.0
+Listeriaceae,family,Bacillales,order,DNA,36,Domains,0,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,1,0.957
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,2,0.957
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,3,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,4,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,5,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,6,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,7,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,8,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,DNA,9,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,AA,1,0.983
+Staphylococcus aureus,species,Bacillales,order,DNA,108,AA,2,0.998
+Staphylococcus aureus,species,Bacillales,order,DNA,108,AA,3,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,AA,4,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,1,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,2,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,3,0.952
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,4,0.993
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,5,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,PC,6,1.0
+Staphylococcus aureus,species,Bacillales,order,DNA,108,Domains,0,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,1,0.968
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,2,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,3,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,4,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,5,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,6,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,7,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,8,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,DNA,9,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,AA,1,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,AA,2,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,AA,3,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,AA,4,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,1,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,2,0.996
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,3,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,4,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,5,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,PC,6,1.0
+Staphylococcus,genus,Bacillales,order,DNA,133,Domains,0,0.996
+Bacillales,order,Bacilli,class,DNA,250,DNA,1,0.941
+Bacillales,order,Bacilli,class,DNA,250,DNA,2,0.954
+Bacillales,order,Bacilli,class,DNA,250,DNA,3,0.966
+Bacillales,order,Bacilli,class,DNA,250,DNA,4,0.997
+Bacillales,order,Bacilli,class,DNA,250,DNA,5,0.998
+Bacillales,order,Bacilli,class,DNA,250,DNA,6,0.997
+Bacillales,order,Bacilli,class,DNA,250,DNA,7,0.998
+Bacillales,order,Bacilli,class,DNA,250,DNA,8,0.995
+Bacillales,order,Bacilli,class,DNA,250,DNA,9,0.992
+Bacillales,order,Bacilli,class,DNA,250,AA,1,0.989
+Bacillales,order,Bacilli,class,DNA,250,AA,2,0.995
+Bacillales,order,Bacilli,class,DNA,250,AA,3,0.987
+Bacillales,order,Bacilli,class,DNA,250,AA,4,0.997
+Bacillales,order,Bacilli,class,DNA,250,PC,1,0.987
+Bacillales,order,Bacilli,class,DNA,250,PC,2,0.976
+Bacillales,order,Bacilli,class,DNA,250,PC,3,0.964
+Bacillales,order,Bacilli,class,DNA,250,PC,4,0.991
+Bacillales,order,Bacilli,class,DNA,250,PC,5,0.996
+Bacillales,order,Bacilli,class,DNA,250,PC,6,0.997
+Bacillales,order,Bacilli,class,DNA,250,Domains,0,0.995
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,1,0.943
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,2,0.807
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,3,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,4,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,5,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,6,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,7,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,8,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,DNA,9,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,AA,1,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,AA,2,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,AA,3,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,AA,4,0.961
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,1,0.974
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,2,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,3,1.0
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,4,0.896
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,5,0.935
+Lactobacillus,genus,Lactobacillales,order,DNA,43,PC,6,0.935
+Lactobacillus,genus,Lactobacillales,order,DNA,43,Domains,0,1.0
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,1,0.717
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,2,0.798
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,3,0.97
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,4,0.919
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,5,0.919
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,6,0.929
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,7,0.949
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,8,0.949
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,DNA,9,0.949
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,AA,1,1.0
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,AA,2,0.98
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,AA,3,0.96
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,AA,4,0.98
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,1,0.929
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,2,0.869
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,3,0.899
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,4,0.929
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,5,0.869
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,PC,6,0.949
+Lactobacillaceae,family,Lactobacillales,order,DNA,44,Domains,0,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,1,0.831
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,2,0.911
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,3,0.933
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,4,0.996
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,5,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,6,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,7,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,8,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,DNA,9,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,AA,1,0.962
+Streptococcus,genus,Streptococcaceae,family,DNA,75,AA,2,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,AA,3,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,AA,4,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,1,0.914
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,2,0.929
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,3,0.986
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,4,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,5,0.986
+Streptococcus,genus,Streptococcaceae,family,DNA,75,PC,6,1.0
+Streptococcus,genus,Streptococcaceae,family,DNA,75,Domains,0,1.0
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,1,0.941
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,2,0.903
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,3,0.969
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,4,0.979
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,5,0.993
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,6,0.997
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,7,0.997
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,8,0.997
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,DNA,9,1.0
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,AA,1,0.965
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,AA,2,0.952
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,AA,3,0.962
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,AA,4,0.986
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,1,0.862
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,2,0.844
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,3,0.848
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,4,0.913
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,5,0.969
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,PC,6,0.979
+Lactococcus lactis,species,Streptococcaceae,family,DNA,95,Domains,0,0.925
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,1,0.873
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,2,0.87
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,3,0.966
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,4,0.976
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,5,0.976
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,6,0.981
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,7,0.984
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,8,0.981
+Lactococcus,genus,Streptococcaceae,family,DNA,104,DNA,9,0.981
+Lactococcus,genus,Streptococcaceae,family,DNA,104,AA,1,0.958
+Lactococcus,genus,Streptococcaceae,family,DNA,104,AA,2,0.974
+Lactococcus,genus,Streptococcaceae,family,DNA,104,AA,3,0.989
+Lactococcus,genus,Streptococcaceae,family,DNA,104,AA,4,0.987
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,1,0.87
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,2,0.902
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,3,0.926
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,4,0.979
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,5,0.987
+Lactococcus,genus,Streptococcaceae,family,DNA,104,PC,6,0.989
+Lactococcus,genus,Streptococcaceae,family,DNA,104,Domains,0,0.981
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,1,0.86
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,2,0.968
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,3,0.992
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,4,0.99
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,5,0.999
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,6,1.0
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,7,1.0
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,8,0.999
+Streptococcaceae,family,Lactobacillales,order,DNA,179,DNA,9,0.999
+Streptococcaceae,family,Lactobacillales,order,DNA,179,AA,1,0.991
+Streptococcaceae,family,Lactobacillales,order,DNA,179,AA,2,0.996
+Streptococcaceae,family,Lactobacillales,order,DNA,179,AA,3,0.998
+Streptococcaceae,family,Lactobacillales,order,DNA,179,AA,4,0.998
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,1,0.972
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,2,0.991
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,3,0.953
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,4,0.996
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,5,0.998
+Streptococcaceae,family,Lactobacillales,order,DNA,179,PC,6,0.998
+Streptococcaceae,family,Lactobacillales,order,DNA,179,Domains,0,0.99
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,1,0.893
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,2,0.857
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,3,0.964
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,4,0.946
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,5,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,6,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,7,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,8,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,DNA,9,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,AA,1,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,AA,2,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,AA,3,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,AA,4,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,1,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,2,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,3,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,4,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,5,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,PC,6,1.0
+Enterococcus faecalis,species,Lactobacillales,order,DNA,29,Domains,0,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,1,0.96
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,2,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,3,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,4,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,5,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,6,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,7,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,8,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,DNA,9,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,AA,1,0.85
+Enterococcus,genus,Lactobacillales,order,DNA,34,AA,2,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,AA,3,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,AA,4,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,1,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,2,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,3,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,4,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,5,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,PC,6,1.0
+Enterococcus,genus,Lactobacillales,order,DNA,34,Domains,0,1.0
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,1,0.783
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,2,0.811
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,3,0.967
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,4,0.999
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,5,0.999
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,6,0.995
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,7,0.993
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,8,0.993
+Lactobacillales,order,Bacilli,class,DNA,250,DNA,9,0.99
+Lactobacillales,order,Bacilli,class,DNA,250,AA,1,0.955
+Lactobacillales,order,Bacilli,class,DNA,250,AA,2,0.985
+Lactobacillales,order,Bacilli,class,DNA,250,AA,3,0.984
+Lactobacillales,order,Bacilli,class,DNA,250,AA,4,0.992
+Lactobacillales,order,Bacilli,class,DNA,250,PC,1,0.909
+Lactobacillales,order,Bacilli,class,DNA,250,PC,2,0.941
+Lactobacillales,order,Bacilli,class,DNA,250,PC,3,0.964
+Lactobacillales,order,Bacilli,class,DNA,250,PC,4,0.971
+Lactobacillales,order,Bacilli,class,DNA,250,PC,5,0.986
+Lactobacillales,order,Bacilli,class,DNA,250,PC,6,0.994
+Lactobacillales,order,Bacilli,class,DNA,250,Domains,0,0.999
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,1,0.829
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,2,0.868
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,3,0.965
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,4,0.999
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,5,0.996
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,6,0.993
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,7,0.992
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,8,0.978
+Bacilli,class,Firmicutes,phylum,DNA,250,DNA,9,0.962
+Bacilli,class,Firmicutes,phylum,DNA,250,AA,1,0.979
+Bacilli,class,Firmicutes,phylum,DNA,250,AA,2,0.998
+Bacilli,class,Firmicutes,phylum,DNA,250,AA,3,0.99
+Bacilli,class,Firmicutes,phylum,DNA,250,AA,4,0.984
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,1,0.985
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,2,0.994
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,3,0.96
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,4,0.982
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,5,0.983
+Bacilli,class,Firmicutes,phylum,DNA,250,PC,6,0.979
+Bacilli,class,Firmicutes,phylum,DNA,250,Domains,0,0.972
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,1,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,2,0.909
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,3,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,4,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,5,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,6,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,7,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,8,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,DNA,9,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,AA,1,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,AA,2,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,AA,3,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,AA,4,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,1,0.943
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,2,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,3,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,4,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,5,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,PC,6,1.0
+Clostridium,genus,Firmicutes,phylum,DNA,42,Domains,0,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,1,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,2,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,3,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,4,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,5,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,6,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,7,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,8,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,DNA,9,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,AA,1,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,AA,2,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,AA,3,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,AA,4,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,1,0.939
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,2,0.99
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,3,0.99
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,4,0.99
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,5,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,PC,6,1.0
+Clostridiales,order,Firmicutes,phylum,DNA,45,Domains,0,0.97
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,1,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,2,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,3,0.969
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,4,0.927
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,5,0.969
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,6,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,7,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,8,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,DNA,9,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,AA,1,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,AA,2,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,AA,3,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,AA,4,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,1,0.88
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,2,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,3,0.979
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,4,0.99
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,5,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,PC,6,1.0
+Clostridia,class,Firmicutes,phylum,DNA,46,Domains,0,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,1,0.864
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,2,0.97
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,3,0.957
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,4,0.977
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,5,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,6,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,7,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,8,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,DNA,9,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,AA,1,0.994
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,AA,2,0.997
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,AA,3,1.0
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,AA,4,0.981
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,1,0.993
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,2,0.992
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,3,0.975
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,4,0.993
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,5,0.957
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,PC,6,0.988
+Firmicutes,phylum,Bacteria,superkingdom,DNA,250,Domains,0,0.997
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,1,0.962
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,2,0.983
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,3,0.963
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,4,0.996
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,5,0.997
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,6,0.955
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,7,0.961
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,8,0.976
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,DNA,9,0.997
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,AA,1,0.968
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,AA,2,0.939
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,AA,3,0.997
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,AA,4,0.998
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,1,0.992
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,2,0.931
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,3,0.992
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,4,0.967
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,5,0.97
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,PC,6,0.994
+Mycolicibacterium smegmatis,species,Corynebacteriales,order,DNA,250,Domains,0,0.961
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,1,0.971
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,2,0.977
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,3,0.991
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,4,0.999
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,5,0.999
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,6,0.979
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,7,0.991
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,8,1.0
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,DNA,9,1.0
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,AA,1,0.982
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,AA,2,0.952
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,AA,3,0.994
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,AA,4,1.0
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,1,0.978
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,2,0.996
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,3,1.0
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,4,0.952
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,5,0.972
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,PC,6,0.991
+Mycolicibacterium,genus,Corynebacteriales,order,DNA,250,Domains,0,0.996
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,1,0.91
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,2,0.95
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,3,0.956
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,4,0.934
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,5,0.989
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,6,0.976
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,7,0.988
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,8,0.988
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,DNA,9,0.984
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,AA,1,0.962
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,AA,2,0.934
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,AA,3,0.955
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,AA,4,0.992
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,1,0.936
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,2,0.955
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,3,0.944
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,4,0.908
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,5,0.987
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,PC,6,0.993
+Mycobacterium,genus,Mycobacteriaceae,family,DNA,250,Domains,0,0.984
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,1,0.939
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,2,0.977
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,3,0.981
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,4,0.999
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,5,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,6,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,7,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,8,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,DNA,9,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,AA,1,0.967
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,AA,2,0.978
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,AA,3,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,AA,4,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,1,0.96
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,2,0.996
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,3,0.959
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,4,0.974
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,5,0.978
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,PC,6,1.0
+Mycobacteriaceae,family,Corynebacteriales,order,DNA,250,Domains,0,0.998
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,1,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,2,0.917
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,3,0.881
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,4,0.857
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,5,0.893
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,6,0.917
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,7,0.929
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,8,0.976
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,DNA,9,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,AA,1,1.0
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,AA,2,1.0
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,AA,3,0.881
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,AA,4,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,1,1.0
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,2,1.0
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,3,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,4,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,5,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,PC,6,0.988
+Gordonia terrae,species,Corynebacteriales,order,DNA,55,Domains,0,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,1,0.832
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,2,0.954
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,3,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,4,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,5,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,6,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,7,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,8,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,DNA,9,0.985
+Gordonia,genus,Corynebacteriales,order,DNA,69,AA,1,0.967
+Gordonia,genus,Corynebacteriales,order,DNA,69,AA,2,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,AA,3,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,AA,4,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,1,0.912
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,2,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,3,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,4,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,5,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,PC,6,1.0
+Gordonia,genus,Corynebacteriales,order,DNA,69,Domains,0,1.0
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,1,0.928
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,2,0.955
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,3,0.977
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,4,0.999
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,5,1.0
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,6,1.0
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,7,0.999
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,8,0.999
+Corynebacteriales,order,Actinobacteria,class,DNA,250,DNA,9,0.996
+Corynebacteriales,order,Actinobacteria,class,DNA,250,AA,1,0.95
+Corynebacteriales,order,Actinobacteria,class,DNA,250,AA,2,0.983
+Corynebacteriales,order,Actinobacteria,class,DNA,250,AA,3,0.995
+Corynebacteriales,order,Actinobacteria,class,DNA,250,AA,4,0.992
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,1,0.945
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,2,0.96
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,3,0.965
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,4,0.97
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,5,0.982
+Corynebacteriales,order,Actinobacteria,class,DNA,250,PC,6,0.992
+Corynebacteriales,order,Actinobacteria,class,DNA,250,Domains,0,0.978
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,1,0.918
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,2,0.929
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,3,0.939
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,4,0.939
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,5,0.929
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,6,0.929
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,7,0.929
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,8,0.929
+Propionibacterium,genus,Actinobacteria,class,DNA,61,DNA,9,0.949
+Propionibacterium,genus,Actinobacteria,class,DNA,61,AA,1,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,AA,2,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,AA,3,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,AA,4,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,1,0.857
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,2,0.857
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,3,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,4,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,5,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,PC,6,1.0
+Propionibacterium,genus,Actinobacteria,class,DNA,61,Domains,0,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,1,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,2,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,3,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,4,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,5,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,6,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,7,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,8,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,DNA,9,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,AA,1,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,AA,2,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,AA,3,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,AA,4,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,1,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,2,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,3,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,4,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,5,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,PC,6,1.0
+Cutibacterium acnes,species,Actinobacteria,class,DNA,80,Domains,0,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,1,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,2,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,3,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,4,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,5,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,6,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,7,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,8,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,DNA,9,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,AA,1,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,AA,2,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,AA,3,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,AA,4,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,1,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,2,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,3,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,4,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,5,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,PC,6,1.0
+Propionibacteriaceae,family,Actinobacteria,class,DNA,83,Domains,0,0.938
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,1,0.978
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,2,0.985
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,3,0.992
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,4,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,5,0.999
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,6,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,7,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,8,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,DNA,9,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,1,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,2,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,3,0.997
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,AA,4,1.0
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,1,0.995
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,2,0.999
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,3,0.999
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,4,0.998
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,5,0.994
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,PC,6,0.996
+Actinobacteria,phylum,Bacteria,superkingdom,DNA,250,Domains,0,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,1,0.833
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,2,0.938
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,3,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,4,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,5,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,6,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,7,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,8,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,DNA,9,0.958
+Prochlorococcus,genus,Synechococcales,order,DNA,28,AA,1,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,AA,2,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,AA,3,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,AA,4,0.938
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,1,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,2,1.0
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,3,0.646
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,4,0.979
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,5,0.833
+Prochlorococcus,genus,Synechococcales,order,DNA,28,PC,6,0.917
+Prochlorococcus,genus,Synechococcales,order,DNA,28,Domains,0,0.969
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,1,0.656
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,2,0.922
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,3,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,4,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,5,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,6,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,7,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,8,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,DNA,9,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,AA,1,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,AA,2,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,AA,3,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,AA,4,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,1,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,2,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,3,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,4,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,5,1.0
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,PC,6,0.984
+Synechococcus sp. WH 7803,species,Synechococcus,genus,DNA,30,Domains,0,1.0
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,1,0.681
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,2,0.985
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,3,0.985
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,4,0.981
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,5,0.994
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,6,0.997
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,7,0.994
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,8,0.994
+Synechococcales,order,Bacteria,superkingdom,DNA,97,DNA,9,0.988
+Synechococcales,order,Bacteria,superkingdom,DNA,97,AA,1,0.997
+Synechococcales,order,Bacteria,superkingdom,DNA,97,AA,2,1.0
+Synechococcales,order,Bacteria,superkingdom,DNA,97,AA,3,0.997
+Synechococcales,order,Bacteria,superkingdom,DNA,97,AA,4,1.0
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,1,0.944
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,2,1.0
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,3,0.997
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,4,0.938
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,5,0.944
+Synechococcales,order,Bacteria,superkingdom,DNA,97,PC,6,0.985
+Synechococcales,order,Bacteria,superkingdom,DNA,97,Domains,0,1.0
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,1,0.636
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,2,0.992
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,3,0.967
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,4,0.978
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,5,0.983
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,6,0.992
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,7,1.0
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,8,1.0
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,DNA,9,0.989
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,AA,1,0.989
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,AA,2,0.994
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,AA,3,1.0
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,AA,4,0.978
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,1,0.989
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,2,0.986
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,3,0.972
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,4,1.0
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,5,0.928
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,PC,6,0.958
+Cyanobacteria,phylum,Bacteria,superkingdom,DNA,104,Domains,0,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,1,0.896
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,2,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,3,0.938
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,4,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,5,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,6,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,7,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,8,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,DNA,9,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,AA,1,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,AA,2,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,AA,3,0.979
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,AA,4,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,1,0.854
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,2,0.833
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,3,0.854
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,4,0.979
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,5,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,PC,6,1.0
+Cellulophaga,genus,Bacteria,superkingdom,DNA,28,Domains,0,0.938
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,1,0.766
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,2,0.857
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,3,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,4,0.961
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,5,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,6,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,7,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,8,0.987
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,DNA,9,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,AA,1,0.857
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,AA,2,0.883
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,AA,3,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,AA,4,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,1,0.831
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,2,0.857
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,3,0.857
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,4,0.909
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,5,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,PC,6,0.974
+Flavobacteriaceae,family,Bacteria,superkingdom,DNA,41,Domains,0,1.0
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,1,0.927
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,2,0.885
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,3,0.99
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,4,0.99
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,5,0.969
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,6,0.958
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,7,0.948
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,8,0.938
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,DNA,9,0.938
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,AA,1,0.927
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,AA,2,0.948
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,AA,3,0.948
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,AA,4,0.969
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,1,0.875
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,2,0.812
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,3,0.875
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,4,0.958
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,5,0.969
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,PC,6,0.979
+Bacteroidetes,phylum,Bacteria,superkingdom,DNA,47,Domains,0,0.979

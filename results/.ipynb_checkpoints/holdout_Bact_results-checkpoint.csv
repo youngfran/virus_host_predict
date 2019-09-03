@@ -1,0 +1,2 @@
+positive label,label tax group,pool label,pool tax group,Baltimore,virus holdout group,training group,N in class,Features,k,AUC
+Bacteroidetes,phylum,Bacteria,kingdom,DNA,Siphoviridae,holdout,50,DNA,2,0.717
