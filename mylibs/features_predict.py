@@ -102,7 +102,7 @@ def extract_kmers (sequences,k,symbol_dict):
             seq_index.append(accn)
 # normalise for length of genome(s)
     XN = np.divide(X,X.sum(axis = 1)[:,None])
-    print (np.shape(XN)) 
+    #print (np.shape(XN)) 
     return XN,seq_index,f_index
 
 def get_domains(sequence,dom_list):
