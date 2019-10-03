@@ -2,8 +2,8 @@
 This repository contains code and data  to predict host taxonomic information from viral genomes.  
 
 ## Data  
-Data was down loaded from https://www.genome.jp/virushostdb/ on the 25_10_2019.  
-Virushostdb.tsv > inputs/VHDB_25_10_2019.csv 
+Data was down loaded from https://www.genome.jp/virushostdb/ on the 25_1_2019.  
+Virushostdb.tsv > inputs/VHDB_25_1_2019.csv 
 
 The data dierectory contains 3  sub direcories.   
 1. Nucleic acid. Refseq for each virus    > data/fna  
