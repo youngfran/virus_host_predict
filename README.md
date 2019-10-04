@@ -1,20 +1,27 @@
 # Virus Host Predict 
-This repository contains code and data  to predict host taxonomic information from viral genomes.  
+This repository contains code and instructions to get the data  to predict host taxonomic information from viral genomes.  
 
 ## Data  
-Data was down loaded from https://www.genome.jp/virushostdb/ on the 25_1_2019.  
-Virushostdb.tsv > inputs/VHDB_25_1_2019.csv 
+Data was downloaded from https://www.genome.jp/virushostdb/ on the 25_1_2019.    
+Download the following two files:    
+1. virushostdb.genomic.fna.gz  -> data/fna  
+2. virushostdb.cds.faa.gz   -> data/fna 
 
-The data dierectory contains 3  sub direcories.   
-1. Nucleic acid. Refseq for each virus    > data/fna  
-2. Amino acid sequence for the CDS regions. For each virus > data/faa  
-3. Pfam domains - extract from the above aa sequences with  HMMER > data/pfs  
+Run the unpackfastafiles notebook to unpack the files. 
+Unzip the pfs.zp in the data/pfs folder
+
+
+The data directory contains 3  sub direcories.   
+1. Nucleic acid. Refseq(s) for each virus    > data/fna  
+2. Amino acid sequence for the CDS regions for each refseq > data/faa  
+3. Pfam domains - extract from the above aa sequences with  HMMER  for each refseq> data/pfs  
 
 ## Inputs  
 
 CSV files containing the information for each dataset run with the corresponding results are in the results folder.  
+Virushostdb.tsv > inputs/VHDB_25_1_2019.csv 
 
 ## Code  
 Contains the notebooks used to train and test the different datasets.  
-The  ‘run_BACTt_DNA.ipynb notebook contains the best annotations.  
+The  run_Bact_DNA.ipynb notebook contains the best annotations.  
 Each notebook generates one csv file in the results folder.  
