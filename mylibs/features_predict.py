@@ -31,22 +31,22 @@ def get_class_lists(subset,viruses,hosts):
         baltimore = 'NA'  # all classes (except satallites)
     
     # Get a list of all the viruses in the labelled class and the rest of the pool
-    bc = [[],[]]
+    both_classes = [[],[]]
     for v, vd in viruses.items() :
         if baltimore in vd['class']:
             host_labels = [hosts[h][label_tax] for h in vd['hosts'] if hosts[h][pool_tax] == pool] 
             if len(host_labels) > 0:
                 if label in host_labels:
-                    bc[0].append ((v,label))
+                    both_classes[0].append ((v,label))
                 else:
-                    bc[1].append((v,'Other'))                     
+                    both_classes[1].append((v,'Other'))                     
 
     # Get a random sample for each class of size n , the size of smallest class                    
     nmax = 250
-    n = min(len(bc[0]),len(bc[1]),nmax)
+    n = min(len(both_classes[0]),len(both_classes[1]),nmax)
 #    n=25 #  for testing
     datas =  []
-    for clss in bc:
+    for clss in both_classes:
         data = (random.sample(clss, n))
         datas.append(data)
     
@@ -197,15 +197,13 @@ def compliment(dna):
          revdna += bp[dna[i]]
     return (revdna)
 
-def  get_labels(label,v_index,dataset):      
+def  get_labels(label,v_index,dataset):  
+    #print('y', label,len(v_index))
     for i,v in enumerate(v_index):
         y = [1 if dataset[v]['label'] ==  label else 0 for v in v_index ] 
+        #print('y', label,len(v_index),y)
     return np.asarray (y)
 
-def  get_labels(label,v_index,dataset):      
-    for i,v in enumerate(v_index):
-        y = [1 if dataset[v]['label'] ==  label else 0 for v in v_index ] 
-    return np.asarray (y)
 
 def get_feature_matrices(sequences,datasets,label,k,symbol_dict):
    
