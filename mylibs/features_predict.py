@@ -42,7 +42,7 @@ def get_class_lists(subset,viruses,hosts):
                     both_classes[1].append((v,'Other'))                     
 
     # Get a random sample for each class of size n , the size of smallest class                    
-    nmax = 250
+    
     n = min(len(both_classes[0]),len(both_classes[1]),nmax)
 #    n=25 #  for testing
     datas =  []
@@ -209,10 +209,9 @@ def get_feature_matrices(sequences,datasets,label,k,symbol_dict):
    
     if k == 0: # domainsdom_list = list({dom for s in sequence.values() for dom in s})
         symbol_dict = list({dom for sequence in sequences.values() for s in sequence.values() for dom in s}) 
-    print (f'X_training:Extacting  features  of length  {k}  from   {len(sequences["training"])} sequences')
     X_train, seq_index, f_index = extract_kmers (sequences['training'],k,symbol_dict)
     Y_train =  get_labels (label,seq_index,datasets['training'])
-    print (f'X_test: Extacting  features  of length  {k}  from   {len(sequences["test"])} sequences')
+ 
     X_test, seq_index, f_index = extract_kmers (sequences['test'],k,symbol_dict)
     Y_test =  get_labels (label,seq_index,datasets['test'])
            
