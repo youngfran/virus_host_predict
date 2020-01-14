@@ -1,0 +1,28 @@
+ 1737  cp  fasta/*.gz ../virus_host_predict/data/fna/.
+ 1738  cd ../virus_host_predict/data/fna
+ 1763  unlink fna
+ 1768  cd fna
+ 1775  rm -rf fna/*.fasta
+ 1779  ls fna/
+ 1780  cp ../../newData/fasta/*.gz fna/.
+ 1781  ls fna/
+ 1795  ls fna
+ 1799  ls data/fna
+ 1804  git rm --cached data/fna/*
+ 1810  git rm --cached data/fna/virushostdb.genomic.fna.gz
+ 1812  git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch data/fna/virushostdb.genomic.fna.gz' HEAD
+ 1814  git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch data/fna/virushostdb.genomic.fna.gz' HEAD
+ 1816  git rm -r --cached --ignore-unmatched data/fna/*
+ 1817  git rm -r --cached --ignore-unmatch data/fna/*
+ 1819  git log --all -- data/fna/virushost*
+ 1820  git log --all -- data/fna/virushostdb.genomic.fna.gz
+ 1821  git log --all -- data/fna/virushostdb.cds.faa.gz
+ 1865  git rm --cached data/fna/virushostdb.genomic.fna.gz
+ 1866  git rm --cached data/fna/virushostdb.genomic.*
+ 1867  git rm --cached data/fna/*
+ 1899  git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch data/fna/virushostdb*' HEAD
+ 1908  git filter-branch --index-filter 'git rm -r --cached --ignore-unmatch data/fna/virushostdb*' HEAD
+ 1999  cd Desktop/workspace/virus_host_predict/data/fna
+ 2002  history |grep fna
+ 2003  history |grep fna |more
+ 2004  history |grep fna > more

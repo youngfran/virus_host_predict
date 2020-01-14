@@ -1,0 +1,33 @@
+ 1010  ls ../faa/NC_016881.*
+ 1011  ls ../faa/NC_0168*.*
+ 1012  ls -l ../faa/NC_0168*.*
+ 1013  cat ../faa/NC_016881.fasta 
+ 1023  ls -l faa/ |wc -l
+ 1159  ls ../../newData/faa
+ 1172  ls domtable/cat /home4/youn01f/Desktop/workspace/newData/faa/JQ410000.fasta
+ 1173  cat /home4/youn01f/Desktop/workspace/newData/faa/JQ410000.fasta
+ 1212  cd faa
+ 1599  cd ../faa
+ 1670  ls -l faa |wc
+ 1687  ls faa
+ 1688  ls data/faa
+ 1718  ls -lh newData/faa/*.gz
+ 1731  ls -lh faa |wc
+ 1742  cp  faa/*.gz ../virus_host_predict/data/faa/.
+ 1744  ls faa
+ 1745  ls faa/*gz
+ 1746  ls -lh faa
+ 1753  ls -lh faa/*gz
+ 1754  cp  faa/*.gz ../virus_host_predict/data/faa/.
+ 1760  unlink faa
+ 1776  ls -l faa |wc
+ 1777  rm -rf faa/*.fasta
+ 1783  ls ../../newData/faa/*.gz 
+ 1784  cp ../../newData/faa/virushostdb.cds.faa.gz faa/.
+ 1800  ls data/faa
+ 1801  rm data/faa/virushostdb.cds.faa.gz 
+ 1805  git rm --cached data/faa/*
+ 1821  git log --all -- data/fna/virushostdb.cds.faa.gz
+ 1966  cd workspace/newData/faa
+ 1971  ls faa
+ 2009  history |grep faa > h.txt
