@@ -25,3 +25,8 @@ Virushostdb.tsv > inputs/VHDB_25_1_2019.csv
 Contains the notebooks used to train and test the different datasets.  
 The  run_Bact_DNA.ipynb notebook contains the best annotations.  
 Each notebook generates one csv file in the results folder.  
+
+### Mylibs
+1. vhdb.py - load virus host data base table as an object.
+2. datasets.py  - class containing  dataset information.
+3. featureset.py - class containing information for each featureset for the dataset object. 
