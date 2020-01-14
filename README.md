@@ -26,7 +26,7 @@ Contains the notebooks used to train and test the different datasets.
 The  run_TrainTest.ipynb notebook contains the best annotations. (select which datasets to run)  
 Each notebook generates one csv file in the results folder.  
 
-### Mylibs
+### class files
 1. vhdb.py - load virus host data base table as an object.
 2. datasets.py  - class containing  dataset information.
 3. featureset.py - class containing information for each featureset for the dataset object. 
