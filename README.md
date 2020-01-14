@@ -23,7 +23,7 @@ Virushostdb.tsv > inputs/VHDB_25_1_2019.csv
 
 ## Code  
 Contains the notebooks used to train and test the different datasets.  
-The  run_Bact_DNA.ipynb notebook contains the best annotations.  
+The  run_TrainTest.ipynb notebook contains the best annotations. (select which datasets to run)  
 Each notebook generates one csv file in the results folder.  
 
 ### Mylibs
