@@ -1,1021 +1,1021 @@
-positive label,label tax group,pool label,pool tax group,Baltimore,N in class,Features,k,AUC
-Bos,genus,Bovidae,family,RNA,106,DNA,1,0.534
-Bos,genus,Bovidae,family,RNA,106,DNA,2,0.675
-Bos,genus,Bovidae,family,RNA,106,DNA,3,0.817
-Bos,genus,Bovidae,family,RNA,106,DNA,4,0.876
-Bos,genus,Bovidae,family,RNA,106,DNA,5,0.921
-Bos,genus,Bovidae,family,RNA,106,DNA,6,0.926
-Bos,genus,Bovidae,family,RNA,106,DNA,7,0.955
-Bos,genus,Bovidae,family,RNA,106,DNA,8,0.963
-Bos,genus,Bovidae,family,RNA,106,DNA,9,0.937
-Bos,genus,Bovidae,family,RNA,106,AA,1,0.816
-Bos,genus,Bovidae,family,RNA,106,AA,2,0.864
-Bos,genus,Bovidae,family,RNA,106,AA,3,0.962
-Bos,genus,Bovidae,family,RNA,106,AA,4,0.947
-Bos,genus,Bovidae,family,RNA,106,PC,1,0.573
-Bos,genus,Bovidae,family,RNA,106,PC,2,0.836
-Bos,genus,Bovidae,family,RNA,106,PC,3,0.932
-Bos,genus,Bovidae,family,RNA,106,PC,4,0.914
-Bos,genus,Bovidae,family,RNA,106,PC,5,0.922
-Bos,genus,Bovidae,family,RNA,106,PC,6,0.924
-Bos,genus,Bovidae,family,RNA,106,Domains,0,0.854
-Ovis aries,species,Bovidae,family,RNA,28,DNA,1,0.571
-Ovis aries,species,Bovidae,family,RNA,28,DNA,2,0.524
-Ovis aries,species,Bovidae,family,RNA,28,DNA,3,0.643
-Ovis aries,species,Bovidae,family,RNA,28,DNA,4,0.595
-Ovis aries,species,Bovidae,family,RNA,28,DNA,5,0.595
-Ovis aries,species,Bovidae,family,RNA,28,DNA,6,0.619
-Ovis aries,species,Bovidae,family,RNA,28,DNA,7,0.667
-Ovis aries,species,Bovidae,family,RNA,28,DNA,8,0.69
-Ovis aries,species,Bovidae,family,RNA,28,DNA,9,0.786
-Ovis aries,species,Bovidae,family,RNA,28,AA,1,0.729
-Ovis aries,species,Bovidae,family,RNA,28,AA,2,0.75
-Ovis aries,species,Bovidae,family,RNA,28,AA,3,0.833
-Ovis aries,species,Bovidae,family,RNA,28,AA,4,0.875
-Ovis aries,species,Bovidae,family,RNA,28,PC,1,0.646
-Ovis aries,species,Bovidae,family,RNA,28,PC,2,0.75
-Ovis aries,species,Bovidae,family,RNA,28,PC,3,0.896
-Ovis aries,species,Bovidae,family,RNA,28,PC,4,0.854
-Ovis aries,species,Bovidae,family,RNA,28,PC,5,0.833
-Ovis aries,species,Bovidae,family,RNA,28,PC,6,0.896
-Ovis aries,species,Bovidae,family,RNA,28,Domains,0,0.8
-Bovidae,family,Mammalia,class,RNA,141,DNA,1,0.571
-Bovidae,family,Mammalia,class,RNA,141,DNA,2,0.748
-Bovidae,family,Mammalia,class,RNA,141,DNA,3,0.77
-Bovidae,family,Mammalia,class,RNA,141,DNA,4,0.792
-Bovidae,family,Mammalia,class,RNA,141,DNA,5,0.878
-Bovidae,family,Mammalia,class,RNA,141,DNA,6,0.913
-Bovidae,family,Mammalia,class,RNA,141,DNA,7,0.895
-Bovidae,family,Mammalia,class,RNA,141,DNA,8,0.897
-Bovidae,family,Mammalia,class,RNA,141,DNA,9,0.916
-Bovidae,family,Mammalia,class,RNA,141,AA,1,0.723
-Bovidae,family,Mammalia,class,RNA,141,AA,2,0.841
-Bovidae,family,Mammalia,class,RNA,141,AA,3,0.918
-Bovidae,family,Mammalia,class,RNA,141,AA,4,0.923
-Bovidae,family,Mammalia,class,RNA,141,PC,1,0.512
-Bovidae,family,Mammalia,class,RNA,141,PC,2,0.74
-Bovidae,family,Mammalia,class,RNA,141,PC,3,0.775
-Bovidae,family,Mammalia,class,RNA,141,PC,4,0.889
-Bovidae,family,Mammalia,class,RNA,141,PC,5,0.897
-Bovidae,family,Mammalia,class,RNA,141,PC,6,0.938
-Bovidae,family,Mammalia,class,RNA,141,Domains,0,0.877
-Bos taurus,species,Bovidae,family,RNA,100,DNA,1,0.218
-Bos taurus,species,Bovidae,family,RNA,100,DNA,2,0.78
-Bos taurus,species,Bovidae,family,RNA,100,DNA,3,0.775
-Bos taurus,species,Bovidae,family,RNA,100,DNA,4,0.78
-Bos taurus,species,Bovidae,family,RNA,100,DNA,5,0.82
-Bos taurus,species,Bovidae,family,RNA,100,DNA,6,0.862
-Bos taurus,species,Bovidae,family,RNA,100,DNA,7,0.91
-Bos taurus,species,Bovidae,family,RNA,100,DNA,8,0.902
-Bos taurus,species,Bovidae,family,RNA,100,DNA,9,0.897
-Bos taurus,species,Bovidae,family,RNA,100,AA,1,0.767
-Bos taurus,species,Bovidae,family,RNA,100,AA,2,0.847
-Bos taurus,species,Bovidae,family,RNA,100,AA,3,0.849
-Bos taurus,species,Bovidae,family,RNA,100,AA,4,0.857
-Bos taurus,species,Bovidae,family,RNA,100,PC,1,0.439
-Bos taurus,species,Bovidae,family,RNA,100,PC,2,0.712
-Bos taurus,species,Bovidae,family,RNA,100,PC,3,0.794
-Bos taurus,species,Bovidae,family,RNA,100,PC,4,0.836
-Bos taurus,species,Bovidae,family,RNA,100,PC,5,0.833
-Bos taurus,species,Bovidae,family,RNA,100,PC,6,0.847
-Bos taurus,species,Bovidae,family,RNA,100,Domains,0,0.783
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,1,0.275
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,2,0.812
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,3,0.786
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,4,0.817
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,5,0.907
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,6,0.939
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,7,0.968
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,8,0.944
-Sus scrofa,species,Mammalia,class,RNA,104,DNA,9,0.931
-Sus scrofa,species,Mammalia,class,RNA,104,AA,1,0.821
-Sus scrofa,species,Mammalia,class,RNA,104,AA,2,0.9
-Sus scrofa,species,Mammalia,class,RNA,104,AA,3,0.953
-Sus scrofa,species,Mammalia,class,RNA,104,AA,4,0.926
-Sus scrofa,species,Mammalia,class,RNA,104,PC,1,0.774
-Sus scrofa,species,Mammalia,class,RNA,104,PC,2,0.7
-Sus scrofa,species,Mammalia,class,RNA,104,PC,3,0.882
-Sus scrofa,species,Mammalia,class,RNA,104,PC,4,0.924
-Sus scrofa,species,Mammalia,class,RNA,104,PC,5,0.921
-Sus scrofa,species,Mammalia,class,RNA,104,PC,6,0.915
-Sus scrofa,species,Mammalia,class,RNA,104,Domains,0,0.917
-Suidae,family,Mammalia,class,RNA,107,DNA,1,0.51
-Suidae,family,Mammalia,class,RNA,107,DNA,2,0.614
-Suidae,family,Mammalia,class,RNA,107,DNA,3,0.802
-Suidae,family,Mammalia,class,RNA,107,DNA,4,0.763
-Suidae,family,Mammalia,class,RNA,107,DNA,5,0.821
-Suidae,family,Mammalia,class,RNA,107,DNA,6,0.825
-Suidae,family,Mammalia,class,RNA,107,DNA,7,0.821
-Suidae,family,Mammalia,class,RNA,107,DNA,8,0.824
-Suidae,family,Mammalia,class,RNA,107,DNA,9,0.824
-Suidae,family,Mammalia,class,RNA,107,AA,1,0.689
-Suidae,family,Mammalia,class,RNA,107,AA,2,0.871
-Suidae,family,Mammalia,class,RNA,107,AA,3,0.795
-Suidae,family,Mammalia,class,RNA,107,AA,4,0.836
-Suidae,family,Mammalia,class,RNA,107,PC,1,0.607
-Suidae,family,Mammalia,class,RNA,107,PC,2,0.841
-Suidae,family,Mammalia,class,RNA,107,PC,3,0.78
-Suidae,family,Mammalia,class,RNA,107,PC,4,0.846
-Suidae,family,Mammalia,class,RNA,107,PC,5,0.854
-Suidae,family,Mammalia,class,RNA,107,PC,6,0.881
-Suidae,family,Mammalia,class,RNA,107,Domains,0,0.78
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,1,0.85
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,2,0.962
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,3,0.925
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,4,0.9
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,5,0.912
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,6,0.962
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,7,0.925
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,8,0.862
-Vespertilionidae,family,Chiroptera,order,RNA,37,DNA,9,0.838
-Vespertilionidae,family,Chiroptera,order,RNA,37,AA,1,0.738
-Vespertilionidae,family,Chiroptera,order,RNA,37,AA,2,0.725
-Vespertilionidae,family,Chiroptera,order,RNA,37,AA,3,0.675
-Vespertilionidae,family,Chiroptera,order,RNA,37,AA,4,0.462
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,1,0.912
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,2,0.588
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,3,0.888
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,4,0.688
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,5,0.725
-Vespertilionidae,family,Chiroptera,order,RNA,37,PC,6,0.65
-Vespertilionidae,family,Chiroptera,order,RNA,37,Domains,0,0.45
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,1,0.692
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,2,0.566
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,3,0.667
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,4,0.788
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,5,0.737
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,6,0.737
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,7,0.677
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,8,0.626
-Pteropodidae,family,Chiroptera,order,RNA,44,DNA,9,0.646
-Pteropodidae,family,Chiroptera,order,RNA,44,AA,1,0.778
-Pteropodidae,family,Chiroptera,order,RNA,44,AA,2,0.838
-Pteropodidae,family,Chiroptera,order,RNA,44,AA,3,0.808
-Pteropodidae,family,Chiroptera,order,RNA,44,AA,4,0.747
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,1,0.237
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,2,0.596
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,3,0.677
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,4,0.818
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,5,0.717
-Pteropodidae,family,Chiroptera,order,RNA,44,PC,6,0.768
-Pteropodidae,family,Chiroptera,order,RNA,44,Domains,0,0.818
-Chiroptera,order,Mammalia,class,RNA,157,DNA,1,0.702
-Chiroptera,order,Mammalia,class,RNA,157,DNA,2,0.713
-Chiroptera,order,Mammalia,class,RNA,157,DNA,3,0.843
-Chiroptera,order,Mammalia,class,RNA,157,DNA,4,0.853
-Chiroptera,order,Mammalia,class,RNA,157,DNA,5,0.811
-Chiroptera,order,Mammalia,class,RNA,157,DNA,6,0.803
-Chiroptera,order,Mammalia,class,RNA,157,DNA,7,0.836
-Chiroptera,order,Mammalia,class,RNA,157,DNA,8,0.836
-Chiroptera,order,Mammalia,class,RNA,157,DNA,9,0.827
-Chiroptera,order,Mammalia,class,RNA,157,AA,1,0.765
-Chiroptera,order,Mammalia,class,RNA,157,AA,2,0.817
-Chiroptera,order,Mammalia,class,RNA,157,AA,3,0.919
-Chiroptera,order,Mammalia,class,RNA,157,AA,4,0.928
-Chiroptera,order,Mammalia,class,RNA,157,PC,1,0.714
-Chiroptera,order,Mammalia,class,RNA,157,PC,2,0.818
-Chiroptera,order,Mammalia,class,RNA,157,PC,3,0.876
-Chiroptera,order,Mammalia,class,RNA,157,PC,4,0.889
-Chiroptera,order,Mammalia,class,RNA,157,PC,5,0.892
-Chiroptera,order,Mammalia,class,RNA,157,PC,6,0.905
-Chiroptera,order,Mammalia,class,RNA,157,Domains,0,0.816
-Equus,genus,Mammalia,class,RNA,30,DNA,1,0.688
-Equus,genus,Mammalia,class,RNA,30,DNA,2,0.321
-Equus,genus,Mammalia,class,RNA,30,DNA,3,0.946
-Equus,genus,Mammalia,class,RNA,30,DNA,4,0.946
-Equus,genus,Mammalia,class,RNA,30,DNA,5,1.0
-Equus,genus,Mammalia,class,RNA,30,DNA,6,0.893
-Equus,genus,Mammalia,class,RNA,30,DNA,7,0.5
-Equus,genus,Mammalia,class,RNA,30,DNA,8,0.982
-Equus,genus,Mammalia,class,RNA,30,DNA,9,0.071
-Equus,genus,Mammalia,class,RNA,30,AA,1,0.078
-Equus,genus,Mammalia,class,RNA,30,AA,2,0.922
-Equus,genus,Mammalia,class,RNA,30,AA,3,1.0
-Equus,genus,Mammalia,class,RNA,30,AA,4,1.0
-Equus,genus,Mammalia,class,RNA,30,PC,1,0.703
-Equus,genus,Mammalia,class,RNA,30,PC,2,0.562
-Equus,genus,Mammalia,class,RNA,30,PC,3,0.734
-Equus,genus,Mammalia,class,RNA,30,PC,4,0.828
-Equus,genus,Mammalia,class,RNA,30,PC,5,0.812
-Equus,genus,Mammalia,class,RNA,30,PC,6,0.766
-Equus,genus,Mammalia,class,RNA,30,Domains,0,0.984
-Equidae,family,Mammalia,class,RNA,31,DNA,1,0.603
-Equidae,family,Mammalia,class,RNA,31,DNA,2,0.746
-Equidae,family,Mammalia,class,RNA,31,DNA,3,0.81
-Equidae,family,Mammalia,class,RNA,31,DNA,4,0.857
-Equidae,family,Mammalia,class,RNA,31,DNA,5,0.889
-Equidae,family,Mammalia,class,RNA,31,DNA,6,0.873
-Equidae,family,Mammalia,class,RNA,31,DNA,7,0.841
-Equidae,family,Mammalia,class,RNA,31,DNA,8,0.746
-Equidae,family,Mammalia,class,RNA,31,DNA,9,0.794
-Equidae,family,Mammalia,class,RNA,31,AA,1,0.683
-Equidae,family,Mammalia,class,RNA,31,AA,2,0.841
-Equidae,family,Mammalia,class,RNA,31,AA,3,0.873
-Equidae,family,Mammalia,class,RNA,31,AA,4,0.937
-Equidae,family,Mammalia,class,RNA,31,PC,1,0.222
-Equidae,family,Mammalia,class,RNA,31,PC,2,0.302
-Equidae,family,Mammalia,class,RNA,31,PC,3,0.794
-Equidae,family,Mammalia,class,RNA,31,PC,4,0.81
-Equidae,family,Mammalia,class,RNA,31,PC,5,0.841
-Equidae,family,Mammalia,class,RNA,31,PC,6,0.825
-Equidae,family,Mammalia,class,RNA,31,Domains,0,0.926
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,1,0.706
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,2,0.381
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,3,0.651
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,4,0.556
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,5,0.429
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,6,0.571
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,7,0.54
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,8,0.508
-Perissodactyla,order,Mammalia,class,RNA,31,DNA,9,0.556
-Perissodactyla,order,Mammalia,class,RNA,31,AA,1,0.429
-Perissodactyla,order,Mammalia,class,RNA,31,AA,2,0.651
-Perissodactyla,order,Mammalia,class,RNA,31,AA,3,0.619
-Perissodactyla,order,Mammalia,class,RNA,31,AA,4,0.429
-Perissodactyla,order,Mammalia,class,RNA,31,PC,1,0.373
-Perissodactyla,order,Mammalia,class,RNA,31,PC,2,0.46
-Perissodactyla,order,Mammalia,class,RNA,31,PC,3,0.46
-Perissodactyla,order,Mammalia,class,RNA,31,PC,4,0.508
-Perissodactyla,order,Mammalia,class,RNA,31,PC,5,0.556
-Perissodactyla,order,Mammalia,class,RNA,31,PC,6,0.54
-Perissodactyla,order,Mammalia,class,RNA,31,Domains,0,0.4
-Felis catus,species,Carnivora,order,RNA,38,DNA,1,0.588
-Felis catus,species,Carnivora,order,RNA,38,DNA,2,0.775
-Felis catus,species,Carnivora,order,RNA,38,DNA,3,0.75
-Felis catus,species,Carnivora,order,RNA,38,DNA,4,0.738
-Felis catus,species,Carnivora,order,RNA,38,DNA,5,0.812
-Felis catus,species,Carnivora,order,RNA,38,DNA,6,0.875
-Felis catus,species,Carnivora,order,RNA,38,DNA,7,0.862
-Felis catus,species,Carnivora,order,RNA,38,DNA,8,0.862
-Felis catus,species,Carnivora,order,RNA,38,DNA,9,0.825
-Felis catus,species,Carnivora,order,RNA,38,AA,1,0.487
-Felis catus,species,Carnivora,order,RNA,38,AA,2,0.962
-Felis catus,species,Carnivora,order,RNA,38,AA,3,0.8
-Felis catus,species,Carnivora,order,RNA,38,AA,4,0.825
-Felis catus,species,Carnivora,order,RNA,38,PC,1,0.688
-Felis catus,species,Carnivora,order,RNA,38,PC,2,0.9
-Felis catus,species,Carnivora,order,RNA,38,PC,3,0.7
-Felis catus,species,Carnivora,order,RNA,38,PC,4,0.712
-Felis catus,species,Carnivora,order,RNA,38,PC,5,0.775
-Felis catus,species,Carnivora,order,RNA,38,PC,6,0.812
-Felis catus,species,Carnivora,order,RNA,38,Domains,0,0.725
-Felis,genus,Carnivora,order,RNA,38,DNA,1,0.643
-Felis,genus,Carnivora,order,RNA,38,DNA,2,0.657
-Felis,genus,Carnivora,order,RNA,38,DNA,3,0.529
-Felis,genus,Carnivora,order,RNA,38,DNA,4,0.671
-Felis,genus,Carnivora,order,RNA,38,DNA,5,0.7
-Felis,genus,Carnivora,order,RNA,38,DNA,6,0.786
-Felis,genus,Carnivora,order,RNA,38,DNA,7,0.786
-Felis,genus,Carnivora,order,RNA,38,DNA,8,0.686
-Felis,genus,Carnivora,order,RNA,38,DNA,9,0.686
-Felis,genus,Carnivora,order,RNA,38,AA,1,0.875
-Felis,genus,Carnivora,order,RNA,38,AA,2,0.775
-Felis,genus,Carnivora,order,RNA,38,AA,3,0.738
-Felis,genus,Carnivora,order,RNA,38,AA,4,0.738
-Felis,genus,Carnivora,order,RNA,38,PC,1,0.725
-Felis,genus,Carnivora,order,RNA,38,PC,2,0.75
-Felis,genus,Carnivora,order,RNA,38,PC,3,0.75
-Felis,genus,Carnivora,order,RNA,38,PC,4,0.688
-Felis,genus,Carnivora,order,RNA,38,PC,5,0.763
-Felis,genus,Carnivora,order,RNA,38,PC,6,0.875
-Felis,genus,Carnivora,order,RNA,38,Domains,0,0.925
-Felidae,family,Carnivora,order,RNA,44,DNA,1,0.697
-Felidae,family,Carnivora,order,RNA,44,DNA,2,0.626
-Felidae,family,Carnivora,order,RNA,44,DNA,3,0.545
-Felidae,family,Carnivora,order,RNA,44,DNA,4,0.535
-Felidae,family,Carnivora,order,RNA,44,DNA,5,0.606
-Felidae,family,Carnivora,order,RNA,44,DNA,6,0.626
-Felidae,family,Carnivora,order,RNA,44,DNA,7,0.697
-Felidae,family,Carnivora,order,RNA,44,DNA,8,0.737
-Felidae,family,Carnivora,order,RNA,44,DNA,9,0.636
-Felidae,family,Carnivora,order,RNA,44,AA,1,0.818
-Felidae,family,Carnivora,order,RNA,44,AA,2,0.798
-Felidae,family,Carnivora,order,RNA,44,AA,3,0.717
-Felidae,family,Carnivora,order,RNA,44,AA,4,0.778
-Felidae,family,Carnivora,order,RNA,44,PC,1,0.838
-Felidae,family,Carnivora,order,RNA,44,PC,2,0.768
-Felidae,family,Carnivora,order,RNA,44,PC,3,0.768
-Felidae,family,Carnivora,order,RNA,44,PC,4,0.747
-Felidae,family,Carnivora,order,RNA,44,PC,5,0.707
-Felidae,family,Carnivora,order,RNA,44,PC,6,0.778
-Felidae,family,Carnivora,order,RNA,44,Domains,0,0.807
-Carnivora,order,Mammalia,class,RNA,92,DNA,1,0.788
-Carnivora,order,Mammalia,class,RNA,92,DNA,2,0.804
-Carnivora,order,Mammalia,class,RNA,92,DNA,3,0.717
-Carnivora,order,Mammalia,class,RNA,92,DNA,4,0.667
-Carnivora,order,Mammalia,class,RNA,92,DNA,5,0.738
-Carnivora,order,Mammalia,class,RNA,92,DNA,6,0.658
-Carnivora,order,Mammalia,class,RNA,92,DNA,7,0.65
-Carnivora,order,Mammalia,class,RNA,92,DNA,8,0.738
-Carnivora,order,Mammalia,class,RNA,92,DNA,9,0.854
-Carnivora,order,Mammalia,class,RNA,92,AA,1,0.633
-Carnivora,order,Mammalia,class,RNA,92,AA,2,0.872
-Carnivora,order,Mammalia,class,RNA,92,AA,3,0.706
-Carnivora,order,Mammalia,class,RNA,92,AA,4,0.92
-Carnivora,order,Mammalia,class,RNA,92,PC,1,0.775
-Carnivora,order,Mammalia,class,RNA,92,PC,2,0.806
-Carnivora,order,Mammalia,class,RNA,92,PC,3,0.865
-Carnivora,order,Mammalia,class,RNA,92,PC,4,0.92
-Carnivora,order,Mammalia,class,RNA,92,PC,5,0.965
-Carnivora,order,Mammalia,class,RNA,92,PC,6,0.969
-Carnivora,order,Mammalia,class,RNA,92,Domains,0,0.869
-Homo sapiens,species,Primates,order,RNA,250,DNA,1,0.6
-Homo sapiens,species,Primates,order,RNA,250,DNA,2,0.883
-Homo sapiens,species,Primates,order,RNA,250,DNA,3,0.896
-Homo sapiens,species,Primates,order,RNA,250,DNA,4,0.863
-Homo sapiens,species,Primates,order,RNA,250,DNA,5,0.877
-Homo sapiens,species,Primates,order,RNA,250,DNA,6,0.91
-Homo sapiens,species,Primates,order,RNA,250,DNA,7,0.913
-Homo sapiens,species,Primates,order,RNA,250,DNA,8,0.921
-Homo sapiens,species,Primates,order,RNA,250,DNA,9,0.916
-Homo sapiens,species,Primates,order,RNA,250,AA,1,0.862
-Homo sapiens,species,Primates,order,RNA,250,AA,2,0.874
-Homo sapiens,species,Primates,order,RNA,250,AA,3,0.898
-Homo sapiens,species,Primates,order,RNA,250,AA,4,0.919
-Homo sapiens,species,Primates,order,RNA,250,PC,1,0.54
-Homo sapiens,species,Primates,order,RNA,250,PC,2,0.745
-Homo sapiens,species,Primates,order,RNA,250,PC,3,0.845
-Homo sapiens,species,Primates,order,RNA,250,PC,4,0.893
-Homo sapiens,species,Primates,order,RNA,250,PC,5,0.903
-Homo sapiens,species,Primates,order,RNA,250,PC,6,0.91
-Homo sapiens,species,Primates,order,RNA,250,Domains,0,0.872
-Homo,genus,Primates,order,RNA,250,DNA,1,0.717
-Homo,genus,Primates,order,RNA,250,DNA,2,0.945
-Homo,genus,Primates,order,RNA,250,DNA,3,0.916
-Homo,genus,Primates,order,RNA,250,DNA,4,0.948
-Homo,genus,Primates,order,RNA,250,DNA,5,0.913
-Homo,genus,Primates,order,RNA,250,DNA,6,0.95
-Homo,genus,Primates,order,RNA,250,DNA,7,0.976
-Homo,genus,Primates,order,RNA,250,DNA,8,0.973
-Homo,genus,Primates,order,RNA,250,DNA,9,0.974
-Homo,genus,Primates,order,RNA,250,AA,1,0.906
-Homo,genus,Primates,order,RNA,250,AA,2,0.895
-Homo,genus,Primates,order,RNA,250,AA,3,0.961
-Homo,genus,Primates,order,RNA,250,AA,4,0.972
-Homo,genus,Primates,order,RNA,250,PC,1,0.63
-Homo,genus,Primates,order,RNA,250,PC,2,0.835
-Homo,genus,Primates,order,RNA,250,PC,3,0.871
-Homo,genus,Primates,order,RNA,250,PC,4,0.958
-Homo,genus,Primates,order,RNA,250,PC,5,0.966
-Homo,genus,Primates,order,RNA,250,PC,6,0.94
-Homo,genus,Primates,order,RNA,250,Domains,0,0.925
-Hominidae,family,Primates,order,RNA,250,DNA,1,0.755
-Hominidae,family,Primates,order,RNA,250,DNA,2,0.9
-Hominidae,family,Primates,order,RNA,250,DNA,3,0.931
-Hominidae,family,Primates,order,RNA,250,DNA,4,0.912
-Hominidae,family,Primates,order,RNA,250,DNA,5,0.918
-Hominidae,family,Primates,order,RNA,250,DNA,6,0.953
-Hominidae,family,Primates,order,RNA,250,DNA,7,0.963
-Hominidae,family,Primates,order,RNA,250,DNA,8,0.967
-Hominidae,family,Primates,order,RNA,250,DNA,9,0.977
-Hominidae,family,Primates,order,RNA,250,AA,1,0.915
-Hominidae,family,Primates,order,RNA,250,AA,2,0.921
-Hominidae,family,Primates,order,RNA,250,AA,3,0.949
-Hominidae,family,Primates,order,RNA,250,AA,4,0.97
-Hominidae,family,Primates,order,RNA,250,PC,1,0.721
-Hominidae,family,Primates,order,RNA,250,PC,2,0.896
-Hominidae,family,Primates,order,RNA,250,PC,3,0.891
-Hominidae,family,Primates,order,RNA,250,PC,4,0.925
-Hominidae,family,Primates,order,RNA,250,PC,5,0.961
-Hominidae,family,Primates,order,RNA,250,PC,6,0.943
-Hominidae,family,Primates,order,RNA,250,Domains,0,0.899
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,1,0.397
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,2,0.778
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,3,0.587
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,4,0.714
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,5,0.857
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,6,0.905
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,7,0.841
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,8,0.794
-Macaca,genus,Cercopithecidae,family,RNA,32,DNA,9,0.841
-Macaca,genus,Cercopithecidae,family,RNA,32,AA,1,0.619
-Macaca,genus,Cercopithecidae,family,RNA,32,AA,2,0.73
-Macaca,genus,Cercopithecidae,family,RNA,32,AA,3,0.778
-Macaca,genus,Cercopithecidae,family,RNA,32,AA,4,0.794
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,1,0.778
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,2,0.651
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,3,0.698
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,4,0.762
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,5,0.778
-Macaca,genus,Cercopithecidae,family,RNA,32,PC,6,0.762
-Macaca,genus,Cercopithecidae,family,RNA,32,Domains,0,0.746
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,1,0.596
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,2,0.838
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,3,0.788
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,4,0.828
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,5,0.828
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,6,0.788
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,7,0.818
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,8,0.828
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,DNA,9,0.869
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,AA,1,0.626
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,AA,2,0.788
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,AA,3,0.818
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,AA,4,0.838
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,1,0.717
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,2,0.859
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,3,0.707
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,4,0.788
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,5,0.818
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,PC,6,0.818
-Chlorocebus aethiops,species,Cercopithecidae,family,RNA,44,Domains,0,0.773
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,1,0.474
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,2,0.531
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,3,0.76
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,4,0.771
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,5,0.417
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,6,0.375
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,7,0.521
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,8,0.573
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,DNA,9,0.583
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,AA,1,0.776
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,AA,2,0.802
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,AA,3,0.604
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,AA,4,0.708
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,1,0.719
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,2,0.917
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,3,0.812
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,4,0.698
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,5,0.604
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,PC,6,0.792
-Chlorocebus,genus,Cercopithecidae,family,RNA,48,Domains,0,0.844
-Cercopithecidae,family,Primates,order,RNA,96,DNA,1,0.515
-Cercopithecidae,family,Primates,order,RNA,96,DNA,2,0.69
-Cercopithecidae,family,Primates,order,RNA,96,DNA,3,0.673
-Cercopithecidae,family,Primates,order,RNA,96,DNA,4,0.663
-Cercopithecidae,family,Primates,order,RNA,96,DNA,5,0.703
-Cercopithecidae,family,Primates,order,RNA,96,DNA,6,0.771
-Cercopithecidae,family,Primates,order,RNA,96,DNA,7,0.788
-Cercopithecidae,family,Primates,order,RNA,96,DNA,8,0.801
-Cercopithecidae,family,Primates,order,RNA,96,DNA,9,0.81
-Cercopithecidae,family,Primates,order,RNA,96,AA,1,0.776
-Cercopithecidae,family,Primates,order,RNA,96,AA,2,0.816
-Cercopithecidae,family,Primates,order,RNA,96,AA,3,0.79
-Cercopithecidae,family,Primates,order,RNA,96,AA,4,0.857
-Cercopithecidae,family,Primates,order,RNA,96,PC,1,0.857
-Cercopithecidae,family,Primates,order,RNA,96,PC,2,0.875
-Cercopithecidae,family,Primates,order,RNA,96,PC,3,0.754
-Cercopithecidae,family,Primates,order,RNA,96,PC,4,0.846
-Cercopithecidae,family,Primates,order,RNA,96,PC,5,0.915
-Cercopithecidae,family,Primates,order,RNA,96,PC,6,0.864
-Cercopithecidae,family,Primates,order,RNA,96,Domains,0,0.724
-Primates,order,Mammalia,class,RNA,250,DNA,1,0.734
-Primates,order,Mammalia,class,RNA,250,DNA,2,0.829
-Primates,order,Mammalia,class,RNA,250,DNA,3,0.885
-Primates,order,Mammalia,class,RNA,250,DNA,4,0.818
-Primates,order,Mammalia,class,RNA,250,DNA,5,0.907
-Primates,order,Mammalia,class,RNA,250,DNA,6,0.931
-Primates,order,Mammalia,class,RNA,250,DNA,7,0.931
-Primates,order,Mammalia,class,RNA,250,DNA,8,0.926
-Primates,order,Mammalia,class,RNA,250,DNA,9,0.923
-Primates,order,Mammalia,class,RNA,250,AA,1,0.862
-Primates,order,Mammalia,class,RNA,250,AA,2,0.912
-Primates,order,Mammalia,class,RNA,250,AA,3,0.942
-Primates,order,Mammalia,class,RNA,250,AA,4,0.931
-Primates,order,Mammalia,class,RNA,250,PC,1,0.715
-Primates,order,Mammalia,class,RNA,250,PC,2,0.761
-Primates,order,Mammalia,class,RNA,250,PC,3,0.862
-Primates,order,Mammalia,class,RNA,250,PC,4,0.949
-Primates,order,Mammalia,class,RNA,250,PC,5,0.942
-Primates,order,Mammalia,class,RNA,250,PC,6,0.942
-Primates,order,Mammalia,class,RNA,250,Domains,0,0.912
-Mus musculus,species,Muridae,family,RNA,111,DNA,1,0.72
-Mus musculus,species,Muridae,family,RNA,111,DNA,2,0.856
-Mus musculus,species,Muridae,family,RNA,111,DNA,3,0.796
-Mus musculus,species,Muridae,family,RNA,111,DNA,4,0.756
-Mus musculus,species,Muridae,family,RNA,111,DNA,5,0.842
-Mus musculus,species,Muridae,family,RNA,111,DNA,6,0.889
-Mus musculus,species,Muridae,family,RNA,111,DNA,7,0.88
-Mus musculus,species,Muridae,family,RNA,111,DNA,8,0.873
-Mus musculus,species,Muridae,family,RNA,111,DNA,9,0.9
-Mus musculus,species,Muridae,family,RNA,111,AA,1,0.811
-Mus musculus,species,Muridae,family,RNA,111,AA,2,0.8
-Mus musculus,species,Muridae,family,RNA,111,AA,3,0.903
-Mus musculus,species,Muridae,family,RNA,111,AA,4,0.943
-Mus musculus,species,Muridae,family,RNA,111,PC,1,0.827
-Mus musculus,species,Muridae,family,RNA,111,PC,2,0.678
-Mus musculus,species,Muridae,family,RNA,111,PC,3,0.785
-Mus musculus,species,Muridae,family,RNA,111,PC,4,0.863
-Mus musculus,species,Muridae,family,RNA,111,PC,5,0.895
-Mus musculus,species,Muridae,family,RNA,111,PC,6,0.872
-Mus musculus,species,Muridae,family,RNA,111,Domains,0,0.889
-Mus,genus,Muridae,family,RNA,121,DNA,1,0.75
-Mus,genus,Muridae,family,RNA,121,DNA,2,0.866
-Mus,genus,Muridae,family,RNA,121,DNA,3,0.84
-Mus,genus,Muridae,family,RNA,121,DNA,4,0.916
-Mus,genus,Muridae,family,RNA,121,DNA,5,0.953
-Mus,genus,Muridae,family,RNA,121,DNA,6,0.898
-Mus,genus,Muridae,family,RNA,121,DNA,7,0.919
-Mus,genus,Muridae,family,RNA,121,DNA,8,0.969
-Mus,genus,Muridae,family,RNA,121,DNA,9,0.96
-Mus,genus,Muridae,family,RNA,121,AA,1,0.849
-Mus,genus,Muridae,family,RNA,121,AA,2,0.895
-Mus,genus,Muridae,family,RNA,121,AA,3,0.938
-Mus,genus,Muridae,family,RNA,121,AA,4,0.975
-Mus,genus,Muridae,family,RNA,121,PC,1,0.744
-Mus,genus,Muridae,family,RNA,121,PC,2,0.782
-Mus,genus,Muridae,family,RNA,121,PC,3,0.874
-Mus,genus,Muridae,family,RNA,121,PC,4,0.957
-Mus,genus,Muridae,family,RNA,121,PC,5,0.936
-Mus,genus,Muridae,family,RNA,121,PC,6,0.979
-Mus,genus,Muridae,family,RNA,121,Domains,0,0.862
-Rattus,genus,Muridae,family,RNA,32,DNA,1,0.222
-Rattus,genus,Muridae,family,RNA,32,DNA,2,0.698
-Rattus,genus,Muridae,family,RNA,32,DNA,3,0.825
-Rattus,genus,Muridae,family,RNA,32,DNA,4,0.905
-Rattus,genus,Muridae,family,RNA,32,DNA,5,0.889
-Rattus,genus,Muridae,family,RNA,32,DNA,6,0.937
-Rattus,genus,Muridae,family,RNA,32,DNA,7,0.952
-Rattus,genus,Muridae,family,RNA,32,DNA,8,0.952
-Rattus,genus,Muridae,family,RNA,32,DNA,9,0.921
-Rattus,genus,Muridae,family,RNA,32,AA,1,0.571
-Rattus,genus,Muridae,family,RNA,32,AA,2,0.937
-Rattus,genus,Muridae,family,RNA,32,AA,3,0.968
-Rattus,genus,Muridae,family,RNA,32,AA,4,0.873
-Rattus,genus,Muridae,family,RNA,32,PC,1,0.873
-Rattus,genus,Muridae,family,RNA,32,PC,2,0.889
-Rattus,genus,Muridae,family,RNA,32,PC,3,0.825
-Rattus,genus,Muridae,family,RNA,32,PC,4,0.921
-Rattus,genus,Muridae,family,RNA,32,PC,5,0.794
-Rattus,genus,Muridae,family,RNA,32,PC,6,0.825
-Rattus,genus,Muridae,family,RNA,32,Domains,0,0.843
-Muridae,family,Rodentia,order,RNA,173,DNA,1,0.732
-Muridae,family,Rodentia,order,RNA,173,DNA,2,0.896
-Muridae,family,Rodentia,order,RNA,173,DNA,3,0.912
-Muridae,family,Rodentia,order,RNA,173,DNA,4,0.88
-Muridae,family,Rodentia,order,RNA,173,DNA,5,0.872
-Muridae,family,Rodentia,order,RNA,173,DNA,6,0.897
-Muridae,family,Rodentia,order,RNA,173,DNA,7,0.891
-Muridae,family,Rodentia,order,RNA,173,DNA,8,0.896
-Muridae,family,Rodentia,order,RNA,173,DNA,9,0.886
-Muridae,family,Rodentia,order,RNA,173,AA,1,0.87
-Muridae,family,Rodentia,order,RNA,173,AA,2,0.768
-Muridae,family,Rodentia,order,RNA,173,AA,3,0.877
-Muridae,family,Rodentia,order,RNA,173,AA,4,0.874
-Muridae,family,Rodentia,order,RNA,173,PC,1,0.645
-Muridae,family,Rodentia,order,RNA,173,PC,2,0.82
-Muridae,family,Rodentia,order,RNA,173,PC,3,0.746
-Muridae,family,Rodentia,order,RNA,173,PC,4,0.874
-Muridae,family,Rodentia,order,RNA,173,PC,5,0.875
-Muridae,family,Rodentia,order,RNA,173,PC,6,0.911
-Muridae,family,Rodentia,order,RNA,173,Domains,0,0.878
-Cricetidae,family,Rodentia,order,RNA,84,DNA,1,0.672
-Cricetidae,family,Rodentia,order,RNA,84,DNA,2,0.243
-Cricetidae,family,Rodentia,order,RNA,84,DNA,3,0.793
-Cricetidae,family,Rodentia,order,RNA,84,DNA,4,0.826
-Cricetidae,family,Rodentia,order,RNA,84,DNA,5,0.922
-Cricetidae,family,Rodentia,order,RNA,84,DNA,6,0.919
-Cricetidae,family,Rodentia,order,RNA,84,DNA,7,0.919
-Cricetidae,family,Rodentia,order,RNA,84,DNA,8,0.889
-Cricetidae,family,Rodentia,order,RNA,84,DNA,9,0.844
-Cricetidae,family,Rodentia,order,RNA,84,AA,1,0.726
-Cricetidae,family,Rodentia,order,RNA,84,AA,2,0.889
-Cricetidae,family,Rodentia,order,RNA,84,AA,3,0.861
-Cricetidae,family,Rodentia,order,RNA,84,AA,4,0.889
-Cricetidae,family,Rodentia,order,RNA,84,PC,1,0.635
-Cricetidae,family,Rodentia,order,RNA,84,PC,2,0.771
-Cricetidae,family,Rodentia,order,RNA,84,PC,3,0.809
-Cricetidae,family,Rodentia,order,RNA,84,PC,4,0.837
-Cricetidae,family,Rodentia,order,RNA,84,PC,5,0.865
-Cricetidae,family,Rodentia,order,RNA,84,PC,6,0.92
-Cricetidae,family,Rodentia,order,RNA,84,Domains,0,0.841
-Rodentia,order,Mammalia,class,RNA,250,DNA,1,0.678
-Rodentia,order,Mammalia,class,RNA,250,DNA,2,0.858
-Rodentia,order,Mammalia,class,RNA,250,DNA,3,0.831
-Rodentia,order,Mammalia,class,RNA,250,DNA,4,0.935
-Rodentia,order,Mammalia,class,RNA,250,DNA,5,0.912
-Rodentia,order,Mammalia,class,RNA,250,DNA,6,0.937
-Rodentia,order,Mammalia,class,RNA,250,DNA,7,0.932
-Rodentia,order,Mammalia,class,RNA,250,DNA,8,0.921
-Rodentia,order,Mammalia,class,RNA,250,DNA,9,0.922
-Rodentia,order,Mammalia,class,RNA,250,AA,1,0.819
-Rodentia,order,Mammalia,class,RNA,250,AA,2,0.812
-Rodentia,order,Mammalia,class,RNA,250,AA,3,0.87
-Rodentia,order,Mammalia,class,RNA,250,AA,4,0.87
-Rodentia,order,Mammalia,class,RNA,250,PC,1,0.78
-Rodentia,order,Mammalia,class,RNA,250,PC,2,0.818
-Rodentia,order,Mammalia,class,RNA,250,PC,3,0.789
-Rodentia,order,Mammalia,class,RNA,250,PC,4,0.829
-Rodentia,order,Mammalia,class,RNA,250,PC,5,0.837
-Rodentia,order,Mammalia,class,RNA,250,PC,6,0.861
-Rodentia,order,Mammalia,class,RNA,250,Domains,0,0.807
-Mammalia,class,Chordata,phylum,RNA,250,DNA,1,0.655
-Mammalia,class,Chordata,phylum,RNA,250,DNA,2,0.888
-Mammalia,class,Chordata,phylum,RNA,250,DNA,3,0.884
-Mammalia,class,Chordata,phylum,RNA,250,DNA,4,0.857
-Mammalia,class,Chordata,phylum,RNA,250,DNA,5,0.932
-Mammalia,class,Chordata,phylum,RNA,250,DNA,6,0.923
-Mammalia,class,Chordata,phylum,RNA,250,DNA,7,0.932
-Mammalia,class,Chordata,phylum,RNA,250,DNA,8,0.94
-Mammalia,class,Chordata,phylum,RNA,250,DNA,9,0.944
-Mammalia,class,Chordata,phylum,RNA,250,AA,1,0.847
-Mammalia,class,Chordata,phylum,RNA,250,AA,2,0.892
-Mammalia,class,Chordata,phylum,RNA,250,AA,3,0.928
-Mammalia,class,Chordata,phylum,RNA,250,AA,4,0.963
-Mammalia,class,Chordata,phylum,RNA,250,PC,1,0.65
-Mammalia,class,Chordata,phylum,RNA,250,PC,2,0.798
-Mammalia,class,Chordata,phylum,RNA,250,PC,3,0.894
-Mammalia,class,Chordata,phylum,RNA,250,PC,4,0.923
-Mammalia,class,Chordata,phylum,RNA,250,PC,5,0.931
-Mammalia,class,Chordata,phylum,RNA,250,PC,6,0.948
-Mammalia,class,Chordata,phylum,RNA,250,Domains,0,0.876
-Gallus gallus,species,Aves,class,RNA,44,DNA,1,0.455
-Gallus gallus,species,Aves,class,RNA,44,DNA,2,0.465
-Gallus gallus,species,Aves,class,RNA,44,DNA,3,0.838
-Gallus gallus,species,Aves,class,RNA,44,DNA,4,0.768
-Gallus gallus,species,Aves,class,RNA,44,DNA,5,0.667
-Gallus gallus,species,Aves,class,RNA,44,DNA,6,0.677
-Gallus gallus,species,Aves,class,RNA,44,DNA,7,0.626
-Gallus gallus,species,Aves,class,RNA,44,DNA,8,0.626
-Gallus gallus,species,Aves,class,RNA,44,DNA,9,0.657
-Gallus gallus,species,Aves,class,RNA,44,AA,1,0.596
-Gallus gallus,species,Aves,class,RNA,44,AA,2,0.707
-Gallus gallus,species,Aves,class,RNA,44,AA,3,0.657
-Gallus gallus,species,Aves,class,RNA,44,AA,4,0.707
-Gallus gallus,species,Aves,class,RNA,44,PC,1,0.707
-Gallus gallus,species,Aves,class,RNA,44,PC,2,0.606
-Gallus gallus,species,Aves,class,RNA,44,PC,3,0.737
-Gallus gallus,species,Aves,class,RNA,44,PC,4,0.697
-Gallus gallus,species,Aves,class,RNA,44,PC,5,0.667
-Gallus gallus,species,Aves,class,RNA,44,PC,6,0.707
-Gallus gallus,species,Aves,class,RNA,44,Domains,0,0.768
-Phasianidae,family,Aves,class,RNA,58,DNA,1,0.513
-Phasianidae,family,Aves,class,RNA,58,DNA,2,0.59
-Phasianidae,family,Aves,class,RNA,58,DNA,3,0.795
-Phasianidae,family,Aves,class,RNA,58,DNA,4,0.795
-Phasianidae,family,Aves,class,RNA,58,DNA,5,0.833
-Phasianidae,family,Aves,class,RNA,58,DNA,6,0.808
-Phasianidae,family,Aves,class,RNA,58,DNA,7,0.808
-Phasianidae,family,Aves,class,RNA,58,DNA,8,0.821
-Phasianidae,family,Aves,class,RNA,58,DNA,9,0.833
-Phasianidae,family,Aves,class,RNA,58,AA,1,0.736
-Phasianidae,family,Aves,class,RNA,58,AA,2,0.901
-Phasianidae,family,Aves,class,RNA,58,AA,3,0.824
-Phasianidae,family,Aves,class,RNA,58,AA,4,0.857
-Phasianidae,family,Aves,class,RNA,58,PC,1,0.648
-Phasianidae,family,Aves,class,RNA,58,PC,2,0.725
-Phasianidae,family,Aves,class,RNA,58,PC,3,0.637
-Phasianidae,family,Aves,class,RNA,58,PC,4,0.769
-Phasianidae,family,Aves,class,RNA,58,PC,5,0.791
-Phasianidae,family,Aves,class,RNA,58,PC,6,0.813
-Phasianidae,family,Aves,class,RNA,58,Domains,0,0.835
-Galliformes,order,Aves,class,RNA,66,DNA,1,0.754
-Galliformes,order,Aves,class,RNA,66,DNA,2,0.885
-Galliformes,order,Aves,class,RNA,66,DNA,3,0.792
-Galliformes,order,Aves,class,RNA,66,DNA,4,0.923
-Galliformes,order,Aves,class,RNA,66,DNA,5,0.915
-Galliformes,order,Aves,class,RNA,66,DNA,6,0.954
-Galliformes,order,Aves,class,RNA,66,DNA,7,0.908
-Galliformes,order,Aves,class,RNA,66,DNA,8,0.846
-Galliformes,order,Aves,class,RNA,66,DNA,9,0.862
-Galliformes,order,Aves,class,RNA,66,AA,1,0.877
-Galliformes,order,Aves,class,RNA,66,AA,2,0.812
-Galliformes,order,Aves,class,RNA,66,AA,3,0.786
-Galliformes,order,Aves,class,RNA,66,AA,4,0.942
-Galliformes,order,Aves,class,RNA,66,PC,1,0.773
-Galliformes,order,Aves,class,RNA,66,PC,2,0.552
-Galliformes,order,Aves,class,RNA,66,PC,3,0.747
-Galliformes,order,Aves,class,RNA,66,PC,4,0.89
-Galliformes,order,Aves,class,RNA,66,PC,5,0.831
-Galliformes,order,Aves,class,RNA,66,PC,6,0.844
-Galliformes,order,Aves,class,RNA,66,Domains,0,0.773
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,1,0.125
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,2,0.917
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,3,0.979
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,4,0.979
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,5,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,6,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,7,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,8,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,DNA,9,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,AA,1,0.979
-Anas platyrhynchos,species,Aves,class,RNA,28,AA,2,1.0
-Anas platyrhynchos,species,Aves,class,RNA,28,AA,3,0.979
-Anas platyrhynchos,species,Aves,class,RNA,28,AA,4,0.958
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,1,0.688
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,2,0.771
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,3,0.917
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,4,0.938
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,5,0.958
-Anas platyrhynchos,species,Aves,class,RNA,28,PC,6,0.979
-Anas platyrhynchos,species,Aves,class,RNA,28,Domains,0,0.875
-Anas,genus,Aves,class,RNA,31,DNA,1,0.476
-Anas,genus,Aves,class,RNA,31,DNA,2,0.794
-Anas,genus,Aves,class,RNA,31,DNA,3,0.841
-Anas,genus,Aves,class,RNA,31,DNA,4,0.984
-Anas,genus,Aves,class,RNA,31,DNA,5,1.0
-Anas,genus,Aves,class,RNA,31,DNA,6,0.984
-Anas,genus,Aves,class,RNA,31,DNA,7,0.984
-Anas,genus,Aves,class,RNA,31,DNA,8,0.937
-Anas,genus,Aves,class,RNA,31,DNA,9,0.921
-Anas,genus,Aves,class,RNA,31,AA,1,1.0
-Anas,genus,Aves,class,RNA,31,AA,2,0.944
-Anas,genus,Aves,class,RNA,31,AA,3,1.0
-Anas,genus,Aves,class,RNA,31,AA,4,0.889
-Anas,genus,Aves,class,RNA,31,PC,1,0.852
-Anas,genus,Aves,class,RNA,31,PC,2,0.759
-Anas,genus,Aves,class,RNA,31,PC,3,0.815
-Anas,genus,Aves,class,RNA,31,PC,4,0.778
-Anas,genus,Aves,class,RNA,31,PC,5,0.815
-Anas,genus,Aves,class,RNA,31,PC,6,0.833
-Anas,genus,Aves,class,RNA,31,Domains,0,0.676
-Anatidae,family,Aves,class,RNA,47,DNA,1,0.51
-Anatidae,family,Aves,class,RNA,47,DNA,2,0.802
-Anatidae,family,Aves,class,RNA,47,DNA,3,0.823
-Anatidae,family,Aves,class,RNA,47,DNA,4,0.938
-Anatidae,family,Aves,class,RNA,47,DNA,5,0.938
-Anatidae,family,Aves,class,RNA,47,DNA,6,0.938
-Anatidae,family,Aves,class,RNA,47,DNA,7,0.927
-Anatidae,family,Aves,class,RNA,47,DNA,8,0.906
-Anatidae,family,Aves,class,RNA,47,DNA,9,0.865
-Anatidae,family,Aves,class,RNA,47,AA,1,0.917
-Anatidae,family,Aves,class,RNA,47,AA,2,0.865
-Anatidae,family,Aves,class,RNA,47,AA,3,0.938
-Anatidae,family,Aves,class,RNA,47,AA,4,0.958
-Anatidae,family,Aves,class,RNA,47,PC,1,0.859
-Anatidae,family,Aves,class,RNA,47,PC,2,0.812
-Anatidae,family,Aves,class,RNA,47,PC,3,0.76
-Anatidae,family,Aves,class,RNA,47,PC,4,0.906
-Anatidae,family,Aves,class,RNA,47,PC,5,0.844
-Anatidae,family,Aves,class,RNA,47,PC,6,0.958
-Anatidae,family,Aves,class,RNA,47,Domains,0,0.99
-Aves,class,Chordata,phylum,RNA,185,DNA,1,0.567
-Aves,class,Chordata,phylum,RNA,185,DNA,2,0.643
-Aves,class,Chordata,phylum,RNA,185,DNA,3,0.831
-Aves,class,Chordata,phylum,RNA,185,DNA,4,0.893
-Aves,class,Chordata,phylum,RNA,185,DNA,5,0.947
-Aves,class,Chordata,phylum,RNA,185,DNA,6,0.96
-Aves,class,Chordata,phylum,RNA,185,DNA,7,0.968
-Aves,class,Chordata,phylum,RNA,185,DNA,8,0.967
-Aves,class,Chordata,phylum,RNA,185,DNA,9,0.976
-Aves,class,Chordata,phylum,RNA,185,AA,1,0.802
-Aves,class,Chordata,phylum,RNA,185,AA,2,0.87
-Aves,class,Chordata,phylum,RNA,185,AA,3,0.954
-Aves,class,Chordata,phylum,RNA,185,AA,4,0.975
-Aves,class,Chordata,phylum,RNA,185,PC,1,0.653
-Aves,class,Chordata,phylum,RNA,185,PC,2,0.738
-Aves,class,Chordata,phylum,RNA,185,PC,3,0.845
-Aves,class,Chordata,phylum,RNA,185,PC,4,0.927
-Aves,class,Chordata,phylum,RNA,185,PC,5,0.951
-Aves,class,Chordata,phylum,RNA,185,PC,6,0.974
-Aves,class,Chordata,phylum,RNA,185,Domains,0,0.929
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,1,0.555
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,2,0.917
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,3,0.938
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,4,0.891
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,5,0.918
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,6,0.95
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,7,0.962
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,8,0.962
-Chordata,phylum,Metazoa,kingdom,RNA,250,DNA,9,0.955
-Chordata,phylum,Metazoa,kingdom,RNA,250,AA,1,0.912
-Chordata,phylum,Metazoa,kingdom,RNA,250,AA,2,0.921
-Chordata,phylum,Metazoa,kingdom,RNA,250,AA,3,0.958
-Chordata,phylum,Metazoa,kingdom,RNA,250,AA,4,0.959
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,1,0.717
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,2,0.868
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,3,0.894
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,4,0.942
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,5,0.967
-Chordata,phylum,Metazoa,kingdom,RNA,250,PC,6,0.962
-Chordata,phylum,Metazoa,kingdom,RNA,250,Domains,0,0.959
-Hymenoptera,order,Insecta,class,RNA,38,DNA,1,0.85
-Hymenoptera,order,Insecta,class,RNA,38,DNA,2,0.95
-Hymenoptera,order,Insecta,class,RNA,38,DNA,3,0.8
-Hymenoptera,order,Insecta,class,RNA,38,DNA,4,0.825
-Hymenoptera,order,Insecta,class,RNA,38,DNA,5,0.938
-Hymenoptera,order,Insecta,class,RNA,38,DNA,6,0.912
-Hymenoptera,order,Insecta,class,RNA,38,DNA,7,0.9
-Hymenoptera,order,Insecta,class,RNA,38,DNA,8,0.925
-Hymenoptera,order,Insecta,class,RNA,38,DNA,9,0.9
-Hymenoptera,order,Insecta,class,RNA,38,AA,1,1.0
-Hymenoptera,order,Insecta,class,RNA,38,AA,2,0.962
-Hymenoptera,order,Insecta,class,RNA,38,AA,3,0.988
-Hymenoptera,order,Insecta,class,RNA,38,AA,4,0.925
-Hymenoptera,order,Insecta,class,RNA,38,PC,1,0.812
-Hymenoptera,order,Insecta,class,RNA,38,PC,2,0.675
-Hymenoptera,order,Insecta,class,RNA,38,PC,3,0.925
-Hymenoptera,order,Insecta,class,RNA,38,PC,4,0.975
-Hymenoptera,order,Insecta,class,RNA,38,PC,5,1.0
-Hymenoptera,order,Insecta,class,RNA,38,PC,6,0.962
-Hymenoptera,order,Insecta,class,RNA,38,Domains,0,0.962
-Aedes,genus,Culicidae,family,RNA,47,DNA,1,0.635
-Aedes,genus,Culicidae,family,RNA,47,DNA,2,0.594
-Aedes,genus,Culicidae,family,RNA,47,DNA,3,0.885
-Aedes,genus,Culicidae,family,RNA,47,DNA,4,0.865
-Aedes,genus,Culicidae,family,RNA,47,DNA,5,0.656
-Aedes,genus,Culicidae,family,RNA,47,DNA,6,0.708
-Aedes,genus,Culicidae,family,RNA,47,DNA,7,0.792
-Aedes,genus,Culicidae,family,RNA,47,DNA,8,0.771
-Aedes,genus,Culicidae,family,RNA,47,DNA,9,0.812
-Aedes,genus,Culicidae,family,RNA,47,AA,1,0.792
-Aedes,genus,Culicidae,family,RNA,47,AA,2,0.552
-Aedes,genus,Culicidae,family,RNA,47,AA,3,0.844
-Aedes,genus,Culicidae,family,RNA,47,AA,4,0.875
-Aedes,genus,Culicidae,family,RNA,47,PC,1,0.677
-Aedes,genus,Culicidae,family,RNA,47,PC,2,0.792
-Aedes,genus,Culicidae,family,RNA,47,PC,3,0.615
-Aedes,genus,Culicidae,family,RNA,47,PC,4,0.906
-Aedes,genus,Culicidae,family,RNA,47,PC,5,0.917
-Aedes,genus,Culicidae,family,RNA,47,PC,6,0.917
-Aedes,genus,Culicidae,family,RNA,47,Domains,0,0.698
-Culex,genus,Culicidae,family,RNA,74,DNA,1,0.714
-Culex,genus,Culicidae,family,RNA,74,DNA,2,0.8
-Culex,genus,Culicidae,family,RNA,74,DNA,3,0.852
-Culex,genus,Culicidae,family,RNA,74,DNA,4,0.81
-Culex,genus,Culicidae,family,RNA,74,DNA,5,0.795
-Culex,genus,Culicidae,family,RNA,74,DNA,6,0.81
-Culex,genus,Culicidae,family,RNA,74,DNA,7,0.824
-Culex,genus,Culicidae,family,RNA,74,DNA,8,0.819
-Culex,genus,Culicidae,family,RNA,74,DNA,9,0.79
-Culex,genus,Culicidae,family,RNA,74,AA,1,0.604
-Culex,genus,Culicidae,family,RNA,74,AA,2,0.8
-Culex,genus,Culicidae,family,RNA,74,AA,3,0.836
-Culex,genus,Culicidae,family,RNA,74,AA,4,0.871
-Culex,genus,Culicidae,family,RNA,74,PC,1,0.573
-Culex,genus,Culicidae,family,RNA,74,PC,2,0.529
-Culex,genus,Culicidae,family,RNA,74,PC,3,0.756
-Culex,genus,Culicidae,family,RNA,74,PC,4,0.809
-Culex,genus,Culicidae,family,RNA,74,PC,5,0.831
-Culex,genus,Culicidae,family,RNA,74,PC,6,0.849
-Culex,genus,Culicidae,family,RNA,74,Domains,0,0.851
-Culicidae,family,Diptera,order,RNA,174,DNA,1,0.557
-Culicidae,family,Diptera,order,RNA,174,DNA,2,0.843
-Culicidae,family,Diptera,order,RNA,174,DNA,3,0.931
-Culicidae,family,Diptera,order,RNA,174,DNA,4,0.863
-Culicidae,family,Diptera,order,RNA,174,DNA,5,0.889
-Culicidae,family,Diptera,order,RNA,174,DNA,6,0.91
-Culicidae,family,Diptera,order,RNA,174,DNA,7,0.904
-Culicidae,family,Diptera,order,RNA,174,DNA,8,0.894
-Culicidae,family,Diptera,order,RNA,174,DNA,9,0.875
-Culicidae,family,Diptera,order,RNA,174,AA,1,0.845
-Culicidae,family,Diptera,order,RNA,174,AA,2,0.898
-Culicidae,family,Diptera,order,RNA,174,AA,3,0.91
-Culicidae,family,Diptera,order,RNA,174,AA,4,0.906
-Culicidae,family,Diptera,order,RNA,174,PC,1,0.689
-Culicidae,family,Diptera,order,RNA,174,PC,2,0.831
-Culicidae,family,Diptera,order,RNA,174,PC,3,0.843
-Culicidae,family,Diptera,order,RNA,174,PC,4,0.899
-Culicidae,family,Diptera,order,RNA,174,PC,5,0.887
-Culicidae,family,Diptera,order,RNA,174,PC,6,0.893
-Culicidae,family,Diptera,order,RNA,174,Domains,0,0.814
-Diptera,order,Insecta,class,RNA,246,DNA,1,0.672
-Diptera,order,Insecta,class,RNA,246,DNA,2,0.799
-Diptera,order,Insecta,class,RNA,246,DNA,3,0.864
-Diptera,order,Insecta,class,RNA,246,DNA,4,0.857
-Diptera,order,Insecta,class,RNA,246,DNA,5,0.877
-Diptera,order,Insecta,class,RNA,246,DNA,6,0.907
-Diptera,order,Insecta,class,RNA,246,DNA,7,0.922
-Diptera,order,Insecta,class,RNA,246,DNA,8,0.918
-Diptera,order,Insecta,class,RNA,246,DNA,9,0.922
-Diptera,order,Insecta,class,RNA,246,AA,1,0.827
-Diptera,order,Insecta,class,RNA,246,AA,2,0.798
-Diptera,order,Insecta,class,RNA,246,AA,3,0.917
-Diptera,order,Insecta,class,RNA,246,AA,4,0.928
-Diptera,order,Insecta,class,RNA,246,PC,1,0.706
-Diptera,order,Insecta,class,RNA,246,PC,2,0.8
-Diptera,order,Insecta,class,RNA,246,PC,3,0.783
-Diptera,order,Insecta,class,RNA,246,PC,4,0.874
-Diptera,order,Insecta,class,RNA,246,PC,5,0.934
-Diptera,order,Insecta,class,RNA,246,PC,6,0.93
-Diptera,order,Insecta,class,RNA,246,Domains,0,0.86
-Lepidoptera,order,Insecta,class,RNA,40,DNA,1,0.545
-Lepidoptera,order,Insecta,class,RNA,40,DNA,2,0.909
-Lepidoptera,order,Insecta,class,RNA,40,DNA,3,0.792
-Lepidoptera,order,Insecta,class,RNA,40,DNA,4,0.753
-Lepidoptera,order,Insecta,class,RNA,40,DNA,5,0.831
-Lepidoptera,order,Insecta,class,RNA,40,DNA,6,0.805
-Lepidoptera,order,Insecta,class,RNA,40,DNA,7,0.831
-Lepidoptera,order,Insecta,class,RNA,40,DNA,8,0.818
-Lepidoptera,order,Insecta,class,RNA,40,DNA,9,0.831
-Lepidoptera,order,Insecta,class,RNA,40,AA,1,0.831
-Lepidoptera,order,Insecta,class,RNA,40,AA,2,0.948
-Lepidoptera,order,Insecta,class,RNA,40,AA,3,0.896
-Lepidoptera,order,Insecta,class,RNA,40,AA,4,0.883
-Lepidoptera,order,Insecta,class,RNA,40,PC,1,0.571
-Lepidoptera,order,Insecta,class,RNA,40,PC,2,0.883
-Lepidoptera,order,Insecta,class,RNA,40,PC,3,0.779
-Lepidoptera,order,Insecta,class,RNA,40,PC,4,0.935
-Lepidoptera,order,Insecta,class,RNA,40,PC,5,0.968
-Lepidoptera,order,Insecta,class,RNA,40,PC,6,0.974
-Lepidoptera,order,Insecta,class,RNA,40,Domains,0,0.675
-Hemiptera,order,Insecta,class,RNA,50,DNA,1,0.139
-Hemiptera,order,Insecta,class,RNA,50,DNA,2,0.806
-Hemiptera,order,Insecta,class,RNA,50,DNA,3,0.708
-Hemiptera,order,Insecta,class,RNA,50,DNA,4,0.625
-Hemiptera,order,Insecta,class,RNA,50,DNA,5,0.722
-Hemiptera,order,Insecta,class,RNA,50,DNA,6,0.806
-Hemiptera,order,Insecta,class,RNA,50,DNA,7,0.875
-Hemiptera,order,Insecta,class,RNA,50,DNA,8,0.903
-Hemiptera,order,Insecta,class,RNA,50,DNA,9,0.931
-Hemiptera,order,Insecta,class,RNA,50,AA,1,0.653
-Hemiptera,order,Insecta,class,RNA,50,AA,2,0.639
-Hemiptera,order,Insecta,class,RNA,50,AA,3,0.958
-Hemiptera,order,Insecta,class,RNA,50,AA,4,0.917
-Hemiptera,order,Insecta,class,RNA,50,PC,1,0.472
-Hemiptera,order,Insecta,class,RNA,50,PC,2,0.556
-Hemiptera,order,Insecta,class,RNA,50,PC,3,0.75
-Hemiptera,order,Insecta,class,RNA,50,PC,4,0.736
-Hemiptera,order,Insecta,class,RNA,50,PC,5,0.764
-Hemiptera,order,Insecta,class,RNA,50,PC,6,0.708
-Hemiptera,order,Insecta,class,RNA,50,Domains,0,0.868
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,1,0.728
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,2,0.828
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,3,0.896
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,4,0.814
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,5,0.865
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,6,0.897
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,7,0.905
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,8,0.886
-Insecta,class,Arthropoda,phylum,RNA,250,DNA,9,0.877
-Insecta,class,Arthropoda,phylum,RNA,250,AA,1,0.863
-Insecta,class,Arthropoda,phylum,RNA,250,AA,2,0.858
-Insecta,class,Arthropoda,phylum,RNA,250,AA,3,0.884
-Insecta,class,Arthropoda,phylum,RNA,250,AA,4,0.93
-Insecta,class,Arthropoda,phylum,RNA,250,PC,1,0.767
-Insecta,class,Arthropoda,phylum,RNA,250,PC,2,0.816
-Insecta,class,Arthropoda,phylum,RNA,250,PC,3,0.77
-Insecta,class,Arthropoda,phylum,RNA,250,PC,4,0.859
-Insecta,class,Arthropoda,phylum,RNA,250,PC,5,0.9
-Insecta,class,Arthropoda,phylum,RNA,250,PC,6,0.926
-Insecta,class,Arthropoda,phylum,RNA,250,Domains,0,0.945
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,1,0.76
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,2,0.896
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,3,0.875
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,4,0.948
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,5,0.969
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,6,0.979
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,7,0.958
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,8,0.938
-Ixodidae,family,Arthropoda,phylum,RNA,48,DNA,9,0.917
-Ixodidae,family,Arthropoda,phylum,RNA,48,AA,1,0.838
-Ixodidae,family,Arthropoda,phylum,RNA,48,AA,2,0.862
-Ixodidae,family,Arthropoda,phylum,RNA,48,AA,3,0.825
-Ixodidae,family,Arthropoda,phylum,RNA,48,AA,4,0.9
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,1,0.725
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,2,0.688
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,3,0.712
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,4,0.788
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,5,0.888
-Ixodidae,family,Arthropoda,phylum,RNA,48,PC,6,0.862
-Ixodidae,family,Arthropoda,phylum,RNA,48,Domains,0,0.875
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,1,0.31
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,2,0.893
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,3,0.726
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,4,0.869
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,5,0.94
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,6,0.952
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,7,0.952
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,8,0.917
-Ixodida,order,Arthropoda,phylum,RNA,61,DNA,9,0.905
-Ixodida,order,Arthropoda,phylum,RNA,61,AA,1,0.857
-Ixodida,order,Arthropoda,phylum,RNA,61,AA,2,0.776
-Ixodida,order,Arthropoda,phylum,RNA,61,AA,3,0.898
-Ixodida,order,Arthropoda,phylum,RNA,61,AA,4,1.0
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,1,0.52
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,2,0.755
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,3,0.653
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,4,0.918
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,5,0.969
-Ixodida,order,Arthropoda,phylum,RNA,61,PC,6,1.0
-Ixodida,order,Arthropoda,phylum,RNA,61,Domains,0,0.959
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,1,0.514
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,2,0.852
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,3,0.895
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,4,0.948
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,5,0.919
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,6,0.881
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,7,0.919
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,8,0.929
-Arachnida,class,Arthropoda,phylum,RNA,70,DNA,9,0.919
-Arachnida,class,Arthropoda,phylum,RNA,70,AA,1,0.821
-Arachnida,class,Arthropoda,phylum,RNA,70,AA,2,0.878
-Arachnida,class,Arthropoda,phylum,RNA,70,AA,3,0.908
-Arachnida,class,Arthropoda,phylum,RNA,70,AA,4,0.959
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,1,0.699
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,2,0.745
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,3,0.704
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,4,0.878
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,5,0.857
-Arachnida,class,Arthropoda,phylum,RNA,70,PC,6,0.852
-Arachnida,class,Arthropoda,phylum,RNA,70,Domains,0,0.953
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,1,0.589
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,2,0.742
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,3,0.831
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,4,0.861
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,5,0.875
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,6,0.923
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,7,0.923
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,8,0.894
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,DNA,9,0.881
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,AA,1,0.824
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,AA,2,0.854
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,AA,3,0.927
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,AA,4,0.953
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,1,0.657
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,2,0.734
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,3,0.763
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,4,0.872
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,5,0.902
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,PC,6,0.937
-Arthropoda,phylum,Metazoa,kingdom,RNA,250,Domains,0,0.92
+label,label_tax,pool_label,pool_tax,Baltimore,N,Features,k,AUC,Acc,Spec,Sens,FDR,TP,TN,FP,FN
+Bos,genus,Bovidae,family,RNA,65,DNA,1,0.458,0.47,0.56,0.38,0.57,3,5,4,5
+Bos,genus,Bovidae,family,RNA,65,DNA,2,0.486,0.41,0.44,0.38,0.62,3,4,5,5
+Bos,genus,Bovidae,family,RNA,65,DNA,3,0.708,0.71,0.56,0.88,0.36,7,5,4,1
+Bos,genus,Bovidae,family,RNA,65,DNA,4,0.514,0.47,0.33,0.62,0.55,5,3,6,3
+Bos,genus,Bovidae,family,RNA,65,DNA,5,0.694,0.65,0.78,0.5,0.33,4,7,2,4
+Bos,genus,Bovidae,family,RNA,65,DNA,6,0.611,0.65,0.67,0.62,0.38,5,6,3,3
+Bos,genus,Bovidae,family,RNA,65,DNA,7,0.667,0.71,0.89,0.5,0.2,4,8,1,4
+Bos,genus,Bovidae,family,RNA,65,DNA,8,0.778,0.76,0.89,0.62,0.17,5,8,1,3
+Bos,genus,Bovidae,family,RNA,65,DNA,9,0.722,0.71,0.78,0.62,0.29,5,7,2,3
+Bos,genus,Bovidae,family,RNA,65,AA,1,0.472,0.53,0.33,0.75,0.5,6,3,6,2
+Bos,genus,Bovidae,family,RNA,65,AA,2,0.639,0.59,0.78,0.38,0.4,3,7,2,5
+Bos,genus,Bovidae,family,RNA,65,AA,3,0.806,0.71,0.67,0.75,0.33,6,6,3,2
+Bos,genus,Bovidae,family,RNA,65,AA,4,0.75,0.71,0.56,0.88,0.36,7,5,4,1
+Bos,genus,Bovidae,family,RNA,65,PC,1,0.681,0.65,0.44,0.88,0.42,7,4,5,1
+Bos,genus,Bovidae,family,RNA,65,PC,2,0.597,0.65,0.89,0.38,0.25,3,8,1,5
+Bos,genus,Bovidae,family,RNA,65,PC,3,0.611,0.65,0.89,0.38,0.25,3,8,1,5
+Bos,genus,Bovidae,family,RNA,65,PC,4,0.722,0.76,0.56,1.0,0.33,8,5,4,0
+Bos,genus,Bovidae,family,RNA,65,PC,5,0.778,0.71,0.56,0.88,0.36,7,5,4,1
+Bos,genus,Bovidae,family,RNA,65,PC,6,0.778,0.76,0.56,1.0,0.33,8,5,4,0
+Bos,genus,Bovidae,family,RNA,65,Domains,0,0.66,0.59,0.44,0.75,0.45,6,4,5,2
+Ovis aries,species,Bovidae,family,RNA,49,DNA,1,0.214,0.46,0.17,0.71,0.5,5,1,5,2
+Ovis aries,species,Bovidae,family,RNA,49,DNA,2,0.643,0.46,0.67,0.29,0.5,2,4,2,5
+Ovis aries,species,Bovidae,family,RNA,49,DNA,3,0.667,0.46,0.67,0.29,0.5,2,4,2,5
+Ovis aries,species,Bovidae,family,RNA,49,DNA,4,0.548,0.54,0.83,0.29,0.33,2,5,1,5
+Ovis aries,species,Bovidae,family,RNA,49,DNA,5,0.714,0.62,0.83,0.43,0.25,3,5,1,4
+Ovis aries,species,Bovidae,family,RNA,49,DNA,6,0.571,0.62,0.83,0.43,0.25,3,5,1,4
+Ovis aries,species,Bovidae,family,RNA,49,DNA,7,0.429,0.46,0.5,0.43,0.5,3,3,3,4
+Ovis aries,species,Bovidae,family,RNA,49,DNA,8,0.381,0.46,0.33,0.57,0.5,4,2,4,3
+Ovis aries,species,Bovidae,family,RNA,49,DNA,9,0.5,0.54,0.33,0.71,0.44,5,2,4,2
+Ovis aries,species,Bovidae,family,RNA,49,AA,1,0.31,0.46,0.67,0.29,0.5,2,4,2,5
+Ovis aries,species,Bovidae,family,RNA,49,AA,2,0.381,0.38,0.5,0.29,0.6,2,3,3,5
+Ovis aries,species,Bovidae,family,RNA,49,AA,3,0.762,0.62,0.83,0.43,0.25,3,5,1,4
+Ovis aries,species,Bovidae,family,RNA,49,AA,4,0.548,0.54,0.67,0.43,0.4,3,4,2,4
+Ovis aries,species,Bovidae,family,RNA,49,PC,1,0.476,0.54,0.83,0.29,0.33,2,5,1,5
+Ovis aries,species,Bovidae,family,RNA,49,PC,2,0.476,0.46,0.33,0.57,0.5,4,2,4,3
+Ovis aries,species,Bovidae,family,RNA,49,PC,3,0.548,0.69,0.83,0.57,0.2,4,5,1,3
+Ovis aries,species,Bovidae,family,RNA,49,PC,4,0.643,0.62,0.83,0.43,0.25,3,5,1,4
+Ovis aries,species,Bovidae,family,RNA,49,PC,5,0.619,0.62,0.83,0.43,0.25,3,5,1,4
+Ovis aries,species,Bovidae,family,RNA,49,PC,6,0.548,0.54,0.67,0.43,0.4,3,4,2,4
+Ovis aries,species,Bovidae,family,RNA,49,Domains,0,0.595,0.54,0.67,0.43,0.4,3,4,2,4
+Bovidae,family,Mammalia,class,RNA,258,DNA,1,0.476,0.48,0.53,0.42,0.55,13,18,16,18
+Bovidae,family,Mammalia,class,RNA,258,DNA,2,0.784,0.74,0.76,0.71,0.27,22,26,8,9
+Bovidae,family,Mammalia,class,RNA,258,DNA,3,0.87,0.83,0.91,0.74,0.12,23,31,3,8
+Bovidae,family,Mammalia,class,RNA,258,DNA,4,0.854,0.75,0.74,0.77,0.27,24,25,9,7
+Bovidae,family,Mammalia,class,RNA,258,DNA,5,0.954,0.91,0.88,0.94,0.12,29,30,4,2
+Bovidae,family,Mammalia,class,RNA,258,DNA,6,0.955,0.91,0.88,0.94,0.12,29,30,4,2
+Bovidae,family,Mammalia,class,RNA,258,DNA,7,0.961,0.88,0.91,0.84,0.1,26,31,3,5
+Bovidae,family,Mammalia,class,RNA,258,DNA,8,0.963,0.89,0.94,0.84,0.07,26,32,2,5
+Bovidae,family,Mammalia,class,RNA,258,DNA,9,0.96,0.88,0.94,0.81,0.07,25,32,2,6
+Bovidae,family,Mammalia,class,RNA,258,AA,1,0.85,0.78,0.85,0.71,0.19,22,29,5,9
+Bovidae,family,Mammalia,class,RNA,258,AA,2,0.907,0.89,0.88,0.9,0.12,28,30,4,3
+Bovidae,family,Mammalia,class,RNA,258,AA,3,0.947,0.88,0.94,0.81,0.07,25,32,2,6
+Bovidae,family,Mammalia,class,RNA,258,AA,4,0.949,0.91,1.0,0.81,0.0,25,34,0,6
+Bovidae,family,Mammalia,class,RNA,258,PC,1,0.569,0.58,0.82,0.32,0.38,10,28,6,21
+Bovidae,family,Mammalia,class,RNA,258,PC,2,0.807,0.72,0.68,0.77,0.31,24,23,11,7
+Bovidae,family,Mammalia,class,RNA,258,PC,3,0.879,0.85,0.76,0.94,0.22,29,26,8,2
+Bovidae,family,Mammalia,class,RNA,258,PC,4,0.889,0.82,0.79,0.84,0.21,26,27,7,5
+Bovidae,family,Mammalia,class,RNA,258,PC,5,0.954,0.88,0.97,0.77,0.04,24,33,1,7
+Bovidae,family,Mammalia,class,RNA,258,PC,6,0.962,0.92,1.0,0.84,0.0,26,34,0,5
+Bovidae,family,Mammalia,class,RNA,258,Domains,0,0.93,0.89,0.88,0.9,0.12,28,30,4,3
+Bos taurus,species,Bovidae,family,RNA,72,DNA,1,0.358,0.61,0.56,0.67,0.4,6,5,4,3
+Bos taurus,species,Bovidae,family,RNA,72,DNA,2,0.407,0.39,0.33,0.44,0.6,4,3,6,5
+Bos taurus,species,Bovidae,family,RNA,72,DNA,3,0.444,0.5,0.44,0.56,0.5,5,4,5,4
+Bos taurus,species,Bovidae,family,RNA,72,DNA,4,0.444,0.5,0.56,0.44,0.5,4,5,4,5
+Bos taurus,species,Bovidae,family,RNA,72,DNA,5,0.642,0.56,0.67,0.44,0.43,4,6,3,5
+Bos taurus,species,Bovidae,family,RNA,72,DNA,6,0.667,0.56,0.67,0.44,0.43,4,6,3,5
+Bos taurus,species,Bovidae,family,RNA,72,DNA,7,0.531,0.56,0.44,0.67,0.45,6,4,5,3
+Bos taurus,species,Bovidae,family,RNA,72,DNA,8,0.519,0.5,0.44,0.56,0.5,5,4,5,4
+Bos taurus,species,Bovidae,family,RNA,72,DNA,9,0.679,0.67,0.78,0.56,0.29,5,7,2,4
+Bos taurus,species,Bovidae,family,RNA,72,AA,1,0.667,0.61,0.67,0.56,0.38,5,6,3,4
+Bos taurus,species,Bovidae,family,RNA,72,AA,2,0.321,0.39,0.44,0.33,0.62,3,4,5,6
+Bos taurus,species,Bovidae,family,RNA,72,AA,3,0.42,0.5,0.56,0.44,0.5,4,5,4,5
+Bos taurus,species,Bovidae,family,RNA,72,AA,4,0.531,0.56,0.56,0.56,0.44,5,5,4,4
+Bos taurus,species,Bovidae,family,RNA,72,PC,1,0.309,0.67,0.67,0.67,0.33,6,6,3,3
+Bos taurus,species,Bovidae,family,RNA,72,PC,2,0.543,0.61,0.56,0.67,0.4,6,5,4,3
+Bos taurus,species,Bovidae,family,RNA,72,PC,3,0.457,0.5,0.44,0.56,0.5,5,4,5,4
+Bos taurus,species,Bovidae,family,RNA,72,PC,4,0.494,0.61,0.67,0.56,0.38,5,6,3,4
+Bos taurus,species,Bovidae,family,RNA,72,PC,5,0.457,0.5,0.44,0.56,0.5,5,4,5,4
+Bos taurus,species,Bovidae,family,RNA,72,PC,6,0.568,0.56,0.56,0.56,0.44,5,5,4,4
+Bos taurus,species,Bovidae,family,RNA,72,Domains,0,0.778,0.67,0.56,0.78,0.36,7,5,4,2
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,1,0.514,0.44,0.33,0.54,0.55,13,8,16,11
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,2,0.642,0.65,0.75,0.54,0.32,13,18,6,11
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,3,0.762,0.71,0.58,0.83,0.33,20,14,10,4
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,4,0.814,0.77,0.62,0.92,0.29,22,15,9,2
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,5,0.851,0.81,0.67,0.96,0.26,23,16,8,1
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,6,0.894,0.85,0.71,1.0,0.23,24,17,7,0
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,7,0.906,0.85,0.71,1.0,0.23,24,17,7,0
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,8,0.899,0.79,0.62,0.96,0.28,23,15,9,1
+Sus scrofa,species,Mammalia,class,RNA,189,DNA,9,0.91,0.79,0.62,0.96,0.28,23,15,9,1
+Sus scrofa,species,Mammalia,class,RNA,189,AA,1,0.811,0.71,0.79,0.62,0.25,15,19,5,9
+Sus scrofa,species,Mammalia,class,RNA,189,AA,2,0.868,0.81,0.62,1.0,0.27,24,15,9,0
+Sus scrofa,species,Mammalia,class,RNA,189,AA,3,0.948,0.81,0.62,1.0,0.27,24,15,9,0
+Sus scrofa,species,Mammalia,class,RNA,189,AA,4,0.938,0.77,0.54,1.0,0.31,24,13,11,0
+Sus scrofa,species,Mammalia,class,RNA,189,PC,1,0.581,0.62,0.62,0.62,0.38,15,15,9,9
+Sus scrofa,species,Mammalia,class,RNA,189,PC,2,0.773,0.77,0.71,0.83,0.26,20,17,7,4
+Sus scrofa,species,Mammalia,class,RNA,189,PC,3,0.88,0.77,0.71,0.83,0.26,20,17,7,4
+Sus scrofa,species,Mammalia,class,RNA,189,PC,4,0.83,0.75,0.62,0.88,0.3,21,15,9,3
+Sus scrofa,species,Mammalia,class,RNA,189,PC,5,0.929,0.81,0.71,0.92,0.24,22,17,7,2
+Sus scrofa,species,Mammalia,class,RNA,189,PC,6,0.927,0.77,0.58,0.96,0.3,23,14,10,1
+Sus scrofa,species,Mammalia,class,RNA,189,Domains,0,0.756,0.71,0.71,0.71,0.29,17,17,7,7
+Suidae,family,Mammalia,class,RNA,195,DNA,1,0.423,0.53,0.54,0.52,0.46,13,13,11,12
+Suidae,family,Mammalia,class,RNA,195,DNA,2,0.537,0.51,0.58,0.44,0.48,11,14,10,14
+Suidae,family,Mammalia,class,RNA,195,DNA,3,0.728,0.69,0.67,0.72,0.31,18,16,8,7
+Suidae,family,Mammalia,class,RNA,195,DNA,4,0.72,0.67,0.5,0.84,0.36,21,12,12,4
+Suidae,family,Mammalia,class,RNA,195,DNA,5,0.893,0.82,0.71,0.92,0.23,23,17,7,2
+Suidae,family,Mammalia,class,RNA,195,DNA,6,0.867,0.76,0.67,0.84,0.28,21,16,8,4
+Suidae,family,Mammalia,class,RNA,195,DNA,7,0.868,0.8,0.75,0.84,0.22,21,18,6,4
+Suidae,family,Mammalia,class,RNA,195,DNA,8,0.887,0.8,0.67,0.92,0.26,23,16,8,2
+Suidae,family,Mammalia,class,RNA,195,DNA,9,0.863,0.8,0.67,0.92,0.26,23,16,8,2
+Suidae,family,Mammalia,class,RNA,195,AA,1,0.788,0.78,0.83,0.72,0.18,18,20,4,7
+Suidae,family,Mammalia,class,RNA,195,AA,2,0.858,0.78,0.58,0.96,0.29,24,14,10,1
+Suidae,family,Mammalia,class,RNA,195,AA,3,0.893,0.76,0.71,0.8,0.26,20,17,7,5
+Suidae,family,Mammalia,class,RNA,195,AA,4,0.897,0.73,0.83,0.64,0.2,16,20,4,9
+Suidae,family,Mammalia,class,RNA,195,PC,1,0.63,0.55,0.46,0.64,0.45,16,11,13,9
+Suidae,family,Mammalia,class,RNA,195,PC,2,0.723,0.76,0.67,0.84,0.28,21,16,8,4
+Suidae,family,Mammalia,class,RNA,195,PC,3,0.77,0.76,0.75,0.76,0.24,19,18,6,6
+Suidae,family,Mammalia,class,RNA,195,PC,4,0.888,0.76,0.79,0.72,0.22,18,19,5,7
+Suidae,family,Mammalia,class,RNA,195,PC,5,0.898,0.8,0.79,0.8,0.2,20,19,5,5
+Suidae,family,Mammalia,class,RNA,195,PC,6,0.913,0.8,0.88,0.72,0.14,18,21,3,7
+Suidae,family,Mammalia,class,RNA,195,Domains,0,0.8,0.71,0.67,0.76,0.3,19,16,8,6
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,1,0.494,0.5,0.0,1.0,0.5,9,0,9,0
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,2,0.741,0.72,0.67,0.78,0.3,7,6,3,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,3,0.741,0.72,0.78,0.67,0.25,6,7,2,3
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,4,0.741,0.61,0.44,0.78,0.42,7,4,5,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,5,0.852,0.78,0.67,0.89,0.27,8,6,3,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,6,0.827,0.78,0.78,0.78,0.22,7,7,2,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,7,0.79,0.83,0.78,0.89,0.2,8,7,2,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,8,0.802,0.83,0.78,0.89,0.2,8,7,2,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,DNA,9,0.765,0.78,0.67,0.89,0.27,8,6,3,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,AA,1,0.877,0.83,0.89,0.78,0.12,7,8,1,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,AA,2,0.741,0.67,0.78,0.56,0.29,5,7,2,4
+Vespertilionidae,family,Chiroptera,order,RNA,71,AA,3,0.815,0.83,0.78,0.89,0.2,8,7,2,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,AA,4,0.79,0.78,0.78,0.78,0.22,7,7,2,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,1,0.617,0.61,0.78,0.44,0.33,4,7,2,5
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,2,0.716,0.67,0.56,0.78,0.36,7,5,4,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,3,0.815,0.83,0.78,0.89,0.2,8,7,2,1
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,4,0.802,0.83,0.89,0.78,0.12,7,8,1,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,5,0.778,0.72,0.78,0.67,0.25,6,7,2,3
+Vespertilionidae,family,Chiroptera,order,RNA,71,PC,6,0.79,0.72,0.67,0.78,0.3,7,6,3,2
+Vespertilionidae,family,Chiroptera,order,RNA,71,Domains,0,0.784,0.72,0.78,0.67,0.25,6,7,2,3
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,1,0.687,0.55,1.0,0.0,NA,0,11,0,9
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,2,0.919,0.75,0.82,0.67,0.25,6,9,2,3
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,3,0.899,0.85,1.0,0.67,0.0,6,11,0,3
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,4,0.747,0.75,0.82,0.67,0.25,6,9,2,3
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,5,0.899,0.75,0.91,0.56,0.17,5,10,1,4
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,6,0.929,0.8,0.91,0.67,0.14,6,10,1,3
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,7,0.96,0.9,0.91,0.89,0.11,8,10,1,1
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,8,0.96,0.85,0.91,0.78,0.12,7,10,1,2
+Pteropodidae,family,Chiroptera,order,RNA,80,DNA,9,0.96,0.85,0.91,0.78,0.12,7,10,1,2
+Pteropodidae,family,Chiroptera,order,RNA,80,AA,1,0.747,0.8,0.82,0.78,0.22,7,9,2,2
+Pteropodidae,family,Chiroptera,order,RNA,80,AA,2,0.939,0.85,0.91,0.78,0.12,7,10,1,2
+Pteropodidae,family,Chiroptera,order,RNA,80,AA,3,0.98,0.85,1.0,0.67,0.0,6,11,0,3
+Pteropodidae,family,Chiroptera,order,RNA,80,AA,4,0.97,0.85,1.0,0.67,0.0,6,11,0,3
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,1,0.798,0.85,0.91,0.78,0.12,7,10,1,2
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,2,0.823,0.8,0.91,0.67,0.14,6,10,1,3
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,3,0.808,0.75,0.82,0.67,0.25,6,9,2,3
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,4,0.909,0.7,0.82,0.56,0.29,5,9,2,4
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,5,0.919,0.75,0.91,0.56,0.17,5,10,1,4
+Pteropodidae,family,Chiroptera,order,RNA,80,PC,6,0.949,0.8,1.0,0.56,0.0,5,11,0,4
+Pteropodidae,family,Chiroptera,order,RNA,80,Domains,0,0.747,0.75,0.91,0.56,0.17,5,10,1,4
+Chiroptera,order,Mammalia,class,RNA,297,DNA,1,0.601,0.64,0.53,0.76,0.39,28,20,18,9
+Chiroptera,order,Mammalia,class,RNA,297,DNA,2,0.711,0.63,0.58,0.68,0.39,25,22,16,12
+Chiroptera,order,Mammalia,class,RNA,297,DNA,3,0.793,0.72,0.58,0.86,0.33,32,22,16,5
+Chiroptera,order,Mammalia,class,RNA,297,DNA,4,0.757,0.75,0.66,0.84,0.3,31,25,13,6
+Chiroptera,order,Mammalia,class,RNA,297,DNA,5,0.819,0.72,0.63,0.81,0.32,30,24,14,7
+Chiroptera,order,Mammalia,class,RNA,297,DNA,6,0.852,0.77,0.66,0.89,0.28,33,25,13,4
+Chiroptera,order,Mammalia,class,RNA,297,DNA,7,0.868,0.77,0.71,0.84,0.26,31,27,11,6
+Chiroptera,order,Mammalia,class,RNA,297,DNA,8,0.877,0.76,0.68,0.84,0.28,31,26,12,6
+Chiroptera,order,Mammalia,class,RNA,297,DNA,9,0.885,0.77,0.66,0.89,0.28,33,25,13,4
+Chiroptera,order,Mammalia,class,RNA,297,AA,1,0.71,0.76,0.71,0.81,0.27,30,27,11,7
+Chiroptera,order,Mammalia,class,RNA,297,AA,2,0.85,0.81,0.82,0.81,0.19,30,31,7,7
+Chiroptera,order,Mammalia,class,RNA,297,AA,3,0.942,0.83,0.76,0.89,0.21,33,29,9,4
+Chiroptera,order,Mammalia,class,RNA,297,AA,4,0.938,0.76,0.66,0.86,0.29,32,25,13,5
+Chiroptera,order,Mammalia,class,RNA,297,PC,1,0.654,0.64,0.5,0.78,0.4,29,19,19,8
+Chiroptera,order,Mammalia,class,RNA,297,PC,2,0.791,0.71,0.66,0.76,0.32,28,25,13,9
+Chiroptera,order,Mammalia,class,RNA,297,PC,3,0.838,0.75,0.76,0.73,0.25,27,29,9,10
+Chiroptera,order,Mammalia,class,RNA,297,PC,4,0.93,0.83,0.79,0.86,0.2,32,30,8,5
+Chiroptera,order,Mammalia,class,RNA,297,PC,5,0.913,0.8,0.82,0.78,0.19,29,31,7,8
+Chiroptera,order,Mammalia,class,RNA,297,PC,6,0.928,0.8,0.71,0.89,0.25,33,27,11,4
+Chiroptera,order,Mammalia,class,RNA,297,Domains,0,0.842,0.87,0.82,0.92,0.17,34,31,7,3
+Equus,genus,Mammalia,class,RNA,53,DNA,1,0.531,0.5,0.43,0.57,0.5,4,3,4,3
+Equus,genus,Mammalia,class,RNA,53,DNA,2,0.653,0.71,0.57,0.86,0.33,6,4,3,1
+Equus,genus,Mammalia,class,RNA,53,DNA,3,0.531,0.57,0.57,0.57,0.43,4,4,3,3
+Equus,genus,Mammalia,class,RNA,53,DNA,4,0.735,0.79,0.71,0.86,0.25,6,5,2,1
+Equus,genus,Mammalia,class,RNA,53,DNA,5,0.694,0.79,0.57,1.0,0.3,7,4,3,0
+Equus,genus,Mammalia,class,RNA,53,DNA,6,0.673,0.71,0.57,0.86,0.33,6,4,3,1
+Equus,genus,Mammalia,class,RNA,53,DNA,7,0.653,0.71,0.57,0.86,0.33,6,4,3,1
+Equus,genus,Mammalia,class,RNA,53,DNA,8,0.633,0.64,0.57,0.71,0.38,5,4,3,2
+Equus,genus,Mammalia,class,RNA,53,DNA,9,0.653,0.64,0.57,0.71,0.38,5,4,3,2
+Equus,genus,Mammalia,class,RNA,53,AA,1,0.694,0.71,0.57,0.86,0.33,6,4,3,1
+Equus,genus,Mammalia,class,RNA,53,AA,2,0.755,0.64,0.57,0.71,0.38,5,4,3,2
+Equus,genus,Mammalia,class,RNA,53,AA,3,0.878,0.79,0.71,0.86,0.25,6,5,2,1
+Equus,genus,Mammalia,class,RNA,53,AA,4,0.878,0.71,0.86,0.57,0.2,4,6,1,3
+Equus,genus,Mammalia,class,RNA,53,PC,1,0.245,0.64,0.86,0.43,0.25,3,6,1,4
+Equus,genus,Mammalia,class,RNA,53,PC,2,0.816,0.79,0.86,0.71,0.17,5,6,1,2
+Equus,genus,Mammalia,class,RNA,53,PC,3,0.878,0.71,0.71,0.71,0.29,5,5,2,2
+Equus,genus,Mammalia,class,RNA,53,PC,4,0.816,0.71,0.71,0.71,0.29,5,5,2,2
+Equus,genus,Mammalia,class,RNA,53,PC,5,0.776,0.71,0.71,0.71,0.29,5,5,2,2
+Equus,genus,Mammalia,class,RNA,53,PC,6,0.735,0.64,0.86,0.43,0.25,3,6,1,4
+Equus,genus,Mammalia,class,RNA,53,Domains,0,0.469,0.57,0.57,0.57,0.43,4,4,3,3
+Equidae,family,Mammalia,class,RNA,57,DNA,1,0.518,0.53,1.0,0.0,NA,0,8,0,7
+Equidae,family,Mammalia,class,RNA,57,DNA,2,0.875,0.73,0.88,0.57,0.2,4,7,1,3
+Equidae,family,Mammalia,class,RNA,57,DNA,3,0.911,0.73,0.75,0.71,0.29,5,6,2,2
+Equidae,family,Mammalia,class,RNA,57,DNA,4,0.768,0.6,0.75,0.43,0.4,3,6,2,4
+Equidae,family,Mammalia,class,RNA,57,DNA,5,0.893,0.73,0.75,0.71,0.29,5,6,2,2
+Equidae,family,Mammalia,class,RNA,57,DNA,6,0.929,0.73,0.75,0.71,0.29,5,6,2,2
+Equidae,family,Mammalia,class,RNA,57,DNA,7,0.964,0.87,0.88,0.86,0.14,6,7,1,1
+Equidae,family,Mammalia,class,RNA,57,DNA,8,0.964,0.93,0.88,1.0,0.12,7,7,1,0
+Equidae,family,Mammalia,class,RNA,57,DNA,9,0.946,0.8,0.62,1.0,0.3,7,5,3,0
+Equidae,family,Mammalia,class,RNA,57,AA,1,0.643,0.6,0.75,0.43,0.4,3,6,2,4
+Equidae,family,Mammalia,class,RNA,57,AA,2,0.964,0.87,0.88,0.86,0.14,6,7,1,1
+Equidae,family,Mammalia,class,RNA,57,AA,3,0.946,0.8,0.88,0.71,0.17,5,7,1,2
+Equidae,family,Mammalia,class,RNA,57,AA,4,0.893,0.87,1.0,0.71,0.0,5,8,0,2
+Equidae,family,Mammalia,class,RNA,57,PC,1,0.768,0.6,0.88,0.29,0.33,2,7,1,5
+Equidae,family,Mammalia,class,RNA,57,PC,2,0.786,0.73,0.62,0.86,0.33,6,5,3,1
+Equidae,family,Mammalia,class,RNA,57,PC,3,0.857,0.73,0.75,0.71,0.29,5,6,2,2
+Equidae,family,Mammalia,class,RNA,57,PC,4,0.857,0.73,0.75,0.71,0.29,5,6,2,2
+Equidae,family,Mammalia,class,RNA,57,PC,5,0.875,0.8,0.62,1.0,0.3,7,5,3,0
+Equidae,family,Mammalia,class,RNA,57,PC,6,0.893,0.67,0.62,0.71,0.38,5,5,3,2
+Equidae,family,Mammalia,class,RNA,57,Domains,0,0.857,0.8,0.75,0.86,0.25,6,6,2,1
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,1,0.204,0.14,0.29,0.0,1.0,0,2,5,7
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,2,0.49,0.5,0.71,0.29,0.5,2,5,2,5
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,3,0.735,0.64,0.43,0.86,0.4,6,3,4,1
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,4,0.49,0.64,0.43,0.86,0.4,6,3,4,1
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,5,0.49,0.64,0.43,0.86,0.4,6,3,4,1
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,6,0.408,0.5,0.43,0.57,0.5,4,3,4,3
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,7,0.408,0.43,0.57,0.29,0.6,2,4,3,5
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,8,0.408,0.29,0.57,0.0,1.0,0,4,3,7
+Perissodactyla,order,Mammalia,class,RNA,56,DNA,9,0.408,0.36,0.71,0.0,1.0,0,5,2,7
+Perissodactyla,order,Mammalia,class,RNA,56,AA,1,0.49,0.57,0.57,0.57,0.43,4,4,3,3
+Perissodactyla,order,Mammalia,class,RNA,56,AA,2,0.673,0.71,0.71,0.71,0.29,5,5,2,2
+Perissodactyla,order,Mammalia,class,RNA,56,AA,3,0.755,0.57,0.86,0.29,0.33,2,6,1,5
+Perissodactyla,order,Mammalia,class,RNA,56,AA,4,0.755,0.64,1.0,0.29,0.0,2,7,0,5
+Perissodactyla,order,Mammalia,class,RNA,56,PC,1,0.633,0.5,0.86,0.14,0.5,1,6,1,6
+Perissodactyla,order,Mammalia,class,RNA,56,PC,2,0.673,0.71,0.57,0.86,0.33,6,4,3,1
+Perissodactyla,order,Mammalia,class,RNA,56,PC,3,0.714,0.79,0.86,0.71,0.17,5,6,1,2
+Perissodactyla,order,Mammalia,class,RNA,56,PC,4,0.714,0.57,0.71,0.43,0.4,3,5,2,4
+Perissodactyla,order,Mammalia,class,RNA,56,PC,5,0.735,0.64,1.0,0.29,0.0,2,7,0,5
+Perissodactyla,order,Mammalia,class,RNA,56,PC,6,0.694,0.64,1.0,0.29,0.0,2,7,0,5
+Perissodactyla,order,Mammalia,class,RNA,56,Domains,0,0.694,0.64,0.57,0.71,0.38,5,4,3,2
+Felis catus,species,Carnivora,order,RNA,70,DNA,1,0.363,0.5,0.25,0.7,0.46,7,2,6,3
+Felis catus,species,Carnivora,order,RNA,70,DNA,2,0.875,0.83,0.88,0.8,0.11,8,7,1,2
+Felis catus,species,Carnivora,order,RNA,70,DNA,3,0.681,0.67,0.5,0.8,0.33,8,4,4,2
+Felis catus,species,Carnivora,order,RNA,70,DNA,4,0.775,0.78,0.75,0.8,0.2,8,6,2,2
+Felis catus,species,Carnivora,order,RNA,70,DNA,5,0.862,0.72,0.75,0.7,0.22,7,6,2,3
+Felis catus,species,Carnivora,order,RNA,70,DNA,6,0.862,0.83,0.88,0.8,0.11,8,7,1,2
+Felis catus,species,Carnivora,order,RNA,70,DNA,7,0.85,0.78,0.88,0.7,0.12,7,7,1,3
+Felis catus,species,Carnivora,order,RNA,70,DNA,8,0.812,0.72,0.88,0.6,0.14,6,7,1,4
+Felis catus,species,Carnivora,order,RNA,70,DNA,9,0.763,0.72,0.88,0.6,0.14,6,7,1,4
+Felis catus,species,Carnivora,order,RNA,70,AA,1,0.125,0.67,0.75,0.6,0.25,6,6,2,4
+Felis catus,species,Carnivora,order,RNA,70,AA,2,0.825,0.83,0.88,0.8,0.11,8,7,1,2
+Felis catus,species,Carnivora,order,RNA,70,AA,3,0.737,0.78,0.88,0.7,0.12,7,7,1,3
+Felis catus,species,Carnivora,order,RNA,70,AA,4,0.7,0.67,0.75,0.6,0.25,6,6,2,4
+Felis catus,species,Carnivora,order,RNA,70,PC,1,0.75,0.56,0.5,0.6,0.4,6,4,4,4
+Felis catus,species,Carnivora,order,RNA,70,PC,2,0.688,0.56,0.5,0.6,0.4,6,4,4,4
+Felis catus,species,Carnivora,order,RNA,70,PC,3,0.662,0.67,0.75,0.6,0.25,6,6,2,4
+Felis catus,species,Carnivora,order,RNA,70,PC,4,0.737,0.83,1.0,0.7,0.0,7,8,0,3
+Felis catus,species,Carnivora,order,RNA,70,PC,5,0.762,0.78,1.0,0.6,0.0,6,8,0,4
+Felis catus,species,Carnivora,order,RNA,70,PC,6,0.712,0.72,0.88,0.6,0.14,6,7,1,4
+Felis catus,species,Carnivora,order,RNA,70,Domains,0,0.85,0.72,0.88,0.6,0.14,6,7,1,4
+Felis,genus,Carnivora,order,RNA,69,DNA,1,0.225,0.56,0.0,1.0,0.44,10,0,8,0
+Felis,genus,Carnivora,order,RNA,69,DNA,2,0.725,0.67,0.25,1.0,0.38,10,2,6,0
+Felis,genus,Carnivora,order,RNA,69,DNA,3,0.375,0.67,0.38,0.9,0.36,9,3,5,1
+Felis,genus,Carnivora,order,RNA,69,DNA,4,0.038,0.89,0.88,0.9,0.1,9,7,1,1
+Felis,genus,Carnivora,order,RNA,69,DNA,5,1.0,0.89,0.75,1.0,0.17,10,6,2,0
+Felis,genus,Carnivora,order,RNA,69,DNA,6,0.988,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,DNA,7,1.0,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,DNA,8,1.0,1.0,1.0,1.0,0.0,10,8,0,0
+Felis,genus,Carnivora,order,RNA,69,DNA,9,0.988,0.94,1.0,0.9,0.0,9,8,0,1
+Felis,genus,Carnivora,order,RNA,69,AA,1,0.388,0.72,0.38,1.0,0.33,10,3,5,0
+Felis,genus,Carnivora,order,RNA,69,AA,2,1.0,0.83,0.62,1.0,0.23,10,5,3,0
+Felis,genus,Carnivora,order,RNA,69,AA,3,1.0,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,AA,4,1.0,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,PC,1,0.712,0.56,0.0,1.0,0.44,10,0,8,0
+Felis,genus,Carnivora,order,RNA,69,PC,2,0.875,0.83,0.75,0.9,0.18,9,6,2,1
+Felis,genus,Carnivora,order,RNA,69,PC,3,0.975,0.89,0.75,1.0,0.17,10,6,2,0
+Felis,genus,Carnivora,order,RNA,69,PC,4,0.988,0.89,0.75,1.0,0.17,10,6,2,0
+Felis,genus,Carnivora,order,RNA,69,PC,5,1.0,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,PC,6,1.0,0.94,0.88,1.0,0.09,10,7,1,0
+Felis,genus,Carnivora,order,RNA,69,Domains,0,0.775,0.67,0.25,1.0,0.38,10,2,6,0
+Felidae,family,Carnivora,order,RNA,77,DNA,1,0.768,0.55,0.33,0.73,0.43,8,3,6,3
+Felidae,family,Carnivora,order,RNA,77,DNA,2,0.798,0.7,0.56,0.82,0.31,9,5,4,2
+Felidae,family,Carnivora,order,RNA,77,DNA,3,0.788,0.8,0.67,0.91,0.23,10,6,3,1
+Felidae,family,Carnivora,order,RNA,77,DNA,4,0.677,0.75,0.56,0.91,0.29,10,5,4,1
+Felidae,family,Carnivora,order,RNA,77,DNA,5,0.869,0.8,0.67,0.91,0.23,10,6,3,1
+Felidae,family,Carnivora,order,RNA,77,DNA,6,0.899,0.8,0.67,0.91,0.23,10,6,3,1
+Felidae,family,Carnivora,order,RNA,77,DNA,7,0.949,0.8,0.67,0.91,0.23,10,6,3,1
+Felidae,family,Carnivora,order,RNA,77,DNA,8,0.909,0.8,0.78,0.82,0.18,9,7,2,2
+Felidae,family,Carnivora,order,RNA,77,DNA,9,0.879,0.8,0.78,0.82,0.18,9,7,2,2
+Felidae,family,Carnivora,order,RNA,77,AA,1,0.778,0.85,0.89,0.82,0.1,9,8,1,2
+Felidae,family,Carnivora,order,RNA,77,AA,2,0.798,0.85,0.89,0.82,0.1,9,8,1,2
+Felidae,family,Carnivora,order,RNA,77,AA,3,0.889,0.8,0.78,0.82,0.18,9,7,2,2
+Felidae,family,Carnivora,order,RNA,77,AA,4,0.879,0.75,0.67,0.82,0.25,9,6,3,2
+Felidae,family,Carnivora,order,RNA,77,PC,1,0.657,0.7,0.44,0.91,0.33,10,4,5,1
+Felidae,family,Carnivora,order,RNA,77,PC,2,0.737,0.7,0.56,0.82,0.31,9,5,4,2
+Felidae,family,Carnivora,order,RNA,77,PC,3,0.879,0.9,0.89,0.91,0.09,10,8,1,1
+Felidae,family,Carnivora,order,RNA,77,PC,4,0.919,0.85,0.89,0.82,0.1,9,8,1,2
+Felidae,family,Carnivora,order,RNA,77,PC,5,0.879,0.85,0.89,0.82,0.1,9,8,1,2
+Felidae,family,Carnivora,order,RNA,77,PC,6,0.859,0.8,0.78,0.82,0.18,9,7,2,2
+Felidae,family,Carnivora,order,RNA,77,Domains,0,0.828,0.85,0.89,0.82,0.1,9,8,1,2
+Carnivora,order,Mammalia,class,RNA,166,DNA,1,0.418,0.57,0.55,0.6,0.45,12,12,10,8
+Carnivora,order,Mammalia,class,RNA,166,DNA,2,0.734,0.74,0.82,0.65,0.24,13,18,4,7
+Carnivora,order,Mammalia,class,RNA,166,DNA,3,0.684,0.57,0.5,0.65,0.46,13,11,11,7
+Carnivora,order,Mammalia,class,RNA,166,DNA,4,0.812,0.76,0.77,0.75,0.25,15,17,5,5
+Carnivora,order,Mammalia,class,RNA,166,DNA,5,0.759,0.74,0.73,0.75,0.29,15,16,6,5
+Carnivora,order,Mammalia,class,RNA,166,DNA,6,0.657,0.62,0.64,0.6,0.4,12,14,8,8
+Carnivora,order,Mammalia,class,RNA,166,DNA,7,0.67,0.62,0.68,0.55,0.39,11,15,7,9
+Carnivora,order,Mammalia,class,RNA,166,DNA,8,0.725,0.74,0.86,0.6,0.2,12,19,3,8
+Carnivora,order,Mammalia,class,RNA,166,DNA,9,0.82,0.76,0.95,0.55,0.08,11,21,1,9
+Carnivora,order,Mammalia,class,RNA,166,AA,1,0.73,0.74,0.82,0.65,0.24,13,18,4,7
+Carnivora,order,Mammalia,class,RNA,166,AA,2,0.862,0.81,0.82,0.8,0.2,16,18,4,4
+Carnivora,order,Mammalia,class,RNA,166,AA,3,0.859,0.74,0.73,0.75,0.29,15,16,6,5
+Carnivora,order,Mammalia,class,RNA,166,AA,4,0.932,0.86,0.86,0.85,0.15,17,19,3,3
+Carnivora,order,Mammalia,class,RNA,166,PC,1,0.607,0.62,0.59,0.65,0.41,13,13,9,7
+Carnivora,order,Mammalia,class,RNA,166,PC,2,0.695,0.71,0.73,0.7,0.3,14,16,6,6
+Carnivora,order,Mammalia,class,RNA,166,PC,3,0.834,0.79,0.91,0.65,0.13,13,20,2,7
+Carnivora,order,Mammalia,class,RNA,166,PC,4,0.841,0.79,0.82,0.75,0.21,15,18,4,5
+Carnivora,order,Mammalia,class,RNA,166,PC,5,0.877,0.79,0.86,0.7,0.18,14,19,3,6
+Carnivora,order,Mammalia,class,RNA,166,PC,6,0.873,0.83,0.95,0.7,0.07,14,21,1,6
+Carnivora,order,Mammalia,class,RNA,166,Domains,0,0.875,0.79,0.68,0.9,0.28,18,15,7,2
+Homo sapiens,species,Primates,order,RNA,156,DNA,1,0.55,0.46,0.21,0.7,0.52,14,4,15,6
+Homo sapiens,species,Primates,order,RNA,156,DNA,2,0.734,0.79,0.68,0.9,0.25,18,13,6,2
+Homo sapiens,species,Primates,order,RNA,156,DNA,3,0.832,0.77,0.68,0.85,0.26,17,13,6,3
+Homo sapiens,species,Primates,order,RNA,156,DNA,4,0.811,0.72,0.74,0.7,0.26,14,14,5,6
+Homo sapiens,species,Primates,order,RNA,156,DNA,5,0.771,0.69,0.74,0.65,0.28,13,14,5,7
+Homo sapiens,species,Primates,order,RNA,156,DNA,6,0.737,0.62,0.53,0.7,0.39,14,10,9,6
+Homo sapiens,species,Primates,order,RNA,156,DNA,7,0.855,0.77,0.68,0.85,0.26,17,13,6,3
+Homo sapiens,species,Primates,order,RNA,156,DNA,8,0.858,0.85,0.89,0.8,0.11,16,17,2,4
+Homo sapiens,species,Primates,order,RNA,156,DNA,9,0.8,0.79,0.95,0.65,0.07,13,18,1,7
+Homo sapiens,species,Primates,order,RNA,156,AA,1,0.853,0.79,0.74,0.85,0.23,17,14,5,3
+Homo sapiens,species,Primates,order,RNA,156,AA,2,0.824,0.77,0.74,0.8,0.24,16,14,5,4
+Homo sapiens,species,Primates,order,RNA,156,AA,3,0.849,0.77,0.84,0.7,0.18,14,16,3,6
+Homo sapiens,species,Primates,order,RNA,156,AA,4,0.837,0.79,0.95,0.65,0.07,13,18,1,7
+Homo sapiens,species,Primates,order,RNA,156,PC,1,0.784,0.79,0.74,0.85,0.23,17,14,5,3
+Homo sapiens,species,Primates,order,RNA,156,PC,2,0.861,0.72,0.79,0.65,0.24,13,15,4,7
+Homo sapiens,species,Primates,order,RNA,156,PC,3,0.732,0.69,0.74,0.65,0.28,13,14,5,7
+Homo sapiens,species,Primates,order,RNA,156,PC,4,0.766,0.79,0.89,0.7,0.12,14,17,2,6
+Homo sapiens,species,Primates,order,RNA,156,PC,5,0.834,0.82,0.95,0.7,0.07,14,18,1,6
+Homo sapiens,species,Primates,order,RNA,156,PC,6,0.839,0.85,1.0,0.7,0.0,14,19,0,6
+Homo sapiens,species,Primates,order,RNA,156,Domains,0,0.738,0.77,0.84,0.7,0.18,14,16,3,6
+Homo,genus,Primates,order,RNA,153,DNA,1,0.392,0.51,0.0,1.0,0.49,20,0,19,0
+Homo,genus,Primates,order,RNA,153,DNA,2,0.739,0.74,0.58,0.9,0.31,18,11,8,2
+Homo,genus,Primates,order,RNA,153,DNA,3,0.732,0.67,0.47,0.85,0.37,17,9,10,3
+Homo,genus,Primates,order,RNA,153,DNA,4,0.721,0.67,0.63,0.7,0.33,14,12,7,6
+Homo,genus,Primates,order,RNA,153,DNA,5,0.595,0.54,0.42,0.65,0.46,13,8,11,7
+Homo,genus,Primates,order,RNA,153,DNA,6,0.745,0.69,0.58,0.8,0.33,16,11,8,4
+Homo,genus,Primates,order,RNA,153,DNA,7,0.837,0.77,0.79,0.75,0.21,15,15,4,5
+Homo,genus,Primates,order,RNA,153,DNA,8,0.837,0.79,0.84,0.75,0.17,15,16,3,5
+Homo,genus,Primates,order,RNA,153,DNA,9,0.879,0.74,0.79,0.7,0.22,14,15,4,6
+Homo,genus,Primates,order,RNA,153,AA,1,0.768,0.82,0.68,0.95,0.24,19,13,6,1
+Homo,genus,Primates,order,RNA,153,AA,2,0.832,0.77,0.68,0.85,0.26,17,13,6,3
+Homo,genus,Primates,order,RNA,153,AA,3,0.911,0.79,0.74,0.85,0.23,17,14,5,3
+Homo,genus,Primates,order,RNA,153,AA,4,0.876,0.72,0.68,0.75,0.29,15,13,6,5
+Homo,genus,Primates,order,RNA,153,PC,1,0.837,0.79,0.68,0.9,0.25,18,13,6,2
+Homo,genus,Primates,order,RNA,153,PC,2,0.763,0.79,0.68,0.9,0.25,18,13,6,2
+Homo,genus,Primates,order,RNA,153,PC,3,0.779,0.67,0.63,0.7,0.33,14,12,7,6
+Homo,genus,Primates,order,RNA,153,PC,4,0.813,0.69,0.58,0.8,0.33,16,11,8,4
+Homo,genus,Primates,order,RNA,153,PC,5,0.905,0.79,0.74,0.85,0.23,17,14,5,3
+Homo,genus,Primates,order,RNA,153,PC,6,0.884,0.74,0.68,0.8,0.27,16,13,6,4
+Homo,genus,Primates,order,RNA,153,Domains,0,0.728,0.77,0.63,0.9,0.28,18,12,7,2
+Hominidae,family,Primates,order,RNA,134,DNA,1,0.304,0.44,0.47,0.41,0.56,7,8,9,10
+Hominidae,family,Primates,order,RNA,134,DNA,2,0.592,0.59,0.53,0.65,0.42,11,9,8,6
+Hominidae,family,Primates,order,RNA,134,DNA,3,0.616,0.65,0.76,0.53,0.31,9,13,4,8
+Hominidae,family,Primates,order,RNA,134,DNA,4,0.637,0.59,0.59,0.59,0.41,10,10,7,7
+Hominidae,family,Primates,order,RNA,134,DNA,5,0.657,0.59,0.59,0.59,0.41,10,10,7,7
+Hominidae,family,Primates,order,RNA,134,DNA,6,0.664,0.65,0.71,0.59,0.33,10,12,5,7
+Hominidae,family,Primates,order,RNA,134,DNA,7,0.651,0.65,0.76,0.53,0.31,9,13,4,8
+Hominidae,family,Primates,order,RNA,134,DNA,8,0.716,0.74,0.94,0.53,0.1,9,16,1,8
+Hominidae,family,Primates,order,RNA,134,DNA,9,0.747,0.71,0.94,0.47,0.11,8,16,1,9
+Hominidae,family,Primates,order,RNA,134,AA,1,0.744,0.71,0.82,0.59,0.23,10,14,3,7
+Hominidae,family,Primates,order,RNA,134,AA,2,0.747,0.68,0.71,0.65,0.31,11,12,5,6
+Hominidae,family,Primates,order,RNA,134,AA,3,0.772,0.68,0.76,0.59,0.29,10,13,4,7
+Hominidae,family,Primates,order,RNA,134,AA,4,0.775,0.74,0.88,0.59,0.17,10,15,2,7
+Hominidae,family,Primates,order,RNA,134,PC,1,0.727,0.68,0.71,0.65,0.31,11,12,5,6
+Hominidae,family,Primates,order,RNA,134,PC,2,0.81,0.65,0.76,0.53,0.31,9,13,4,8
+Hominidae,family,Primates,order,RNA,134,PC,3,0.63,0.62,0.59,0.65,0.39,11,10,7,6
+Hominidae,family,Primates,order,RNA,134,PC,4,0.678,0.68,0.76,0.59,0.29,10,13,4,7
+Hominidae,family,Primates,order,RNA,134,PC,5,0.754,0.68,0.82,0.53,0.25,9,14,3,8
+Hominidae,family,Primates,order,RNA,134,PC,6,0.799,0.74,0.88,0.59,0.17,10,15,2,7
+Hominidae,family,Primates,order,RNA,134,Domains,0,0.557,0.59,0.47,0.71,0.43,12,8,9,5
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,1,0.327,0.5,1.0,0.0,NA,0,7,0,7
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,2,0.449,0.5,0.57,0.43,0.5,3,4,3,4
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,3,0.51,0.43,0.43,0.43,0.57,3,3,4,4
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,4,0.51,0.57,0.57,0.57,0.43,4,4,3,3
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,5,0.51,0.5,0.57,0.43,0.5,3,4,3,4
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,6,0.633,0.64,0.86,0.43,0.25,3,6,1,4
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,7,0.612,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,8,0.612,0.64,1.0,0.29,0.0,2,7,0,5
+Macaca,genus,Cercopithecidae,family,RNA,56,DNA,9,0.612,0.57,1.0,0.14,0.0,1,7,0,6
+Macaca,genus,Cercopithecidae,family,RNA,56,AA,1,0.694,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,AA,2,0.612,0.64,0.86,0.43,0.25,3,6,1,4
+Macaca,genus,Cercopithecidae,family,RNA,56,AA,3,0.714,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,AA,4,0.612,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,1,0.776,0.71,0.86,0.57,0.2,4,6,1,3
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,2,0.551,0.5,0.43,0.57,0.5,4,3,4,3
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,3,0.653,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,4,0.633,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,5,0.531,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,PC,6,0.633,0.71,1.0,0.43,0.0,3,7,0,4
+Macaca,genus,Cercopithecidae,family,RNA,56,Domains,0,0.51,0.57,0.71,0.43,0.4,3,5,2,4
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,1,0.7,0.75,0.9,0.6,0.14,6,9,1,4
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,2,0.69,0.65,0.8,0.5,0.29,5,8,2,5
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,3,0.87,0.85,0.9,0.8,0.11,8,9,1,2
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,4,0.89,0.85,0.8,0.9,0.18,9,8,2,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,5,0.84,0.75,0.6,0.9,0.31,9,6,4,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,6,0.81,0.75,0.6,0.9,0.31,9,6,4,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,7,0.82,0.75,0.8,0.7,0.22,7,8,2,3
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,8,0.79,0.7,0.8,0.6,0.25,6,8,2,4
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,DNA,9,0.83,0.7,0.7,0.7,0.3,7,7,3,3
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,AA,1,0.93,0.85,0.8,0.9,0.18,9,8,2,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,AA,2,0.82,0.7,0.7,0.7,0.3,7,7,3,3
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,AA,3,0.92,0.85,0.9,0.8,0.11,8,9,1,2
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,AA,4,0.84,0.7,0.5,0.9,0.36,9,5,5,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,1,0.72,0.75,0.7,0.8,0.27,8,7,3,2
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,2,0.73,0.55,0.3,0.8,0.47,8,3,7,2
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,3,0.81,0.7,0.7,0.7,0.3,7,7,3,3
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,4,0.89,0.85,0.8,0.9,0.18,9,8,2,1
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,5,0.87,0.8,0.6,1.0,0.29,10,6,4,0
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,PC,6,0.91,0.8,0.6,1.0,0.29,10,6,4,0
+Chlorocebus aethiops,species,Cercopithecidae,family,RNA,78,Domains,0,0.96,0.8,0.8,0.8,0.2,8,8,2,2
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,1,0.682,0.71,0.7,0.73,0.27,8,7,3,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,2,0.682,0.67,0.8,0.55,0.25,6,8,2,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,3,0.655,0.62,0.8,0.45,0.29,5,8,2,6
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,4,0.727,0.67,0.8,0.55,0.25,6,8,2,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,5,0.7,0.76,1.0,0.55,0.0,6,10,0,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,6,0.691,0.71,0.9,0.55,0.14,6,9,1,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,7,0.664,0.76,1.0,0.55,0.0,6,10,0,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,8,0.727,0.81,1.0,0.64,0.0,7,10,0,4
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,DNA,9,0.782,0.71,0.8,0.64,0.22,7,8,2,4
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,AA,1,0.736,0.71,0.8,0.64,0.22,7,8,2,4
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,AA,2,0.718,0.81,1.0,0.64,0.0,7,10,0,4
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,AA,3,0.8,0.76,0.8,0.73,0.2,8,8,2,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,AA,4,0.809,0.71,0.7,0.73,0.27,8,7,3,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,1,0.609,0.52,0.4,0.64,0.46,7,4,6,4
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,2,0.645,0.52,0.5,0.55,0.45,6,5,5,5
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,3,0.891,0.9,1.0,0.82,0.0,9,10,0,2
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,4,0.845,0.76,0.8,0.73,0.2,8,8,2,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,5,0.818,0.76,0.8,0.73,0.2,8,8,2,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,PC,6,0.773,0.71,0.7,0.73,0.27,8,7,3,3
+Chlorocebus,genus,Cercopithecidae,family,RNA,84,Domains,0,0.868,0.81,1.0,0.64,0.0,7,10,0,4
+Cercopithecidae,family,Primates,order,RNA,177,DNA,1,0.411,0.67,0.75,0.57,0.33,12,18,6,9
+Cercopithecidae,family,Primates,order,RNA,177,DNA,2,0.881,0.8,0.92,0.67,0.12,14,22,2,7
+Cercopithecidae,family,Primates,order,RNA,177,DNA,3,0.871,0.8,0.88,0.71,0.17,15,21,3,6
+Cercopithecidae,family,Primates,order,RNA,177,DNA,4,0.732,0.71,0.83,0.57,0.25,12,20,4,9
+Cercopithecidae,family,Primates,order,RNA,177,DNA,5,0.833,0.8,0.79,0.81,0.23,17,19,5,4
+Cercopithecidae,family,Primates,order,RNA,177,DNA,6,0.871,0.87,0.96,0.76,0.06,16,23,1,5
+Cercopithecidae,family,Primates,order,RNA,177,DNA,7,0.815,0.78,0.88,0.67,0.18,14,21,3,7
+Cercopithecidae,family,Primates,order,RNA,177,DNA,8,0.839,0.69,0.83,0.52,0.27,11,20,4,10
+Cercopithecidae,family,Primates,order,RNA,177,DNA,9,0.794,0.69,0.75,0.62,0.32,13,18,6,8
+Cercopithecidae,family,Primates,order,RNA,177,AA,1,0.891,0.8,0.83,0.76,0.2,16,20,4,5
+Cercopithecidae,family,Primates,order,RNA,177,AA,2,0.839,0.69,0.79,0.57,0.29,12,19,5,9
+Cercopithecidae,family,Primates,order,RNA,177,AA,3,0.776,0.67,0.88,0.43,0.25,9,21,3,12
+Cercopithecidae,family,Primates,order,RNA,177,AA,4,0.806,0.71,0.79,0.62,0.28,13,19,5,8
+Cercopithecidae,family,Primates,order,RNA,177,PC,1,0.696,0.67,0.58,0.76,0.38,16,14,10,5
+Cercopithecidae,family,Primates,order,RNA,177,PC,2,0.845,0.71,0.83,0.57,0.25,12,20,4,9
+Cercopithecidae,family,Primates,order,RNA,177,PC,3,0.875,0.69,0.88,0.48,0.23,10,21,3,11
+Cercopithecidae,family,Primates,order,RNA,177,PC,4,0.812,0.76,0.88,0.62,0.19,13,21,3,8
+Cercopithecidae,family,Primates,order,RNA,177,PC,5,0.837,0.71,0.79,0.62,0.28,13,19,5,8
+Cercopithecidae,family,Primates,order,RNA,177,PC,6,0.839,0.73,0.79,0.67,0.26,14,19,5,7
+Cercopithecidae,family,Primates,order,RNA,177,Domains,0,0.765,0.82,0.96,0.67,0.07,14,23,1,7
+Primates,order,Mammalia,class,RNA,1303,DNA,1,0.465,0.52,0.0,1.0,0.48,168,0,158,0
+Primates,order,Mammalia,class,RNA,1303,DNA,2,0.791,0.74,0.69,0.79,0.27,132,109,49,36
+Primates,order,Mammalia,class,RNA,1303,DNA,3,0.85,0.79,0.8,0.78,0.2,131,126,32,37
+Primates,order,Mammalia,class,RNA,1303,DNA,4,0.873,0.81,0.78,0.83,0.2,140,123,35,28
+Primates,order,Mammalia,class,RNA,1303,DNA,5,0.851,0.79,0.78,0.8,0.21,135,123,35,33
+Primates,order,Mammalia,class,RNA,1303,DNA,6,0.889,0.84,0.85,0.83,0.15,140,134,24,28
+Primates,order,Mammalia,class,RNA,1303,DNA,7,0.946,0.85,0.83,0.88,0.16,147,131,27,21
+Primates,order,Mammalia,class,RNA,1303,DNA,8,0.961,0.89,0.91,0.88,0.09,147,144,14,21
+Primates,order,Mammalia,class,RNA,1303,DNA,9,0.963,0.9,0.97,0.85,0.03,142,153,5,26
+Primates,order,Mammalia,class,RNA,1303,AA,1,0.878,0.81,0.77,0.86,0.2,144,121,37,24
+Primates,order,Mammalia,class,RNA,1303,AA,2,0.878,0.82,0.78,0.86,0.19,145,123,35,23
+Primates,order,Mammalia,class,RNA,1303,AA,3,0.945,0.89,0.9,0.88,0.1,148,142,16,20
+Primates,order,Mammalia,class,RNA,1303,AA,4,0.964,0.89,0.91,0.87,0.09,146,144,14,22
+Primates,order,Mammalia,class,RNA,1303,PC,1,0.716,0.68,0.49,0.86,0.36,144,78,80,24
+Primates,order,Mammalia,class,RNA,1303,PC,2,0.857,0.77,0.76,0.79,0.22,132,120,38,36
+Primates,order,Mammalia,class,RNA,1303,PC,3,0.857,0.8,0.73,0.87,0.22,146,116,42,22
+Primates,order,Mammalia,class,RNA,1303,PC,4,0.913,0.84,0.82,0.86,0.16,145,130,28,23
+Primates,order,Mammalia,class,RNA,1303,PC,5,0.96,0.9,0.89,0.9,0.1,151,141,17,17
+Primates,order,Mammalia,class,RNA,1303,PC,6,0.963,0.9,0.92,0.88,0.08,148,145,13,20
+Primates,order,Mammalia,class,RNA,1303,Domains,0,0.91,0.89,0.89,0.89,0.11,149,140,18,19
+Mus musculus,species,Muridae,family,RNA,115,DNA,1,0.705,0.69,0.79,0.6,0.25,9,11,3,6
+Mus musculus,species,Muridae,family,RNA,115,DNA,2,0.714,0.66,0.5,0.8,0.37,12,7,7,3
+Mus musculus,species,Muridae,family,RNA,115,DNA,3,0.919,0.86,0.79,0.93,0.18,14,11,3,1
+Mus musculus,species,Muridae,family,RNA,115,DNA,4,0.814,0.72,0.71,0.73,0.27,11,10,4,4
+Mus musculus,species,Muridae,family,RNA,115,DNA,5,0.886,0.83,0.93,0.73,0.08,11,13,1,4
+Mus musculus,species,Muridae,family,RNA,115,DNA,6,0.938,0.83,0.93,0.73,0.08,11,13,1,4
+Mus musculus,species,Muridae,family,RNA,115,DNA,7,0.952,0.86,1.0,0.73,0.0,11,14,0,4
+Mus musculus,species,Muridae,family,RNA,115,DNA,8,0.962,0.86,1.0,0.73,0.0,11,14,0,4
+Mus musculus,species,Muridae,family,RNA,115,DNA,9,0.962,0.86,1.0,0.73,0.0,11,14,0,4
+Mus musculus,species,Muridae,family,RNA,115,AA,1,0.819,0.76,0.79,0.73,0.21,11,11,3,4
+Mus musculus,species,Muridae,family,RNA,115,AA,2,0.833,0.83,0.86,0.8,0.14,12,12,2,3
+Mus musculus,species,Muridae,family,RNA,115,AA,3,0.933,0.83,0.93,0.73,0.08,11,13,1,4
+Mus musculus,species,Muridae,family,RNA,115,AA,4,0.929,0.86,0.93,0.8,0.08,12,13,1,3
+Mus musculus,species,Muridae,family,RNA,115,PC,1,0.79,0.79,0.86,0.73,0.15,11,12,2,4
+Mus musculus,species,Muridae,family,RNA,115,PC,2,0.81,0.79,0.71,0.87,0.24,13,10,4,2
+Mus musculus,species,Muridae,family,RNA,115,PC,3,0.833,0.79,0.79,0.8,0.2,12,11,3,3
+Mus musculus,species,Muridae,family,RNA,115,PC,4,0.867,0.86,0.93,0.8,0.08,12,13,1,3
+Mus musculus,species,Muridae,family,RNA,115,PC,5,0.886,0.83,0.93,0.73,0.08,11,13,1,4
+Mus musculus,species,Muridae,family,RNA,115,PC,6,0.905,0.83,0.93,0.73,0.08,11,13,1,4
+Mus musculus,species,Muridae,family,RNA,115,Domains,0,0.938,0.86,1.0,0.73,0.0,11,14,0,4
+Mus,genus,Muridae,family,RNA,97,DNA,1,0.904,0.72,0.92,0.54,0.12,7,11,1,6
+Mus,genus,Muridae,family,RNA,97,DNA,2,0.808,0.76,0.83,0.69,0.18,9,10,2,4
+Mus,genus,Muridae,family,RNA,97,DNA,3,0.981,0.88,0.92,0.85,0.08,11,11,1,2
+Mus,genus,Muridae,family,RNA,97,DNA,4,0.885,0.84,0.92,0.77,0.09,10,11,1,3
+Mus,genus,Muridae,family,RNA,97,DNA,5,0.853,0.76,0.83,0.69,0.18,9,10,2,4
+Mus,genus,Muridae,family,RNA,97,DNA,6,0.904,0.8,0.83,0.77,0.17,10,10,2,3
+Mus,genus,Muridae,family,RNA,97,DNA,7,0.904,0.8,0.92,0.69,0.1,9,11,1,4
+Mus,genus,Muridae,family,RNA,97,DNA,8,0.904,0.84,0.92,0.77,0.09,10,11,1,3
+Mus,genus,Muridae,family,RNA,97,DNA,9,0.91,0.8,1.0,0.62,0.0,8,12,0,5
+Mus,genus,Muridae,family,RNA,97,AA,1,0.917,0.88,0.83,0.92,0.14,12,10,2,1
+Mus,genus,Muridae,family,RNA,97,AA,2,0.904,0.84,0.75,0.92,0.2,12,9,3,1
+Mus,genus,Muridae,family,RNA,97,AA,3,0.885,0.76,0.75,0.77,0.23,10,9,3,3
+Mus,genus,Muridae,family,RNA,97,AA,4,0.872,0.84,0.92,0.77,0.09,10,11,1,3
+Mus,genus,Muridae,family,RNA,97,PC,1,0.853,0.8,0.75,0.85,0.21,11,9,3,2
+Mus,genus,Muridae,family,RNA,97,PC,2,0.923,0.88,1.0,0.77,0.0,10,12,0,3
+Mus,genus,Muridae,family,RNA,97,PC,3,0.955,0.96,1.0,0.92,0.0,12,12,0,1
+Mus,genus,Muridae,family,RNA,97,PC,4,0.923,0.84,0.83,0.85,0.15,11,10,2,2
+Mus,genus,Muridae,family,RNA,97,PC,5,0.904,0.88,0.92,0.85,0.08,11,11,1,2
+Mus,genus,Muridae,family,RNA,97,PC,6,0.891,0.84,0.92,0.77,0.09,10,11,1,3
+Mus,genus,Muridae,family,RNA,97,Domains,0,0.763,0.72,0.83,0.62,0.2,8,10,2,5
+Rattus,genus,Muridae,family,RNA,58,DNA,1,0.5,0.53,0.0,1.0,0.47,8,0,7,0
+Rattus,genus,Muridae,family,RNA,58,DNA,2,0.571,0.47,0.71,0.25,0.5,2,5,2,6
+Rattus,genus,Muridae,family,RNA,58,DNA,3,0.893,0.73,0.71,0.75,0.25,6,5,2,2
+Rattus,genus,Muridae,family,RNA,58,DNA,4,0.839,0.67,0.71,0.62,0.29,5,5,2,3
+Rattus,genus,Muridae,family,RNA,58,DNA,5,0.643,0.53,0.57,0.5,0.43,4,4,3,4
+Rattus,genus,Muridae,family,RNA,58,DNA,6,0.679,0.73,0.71,0.75,0.25,6,5,2,2
+Rattus,genus,Muridae,family,RNA,58,DNA,7,0.643,0.6,0.57,0.62,0.38,5,4,3,3
+Rattus,genus,Muridae,family,RNA,58,DNA,8,0.75,0.8,0.71,0.88,0.22,7,5,2,1
+Rattus,genus,Muridae,family,RNA,58,DNA,9,0.821,0.73,0.43,1.0,0.33,8,3,4,0
+Rattus,genus,Muridae,family,RNA,58,AA,1,0.857,0.73,0.71,0.75,0.25,6,5,2,2
+Rattus,genus,Muridae,family,RNA,58,AA,2,0.911,0.73,1.0,0.5,0.0,4,7,0,4
+Rattus,genus,Muridae,family,RNA,58,AA,3,0.839,0.73,0.57,0.88,0.3,7,4,3,1
+Rattus,genus,Muridae,family,RNA,58,AA,4,0.893,0.67,0.43,0.88,0.36,7,3,4,1
+Rattus,genus,Muridae,family,RNA,58,PC,1,0.643,0.6,1.0,0.25,0.0,2,7,0,6
+Rattus,genus,Muridae,family,RNA,58,PC,2,0.884,0.73,0.86,0.62,0.17,5,6,1,3
+Rattus,genus,Muridae,family,RNA,58,PC,3,0.804,0.73,0.86,0.62,0.17,5,6,1,3
+Rattus,genus,Muridae,family,RNA,58,PC,4,0.875,0.8,0.71,0.88,0.22,7,5,2,1
+Rattus,genus,Muridae,family,RNA,58,PC,5,0.821,0.67,0.43,0.88,0.36,7,3,4,1
+Rattus,genus,Muridae,family,RNA,58,PC,6,0.696,0.67,0.43,0.88,0.36,7,3,4,1
+Rattus,genus,Muridae,family,RNA,58,Domains,0,0.643,0.67,0.57,0.75,0.33,6,4,3,2
+Muridae,family,Rodentia,order,RNA,147,DNA,1,0.47,0.57,0.0,1.0,0.43,21,0,16,0
+Muridae,family,Rodentia,order,RNA,147,DNA,2,0.649,0.59,0.62,0.57,0.33,12,10,6,9
+Muridae,family,Rodentia,order,RNA,147,DNA,3,0.682,0.65,0.56,0.71,0.32,15,9,7,6
+Muridae,family,Rodentia,order,RNA,147,DNA,4,0.75,0.7,0.5,0.86,0.31,18,8,8,3
+Muridae,family,Rodentia,order,RNA,147,DNA,5,0.685,0.62,0.5,0.71,0.35,15,8,8,6
+Muridae,family,Rodentia,order,RNA,147,DNA,6,0.693,0.62,0.56,0.67,0.33,14,9,7,7
+Muridae,family,Rodentia,order,RNA,147,DNA,7,0.756,0.76,0.88,0.67,0.12,14,14,2,7
+Muridae,family,Rodentia,order,RNA,147,DNA,8,0.759,0.73,0.81,0.67,0.18,14,13,3,7
+Muridae,family,Rodentia,order,RNA,147,DNA,9,0.765,0.68,0.5,0.81,0.32,17,8,8,4
+Muridae,family,Rodentia,order,RNA,147,AA,1,0.661,0.65,0.62,0.67,0.3,14,10,6,7
+Muridae,family,Rodentia,order,RNA,147,AA,2,0.714,0.68,0.56,0.76,0.3,16,9,7,5
+Muridae,family,Rodentia,order,RNA,147,AA,3,0.818,0.7,0.5,0.86,0.31,18,8,8,3
+Muridae,family,Rodentia,order,RNA,147,AA,4,0.804,0.7,0.56,0.81,0.29,17,9,7,4
+Muridae,family,Rodentia,order,RNA,147,PC,1,0.417,0.43,0.38,0.48,0.5,10,6,10,11
+Muridae,family,Rodentia,order,RNA,147,PC,2,0.506,0.51,0.38,0.62,0.43,13,6,10,8
+Muridae,family,Rodentia,order,RNA,147,PC,3,0.543,0.51,0.56,0.48,0.41,10,9,7,11
+Muridae,family,Rodentia,order,RNA,147,PC,4,0.692,0.68,0.5,0.81,0.32,17,8,8,4
+Muridae,family,Rodentia,order,RNA,147,PC,5,0.762,0.7,0.5,0.86,0.31,18,8,8,3
+Muridae,family,Rodentia,order,RNA,147,PC,6,0.792,0.73,0.62,0.81,0.26,17,10,6,4
+Muridae,family,Rodentia,order,RNA,147,Domains,0,0.536,0.57,0.5,0.62,0.38,13,8,8,8
+Cricetidae,family,Rodentia,order,RNA,130,DNA,1,0.181,0.61,1.0,0.0,NA,0,20,0,13
+Cricetidae,family,Rodentia,order,RNA,130,DNA,2,0.638,0.64,0.6,0.69,0.47,9,12,8,4
+Cricetidae,family,Rodentia,order,RNA,130,DNA,3,0.562,0.58,0.5,0.69,0.53,9,10,10,4
+Cricetidae,family,Rodentia,order,RNA,130,DNA,4,0.596,0.61,0.6,0.62,0.5,8,12,8,5
+Cricetidae,family,Rodentia,order,RNA,130,DNA,5,0.592,0.58,0.65,0.46,0.54,6,13,7,7
+Cricetidae,family,Rodentia,order,RNA,130,DNA,6,0.706,0.7,0.65,0.77,0.41,10,13,7,3
+Cricetidae,family,Rodentia,order,RNA,130,DNA,7,0.738,0.7,0.65,0.77,0.41,10,13,7,3
+Cricetidae,family,Rodentia,order,RNA,130,DNA,8,0.723,0.64,0.6,0.69,0.47,9,12,8,4
+Cricetidae,family,Rodentia,order,RNA,130,DNA,9,0.742,0.73,0.75,0.69,0.36,9,15,5,4
+Cricetidae,family,Rodentia,order,RNA,130,AA,1,0.754,0.79,0.8,0.77,0.29,10,16,4,3
+Cricetidae,family,Rodentia,order,RNA,130,AA,2,0.788,0.64,0.6,0.69,0.47,9,12,8,4
+Cricetidae,family,Rodentia,order,RNA,130,AA,3,0.831,0.79,0.75,0.85,0.31,11,15,5,2
+Cricetidae,family,Rodentia,order,RNA,130,AA,4,0.823,0.79,0.8,0.77,0.29,10,16,4,3
+Cricetidae,family,Rodentia,order,RNA,130,PC,1,0.669,0.55,0.75,0.23,0.62,3,15,5,10
+Cricetidae,family,Rodentia,order,RNA,130,PC,2,0.604,0.58,0.7,0.38,0.55,5,14,6,8
+Cricetidae,family,Rodentia,order,RNA,130,PC,3,0.773,0.7,0.7,0.69,0.4,9,14,6,4
+Cricetidae,family,Rodentia,order,RNA,130,PC,4,0.808,0.73,0.7,0.77,0.38,10,14,6,3
+Cricetidae,family,Rodentia,order,RNA,130,PC,5,0.827,0.79,0.8,0.77,0.29,10,16,4,3
+Cricetidae,family,Rodentia,order,RNA,130,PC,6,0.812,0.76,0.75,0.77,0.33,10,15,5,3
+Cricetidae,family,Rodentia,order,RNA,130,Domains,0,0.8,0.7,0.65,0.77,0.41,10,13,7,3
+Rodentia,order,Mammalia,class,RNA,473,DNA,1,0.52,0.46,0.51,0.41,0.57,23,32,31,33
+Rodentia,order,Mammalia,class,RNA,473,DNA,2,0.755,0.67,0.75,0.59,0.33,33,47,16,23
+Rodentia,order,Mammalia,class,RNA,473,DNA,3,0.848,0.76,0.76,0.77,0.26,43,48,15,13
+Rodentia,order,Mammalia,class,RNA,473,DNA,4,0.859,0.84,0.83,0.86,0.19,48,52,11,8
+Rodentia,order,Mammalia,class,RNA,473,DNA,5,0.795,0.77,0.76,0.79,0.25,44,48,15,12
+Rodentia,order,Mammalia,class,RNA,473,DNA,6,0.777,0.76,0.68,0.84,0.3,47,43,20,9
+Rodentia,order,Mammalia,class,RNA,473,DNA,7,0.901,0.82,0.78,0.86,0.23,48,49,14,8
+Rodentia,order,Mammalia,class,RNA,473,DNA,8,0.918,0.82,0.79,0.86,0.21,48,50,13,8
+Rodentia,order,Mammalia,class,RNA,473,DNA,9,0.904,0.78,0.76,0.8,0.25,45,48,15,11
+Rodentia,order,Mammalia,class,RNA,473,AA,1,0.837,0.77,0.75,0.8,0.26,45,47,16,11
+Rodentia,order,Mammalia,class,RNA,473,AA,2,0.875,0.8,0.76,0.84,0.24,47,48,15,9
+Rodentia,order,Mammalia,class,RNA,473,AA,3,0.911,0.84,0.84,0.84,0.18,47,53,10,9
+Rodentia,order,Mammalia,class,RNA,473,AA,4,0.935,0.85,0.87,0.82,0.15,46,55,8,10
+Rodentia,order,Mammalia,class,RNA,473,PC,1,0.831,0.81,0.83,0.79,0.2,44,52,11,12
+Rodentia,order,Mammalia,class,RNA,473,PC,2,0.863,0.78,0.83,0.73,0.21,41,52,11,15
+Rodentia,order,Mammalia,class,RNA,473,PC,3,0.886,0.85,0.84,0.86,0.17,48,53,10,8
+Rodentia,order,Mammalia,class,RNA,473,PC,4,0.879,0.83,0.79,0.88,0.21,49,50,13,7
+Rodentia,order,Mammalia,class,RNA,473,PC,5,0.919,0.82,0.83,0.8,0.2,45,52,11,11
+Rodentia,order,Mammalia,class,RNA,473,PC,6,0.928,0.88,0.95,0.8,0.06,45,60,3,11
+Rodentia,order,Mammalia,class,RNA,473,Domains,0,0.824,0.76,0.76,0.77,0.26,43,48,15,13
+Mammalia,class,Chordata,phylum,RNA,425,DNA,1,0.524,0.56,0.66,0.46,0.42,25,35,18,29
+Mammalia,class,Chordata,phylum,RNA,425,DNA,2,0.699,0.62,0.55,0.69,0.39,37,29,24,17
+Mammalia,class,Chordata,phylum,RNA,425,DNA,3,0.766,0.73,0.79,0.67,0.23,36,42,11,18
+Mammalia,class,Chordata,phylum,RNA,425,DNA,4,0.869,0.81,0.77,0.85,0.21,46,41,12,8
+Mammalia,class,Chordata,phylum,RNA,425,DNA,5,0.86,0.79,0.81,0.76,0.2,41,43,10,13
+Mammalia,class,Chordata,phylum,RNA,425,DNA,6,0.935,0.85,0.89,0.81,0.12,44,47,6,10
+Mammalia,class,Chordata,phylum,RNA,425,DNA,7,0.953,0.86,0.91,0.81,0.1,44,48,5,10
+Mammalia,class,Chordata,phylum,RNA,425,DNA,8,0.954,0.85,0.89,0.81,0.12,44,47,6,10
+Mammalia,class,Chordata,phylum,RNA,425,DNA,9,0.971,0.86,0.92,0.8,0.09,43,49,4,11
+Mammalia,class,Chordata,phylum,RNA,425,AA,1,0.756,0.74,0.75,0.72,0.25,39,40,13,15
+Mammalia,class,Chordata,phylum,RNA,425,AA,2,0.922,0.86,0.85,0.87,0.15,47,45,8,7
+Mammalia,class,Chordata,phylum,RNA,425,AA,3,0.978,0.93,0.89,0.96,0.1,52,47,6,2
+Mammalia,class,Chordata,phylum,RNA,425,AA,4,0.977,0.91,0.94,0.87,0.06,47,50,3,7
+Mammalia,class,Chordata,phylum,RNA,425,PC,1,0.578,0.57,0.68,0.46,0.4,25,36,17,29
+Mammalia,class,Chordata,phylum,RNA,425,PC,2,0.783,0.69,0.72,0.67,0.29,36,38,15,18
+Mammalia,class,Chordata,phylum,RNA,425,PC,3,0.877,0.79,0.75,0.81,0.23,44,40,13,10
+Mammalia,class,Chordata,phylum,RNA,425,PC,4,0.937,0.86,0.87,0.85,0.13,46,46,7,8
+Mammalia,class,Chordata,phylum,RNA,425,PC,5,0.947,0.88,0.87,0.89,0.13,48,46,7,6
+Mammalia,class,Chordata,phylum,RNA,425,PC,6,0.959,0.91,0.94,0.87,0.06,47,50,3,7
+Mammalia,class,Chordata,phylum,RNA,425,Domains,0,0.828,0.8,0.81,0.8,0.19,43,43,10,11
+Gallus gallus,species,Aves,class,RNA,84,DNA,1,0.636,0.67,0.82,0.5,0.29,5,9,2,5
+Gallus gallus,species,Aves,class,RNA,84,DNA,2,0.736,0.67,0.73,0.6,0.33,6,8,3,4
+Gallus gallus,species,Aves,class,RNA,84,DNA,3,0.709,0.62,0.55,0.7,0.42,7,6,5,3
+Gallus gallus,species,Aves,class,RNA,84,DNA,4,0.873,0.67,0.55,0.8,0.38,8,6,5,2
+Gallus gallus,species,Aves,class,RNA,84,DNA,5,0.891,0.81,0.82,0.8,0.2,8,9,2,2
+Gallus gallus,species,Aves,class,RNA,84,DNA,6,0.773,0.76,0.82,0.7,0.22,7,9,2,3
+Gallus gallus,species,Aves,class,RNA,84,DNA,7,0.818,0.81,0.91,0.7,0.12,7,10,1,3
+Gallus gallus,species,Aves,class,RNA,84,DNA,8,0.791,0.57,0.91,0.2,0.33,2,10,1,8
+Gallus gallus,species,Aves,class,RNA,84,DNA,9,0.2,0.57,0.91,0.2,0.33,2,10,1,8
+Gallus gallus,species,Aves,class,RNA,84,AA,1,0.673,0.62,0.45,0.8,0.43,8,5,6,2
+Gallus gallus,species,Aves,class,RNA,84,AA,2,0.945,0.81,0.73,0.9,0.25,9,8,3,1
+Gallus gallus,species,Aves,class,RNA,84,AA,3,0.636,0.62,0.82,0.4,0.33,4,9,2,6
+Gallus gallus,species,Aves,class,RNA,84,AA,4,0.655,0.62,0.91,0.3,0.25,3,10,1,7
+Gallus gallus,species,Aves,class,RNA,84,PC,1,0.591,0.57,0.45,0.7,0.46,7,5,6,3
+Gallus gallus,species,Aves,class,RNA,84,PC,2,0.518,0.52,0.55,0.5,0.5,5,6,5,5
+Gallus gallus,species,Aves,class,RNA,84,PC,3,0.8,0.67,0.55,0.8,0.38,8,6,5,2
+Gallus gallus,species,Aves,class,RNA,84,PC,4,0.636,0.57,0.45,0.7,0.46,7,5,6,3
+Gallus gallus,species,Aves,class,RNA,84,PC,5,0.6,0.62,0.91,0.3,0.25,3,10,1,7
+Gallus gallus,species,Aves,class,RNA,84,PC,6,0.682,0.62,0.91,0.3,0.25,3,10,1,7
+Gallus gallus,species,Aves,class,RNA,84,Domains,0,0.691,0.48,0.27,0.7,0.53,7,3,8,3
+Phasianidae,family,Aves,class,RNA,107,DNA,1,0.484,0.44,0.54,0.36,0.55,5,7,6,9
+Phasianidae,family,Aves,class,RNA,107,DNA,2,0.621,0.67,0.69,0.64,0.31,9,9,4,5
+Phasianidae,family,Aves,class,RNA,107,DNA,3,0.676,0.56,0.46,0.64,0.44,9,6,7,5
+Phasianidae,family,Aves,class,RNA,107,DNA,4,0.703,0.59,0.62,0.57,0.38,8,8,5,6
+Phasianidae,family,Aves,class,RNA,107,DNA,5,0.747,0.59,0.69,0.5,0.36,7,9,4,7
+Phasianidae,family,Aves,class,RNA,107,DNA,6,0.709,0.59,0.62,0.57,0.38,8,8,5,6
+Phasianidae,family,Aves,class,RNA,107,DNA,7,0.742,0.59,0.69,0.5,0.36,7,9,4,7
+Phasianidae,family,Aves,class,RNA,107,DNA,8,0.786,0.67,0.92,0.43,0.14,6,12,1,8
+Phasianidae,family,Aves,class,RNA,107,DNA,9,0.775,0.67,0.92,0.43,0.14,6,12,1,8
+Phasianidae,family,Aves,class,RNA,107,AA,1,0.736,0.59,0.62,0.57,0.38,8,8,5,6
+Phasianidae,family,Aves,class,RNA,107,AA,2,0.876,0.74,0.77,0.71,0.23,10,10,3,4
+Phasianidae,family,Aves,class,RNA,107,AA,3,0.797,0.7,0.85,0.57,0.2,8,11,2,6
+Phasianidae,family,Aves,class,RNA,107,AA,4,0.786,0.7,0.85,0.57,0.2,8,11,2,6
+Phasianidae,family,Aves,class,RNA,107,PC,1,0.786,0.7,0.77,0.64,0.25,9,10,3,5
+Phasianidae,family,Aves,class,RNA,107,PC,2,0.703,0.67,0.69,0.64,0.31,9,9,4,5
+Phasianidae,family,Aves,class,RNA,107,PC,3,0.687,0.59,0.62,0.57,0.38,8,8,5,6
+Phasianidae,family,Aves,class,RNA,107,PC,4,0.802,0.67,0.62,0.71,0.33,10,8,5,4
+Phasianidae,family,Aves,class,RNA,107,PC,5,0.764,0.67,0.85,0.5,0.22,7,11,2,7
+Phasianidae,family,Aves,class,RNA,107,PC,6,0.813,0.67,0.85,0.5,0.22,7,11,2,7
+Phasianidae,family,Aves,class,RNA,107,Domains,0,0.731,0.7,0.54,0.86,0.33,12,7,6,2
+Galliformes,order,Aves,class,RNA,122,DNA,1,0.742,0.55,0.81,0.27,0.43,4,13,3,11
+Galliformes,order,Aves,class,RNA,122,DNA,2,0.679,0.68,0.94,0.4,0.14,6,15,1,9
+Galliformes,order,Aves,class,RNA,122,DNA,3,0.867,0.77,0.81,0.73,0.21,11,13,3,4
+Galliformes,order,Aves,class,RNA,122,DNA,4,0.821,0.71,0.75,0.67,0.29,10,12,4,5
+Galliformes,order,Aves,class,RNA,122,DNA,5,0.788,0.71,0.69,0.73,0.31,11,11,5,4
+Galliformes,order,Aves,class,RNA,122,DNA,6,0.821,0.74,0.81,0.67,0.23,10,13,3,5
+Galliformes,order,Aves,class,RNA,122,DNA,7,0.792,0.77,0.88,0.67,0.17,10,14,2,5
+Galliformes,order,Aves,class,RNA,122,DNA,8,0.767,0.77,0.88,0.67,0.17,10,14,2,5
+Galliformes,order,Aves,class,RNA,122,DNA,9,0.746,0.77,0.94,0.6,0.1,9,15,1,6
+Galliformes,order,Aves,class,RNA,122,AA,1,0.821,0.74,0.69,0.8,0.29,12,11,5,3
+Galliformes,order,Aves,class,RNA,122,AA,2,0.829,0.71,0.75,0.67,0.29,10,12,4,5
+Galliformes,order,Aves,class,RNA,122,AA,3,0.733,0.71,0.81,0.6,0.25,9,13,3,6
+Galliformes,order,Aves,class,RNA,122,AA,4,0.729,0.74,0.81,0.67,0.23,10,13,3,5
+Galliformes,order,Aves,class,RNA,122,PC,1,0.742,0.71,0.81,0.6,0.25,9,13,3,6
+Galliformes,order,Aves,class,RNA,122,PC,2,0.758,0.65,0.62,0.67,0.38,10,10,6,5
+Galliformes,order,Aves,class,RNA,122,PC,3,0.796,0.74,0.81,0.67,0.23,10,13,3,5
+Galliformes,order,Aves,class,RNA,122,PC,4,0.696,0.65,0.75,0.53,0.33,8,12,4,7
+Galliformes,order,Aves,class,RNA,122,PC,5,0.712,0.71,0.81,0.6,0.25,9,13,3,6
+Galliformes,order,Aves,class,RNA,122,PC,6,0.717,0.74,0.81,0.67,0.23,10,13,3,5
+Galliformes,order,Aves,class,RNA,122,Domains,0,0.667,0.65,0.69,0.6,0.36,9,11,5,6
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,1,0.653,0.5,0.29,0.71,0.5,5,2,5,2
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,2,0.367,0.43,0.29,0.57,0.56,4,2,5,3
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,3,0.408,0.5,0.57,0.43,0.5,3,4,3,4
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,4,0.449,0.43,0.43,0.43,0.57,3,3,4,4
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,5,0.571,0.5,0.57,0.43,0.5,3,4,3,4
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,6,0.633,0.64,0.71,0.57,0.33,4,5,2,3
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,7,0.592,0.71,1.0,0.43,0.0,3,7,0,4
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,8,0.633,0.71,1.0,0.43,0.0,3,7,0,4
+Anas platyrhynchos,species,Aves,class,RNA,53,DNA,9,0.592,0.71,1.0,0.43,0.0,3,7,0,4
+Anas platyrhynchos,species,Aves,class,RNA,53,AA,1,0.653,0.57,0.71,0.43,0.4,3,5,2,4
+Anas platyrhynchos,species,Aves,class,RNA,53,AA,2,0.612,0.64,0.71,0.57,0.33,4,5,2,3
+Anas platyrhynchos,species,Aves,class,RNA,53,AA,3,0.551,0.57,0.71,0.43,0.4,3,5,2,4
+Anas platyrhynchos,species,Aves,class,RNA,53,AA,4,0.49,0.64,0.86,0.43,0.25,3,6,1,4
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,1,0.673,0.5,0.43,0.57,0.5,4,3,4,3
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,2,0.612,0.64,0.86,0.43,0.25,3,6,1,4
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,3,0.612,0.5,0.43,0.57,0.5,4,3,4,3
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,4,0.612,0.57,0.57,0.57,0.43,4,4,3,3
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,5,0.592,0.64,0.86,0.43,0.25,3,6,1,4
+Anas platyrhynchos,species,Aves,class,RNA,53,PC,6,0.531,0.64,0.86,0.43,0.25,3,6,1,4
+Anas platyrhynchos,species,Aves,class,RNA,53,Domains,0,0.5,0.43,0.29,0.57,0.56,4,2,5,3
+Anas,genus,Aves,class,RNA,59,DNA,1,0.732,0.67,0.43,0.88,0.36,7,3,4,1
+Anas,genus,Aves,class,RNA,59,DNA,2,0.696,0.53,0.71,0.38,0.4,3,5,2,5
+Anas,genus,Aves,class,RNA,59,DNA,3,0.786,0.67,0.71,0.62,0.29,5,5,2,3
+Anas,genus,Aves,class,RNA,59,DNA,4,0.893,0.8,0.86,0.75,0.14,6,6,1,2
+Anas,genus,Aves,class,RNA,59,DNA,5,0.875,0.87,0.86,0.88,0.12,7,6,1,1
+Anas,genus,Aves,class,RNA,59,DNA,6,0.839,0.8,0.86,0.75,0.14,6,6,1,2
+Anas,genus,Aves,class,RNA,59,DNA,7,0.804,0.67,0.86,0.5,0.2,4,6,1,4
+Anas,genus,Aves,class,RNA,59,DNA,8,0.75,0.73,1.0,0.5,0.0,4,7,0,4
+Anas,genus,Aves,class,RNA,59,DNA,9,0.679,0.73,1.0,0.5,0.0,4,7,0,4
+Anas,genus,Aves,class,RNA,59,AA,1,0.643,0.67,0.57,0.75,0.33,6,4,3,2
+Anas,genus,Aves,class,RNA,59,AA,2,0.804,0.67,0.71,0.62,0.29,5,5,2,3
+Anas,genus,Aves,class,RNA,59,AA,3,0.768,0.67,0.71,0.62,0.29,5,5,2,3
+Anas,genus,Aves,class,RNA,59,AA,4,0.768,0.8,1.0,0.62,0.0,5,7,0,3
+Anas,genus,Aves,class,RNA,59,PC,1,0.786,0.8,0.71,0.88,0.22,7,5,2,1
+Anas,genus,Aves,class,RNA,59,PC,2,0.625,0.6,0.57,0.62,0.38,5,4,3,3
+Anas,genus,Aves,class,RNA,59,PC,3,0.804,0.8,0.86,0.75,0.14,6,6,1,2
+Anas,genus,Aves,class,RNA,59,PC,4,0.857,0.87,1.0,0.75,0.0,6,7,0,2
+Anas,genus,Aves,class,RNA,59,PC,5,0.804,0.8,1.0,0.62,0.0,5,7,0,3
+Anas,genus,Aves,class,RNA,59,PC,6,0.768,0.73,1.0,0.5,0.0,4,7,0,4
+Anas,genus,Aves,class,RNA,59,Domains,0,0.75,0.67,0.57,0.75,0.33,6,4,3,2
+Anatidae,family,Aves,class,RNA,88,DNA,1,0.521,0.45,0.27,0.64,0.53,7,3,8,4
+Anatidae,family,Aves,class,RNA,88,DNA,2,0.529,0.59,0.45,0.73,0.43,8,5,6,3
+Anatidae,family,Aves,class,RNA,88,DNA,3,0.645,0.64,0.73,0.55,0.33,6,8,3,5
+Anatidae,family,Aves,class,RNA,88,DNA,4,0.653,0.73,0.91,0.55,0.14,6,10,1,5
+Anatidae,family,Aves,class,RNA,88,DNA,5,0.736,0.68,0.82,0.55,0.25,6,9,2,5
+Anatidae,family,Aves,class,RNA,88,DNA,6,0.793,0.73,0.91,0.55,0.14,6,10,1,5
+Anatidae,family,Aves,class,RNA,88,DNA,7,0.81,0.77,0.91,0.64,0.12,7,10,1,4
+Anatidae,family,Aves,class,RNA,88,DNA,8,0.777,0.77,0.82,0.73,0.2,8,9,2,3
+Anatidae,family,Aves,class,RNA,88,DNA,9,0.785,0.73,0.82,0.64,0.22,7,9,2,4
+Anatidae,family,Aves,class,RNA,88,AA,1,0.769,0.64,0.82,0.45,0.29,5,9,2,6
+Anatidae,family,Aves,class,RNA,88,AA,2,0.711,0.77,0.91,0.64,0.12,7,10,1,4
+Anatidae,family,Aves,class,RNA,88,AA,3,0.793,0.77,1.0,0.55,0.0,6,11,0,5
+Anatidae,family,Aves,class,RNA,88,AA,4,0.777,0.77,1.0,0.55,0.0,6,11,0,5
+Anatidae,family,Aves,class,RNA,88,PC,1,0.678,0.59,0.64,0.55,0.4,6,7,4,5
+Anatidae,family,Aves,class,RNA,88,PC,2,0.702,0.68,0.82,0.55,0.25,6,9,2,5
+Anatidae,family,Aves,class,RNA,88,PC,3,0.702,0.73,0.82,0.64,0.22,7,9,2,4
+Anatidae,family,Aves,class,RNA,88,PC,4,0.769,0.82,1.0,0.64,0.0,7,11,0,4
+Anatidae,family,Aves,class,RNA,88,PC,5,0.76,0.77,1.0,0.55,0.0,6,11,0,5
+Anatidae,family,Aves,class,RNA,88,PC,6,0.752,0.77,0.91,0.64,0.12,7,10,1,4
+Anatidae,family,Aves,class,RNA,88,Domains,0,0.719,0.64,0.82,0.45,0.29,5,9,2,6
+Aves,class,Chordata,phylum,RNA,343,DNA,1,0.476,0.51,0.0,1.0,0.49,44,0,42,0
+Aves,class,Chordata,phylum,RNA,343,DNA,2,0.631,0.59,0.71,0.48,0.36,21,30,12,23
+Aves,class,Chordata,phylum,RNA,343,DNA,3,0.804,0.73,0.69,0.77,0.28,34,29,13,10
+Aves,class,Chordata,phylum,RNA,343,DNA,4,0.811,0.72,0.76,0.68,0.25,30,32,10,14
+Aves,class,Chordata,phylum,RNA,343,DNA,5,0.876,0.81,0.81,0.82,0.18,36,34,8,8
+Aves,class,Chordata,phylum,RNA,343,DNA,6,0.901,0.85,0.86,0.84,0.14,37,36,6,7
+Aves,class,Chordata,phylum,RNA,343,DNA,7,0.925,0.85,0.86,0.84,0.14,37,36,6,7
+Aves,class,Chordata,phylum,RNA,343,DNA,8,0.942,0.88,0.88,0.89,0.11,39,37,5,5
+Aves,class,Chordata,phylum,RNA,343,DNA,9,0.936,0.88,0.83,0.93,0.15,41,35,7,3
+Aves,class,Chordata,phylum,RNA,343,AA,1,0.782,0.78,0.74,0.82,0.23,36,31,11,8
+Aves,class,Chordata,phylum,RNA,343,AA,2,0.832,0.79,0.79,0.8,0.2,35,33,9,9
+Aves,class,Chordata,phylum,RNA,343,AA,3,0.91,0.79,0.79,0.8,0.2,35,33,9,9
+Aves,class,Chordata,phylum,RNA,343,AA,4,0.924,0.84,0.88,0.8,0.12,35,37,5,9
+Aves,class,Chordata,phylum,RNA,343,PC,1,0.437,0.55,0.64,0.45,0.43,20,27,15,24
+Aves,class,Chordata,phylum,RNA,343,PC,2,0.827,0.74,0.81,0.68,0.21,30,34,8,14
+Aves,class,Chordata,phylum,RNA,343,PC,3,0.852,0.83,0.83,0.82,0.16,36,35,7,8
+Aves,class,Chordata,phylum,RNA,343,PC,4,0.941,0.84,0.88,0.8,0.12,35,37,5,9
+Aves,class,Chordata,phylum,RNA,343,PC,5,0.932,0.85,0.86,0.84,0.14,37,36,6,7
+Aves,class,Chordata,phylum,RNA,343,PC,6,0.915,0.81,0.81,0.82,0.18,36,34,8,8
+Aves,class,Chordata,phylum,RNA,343,Domains,0,0.885,0.84,0.79,0.89,0.19,39,33,9,5
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,1,0.64,0.61,0.56,0.66,0.37,62,48,37,32
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,2,0.899,0.81,0.82,0.8,0.17,75,70,15,19
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,3,0.912,0.84,0.89,0.79,0.11,74,76,9,20
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,4,0.864,0.79,0.8,0.78,0.19,73,68,17,21
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,5,0.868,0.79,0.81,0.78,0.18,73,69,16,21
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,6,0.911,0.85,0.89,0.81,0.11,76,76,9,18
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,7,0.936,0.85,0.89,0.82,0.1,77,76,9,17
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,8,0.94,0.85,0.88,0.82,0.11,77,75,10,17
+Chordata,phylum,Metazoa,kingdom,RNA,716,DNA,9,0.942,0.85,0.89,0.82,0.1,77,76,9,17
+Chordata,phylum,Metazoa,kingdom,RNA,716,AA,1,0.886,0.81,0.82,0.8,0.17,75,70,15,19
+Chordata,phylum,Metazoa,kingdom,RNA,716,AA,2,0.892,0.82,0.8,0.84,0.18,79,68,17,15
+Chordata,phylum,Metazoa,kingdom,RNA,716,AA,3,0.941,0.88,0.95,0.82,0.05,77,81,4,17
+Chordata,phylum,Metazoa,kingdom,RNA,716,AA,4,0.934,0.84,0.95,0.73,0.05,69,81,4,25
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,1,0.716,0.66,0.56,0.76,0.34,71,48,37,23
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,2,0.821,0.76,0.85,0.68,0.17,64,72,13,30
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,3,0.879,0.82,0.89,0.74,0.11,70,76,9,24
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,4,0.903,0.84,0.91,0.78,0.1,73,77,8,21
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,5,0.917,0.82,0.88,0.77,0.12,72,75,10,22
+Chordata,phylum,Metazoa,kingdom,RNA,716,PC,6,0.92,0.84,0.96,0.72,0.04,68,82,3,26
+Chordata,phylum,Metazoa,kingdom,RNA,716,Domains,0,0.927,0.88,0.92,0.84,0.08,79,78,7,15
+Hymenoptera,order,Insecta,class,RNA,65,DNA,1,0.375,0.53,0.0,1.0,0.47,9,0,8,0
+Hymenoptera,order,Insecta,class,RNA,65,DNA,2,0.778,0.59,0.38,0.78,0.42,7,3,5,2
+Hymenoptera,order,Insecta,class,RNA,65,DNA,3,0.792,0.53,0.25,0.78,0.46,7,2,6,2
+Hymenoptera,order,Insecta,class,RNA,65,DNA,4,0.861,0.76,0.62,0.89,0.27,8,5,3,1
+Hymenoptera,order,Insecta,class,RNA,65,DNA,5,0.806,0.82,0.62,1.0,0.25,9,5,3,0
+Hymenoptera,order,Insecta,class,RNA,65,DNA,6,0.847,0.76,0.5,1.0,0.31,9,4,4,0
+Hymenoptera,order,Insecta,class,RNA,65,DNA,7,0.847,0.76,0.5,1.0,0.31,9,4,4,0
+Hymenoptera,order,Insecta,class,RNA,65,DNA,8,0.875,0.71,0.62,0.78,0.3,7,5,3,2
+Hymenoptera,order,Insecta,class,RNA,65,DNA,9,0.875,0.76,0.88,0.67,0.14,6,7,1,3
+Hymenoptera,order,Insecta,class,RNA,65,AA,1,0.458,0.47,0.25,0.67,0.5,6,2,6,3
+Hymenoptera,order,Insecta,class,RNA,65,AA,2,0.778,0.59,0.5,0.67,0.4,6,4,4,3
+Hymenoptera,order,Insecta,class,RNA,65,AA,3,0.819,0.71,0.62,0.78,0.3,7,5,3,2
+Hymenoptera,order,Insecta,class,RNA,65,AA,4,0.861,0.71,0.5,0.89,0.33,8,4,4,1
+Hymenoptera,order,Insecta,class,RNA,65,PC,1,0.736,0.59,0.38,0.78,0.42,7,3,5,2
+Hymenoptera,order,Insecta,class,RNA,65,PC,2,0.528,0.59,0.5,0.67,0.4,6,4,4,3
+Hymenoptera,order,Insecta,class,RNA,65,PC,3,0.819,0.71,0.62,0.78,0.3,7,5,3,2
+Hymenoptera,order,Insecta,class,RNA,65,PC,4,0.861,0.71,0.62,0.78,0.3,7,5,3,2
+Hymenoptera,order,Insecta,class,RNA,65,PC,5,0.875,0.71,0.75,0.67,0.25,6,6,2,3
+Hymenoptera,order,Insecta,class,RNA,65,PC,6,0.833,0.71,0.62,0.78,0.3,7,5,3,2
+Hymenoptera,order,Insecta,class,RNA,65,Domains,0,0.618,0.76,0.5,1.0,0.31,9,4,4,0
+Aedes,genus,Culicidae,family,RNA,80,DNA,1,0.64,0.7,0.5,0.9,0.36,9,5,5,1
+Aedes,genus,Culicidae,family,RNA,80,DNA,2,0.66,0.65,0.5,0.8,0.38,8,5,5,2
+Aedes,genus,Culicidae,family,RNA,80,DNA,3,0.65,0.55,0.6,0.5,0.44,5,6,4,5
+Aedes,genus,Culicidae,family,RNA,80,DNA,4,0.88,0.85,0.8,0.9,0.18,9,8,2,1
+Aedes,genus,Culicidae,family,RNA,80,DNA,5,0.81,0.7,0.6,0.8,0.33,8,6,4,2
+Aedes,genus,Culicidae,family,RNA,80,DNA,6,0.74,0.55,0.5,0.6,0.45,6,5,5,4
+Aedes,genus,Culicidae,family,RNA,80,DNA,7,0.82,0.8,0.8,0.8,0.2,8,8,2,2
+Aedes,genus,Culicidae,family,RNA,80,DNA,8,0.775,0.7,0.7,0.7,0.3,7,7,3,3
+Aedes,genus,Culicidae,family,RNA,80,DNA,9,0.83,0.65,0.6,0.7,0.36,7,6,4,3
+Aedes,genus,Culicidae,family,RNA,80,AA,1,0.665,0.7,0.8,0.6,0.25,6,8,2,4
+Aedes,genus,Culicidae,family,RNA,80,AA,2,0.725,0.65,0.5,0.8,0.38,8,5,5,2
+Aedes,genus,Culicidae,family,RNA,80,AA,3,0.7,0.75,0.8,0.7,0.22,7,8,2,3
+Aedes,genus,Culicidae,family,RNA,80,AA,4,0.76,0.7,0.7,0.7,0.3,7,7,3,3
+Aedes,genus,Culicidae,family,RNA,80,PC,1,0.63,0.65,0.6,0.7,0.36,7,6,4,3
+Aedes,genus,Culicidae,family,RNA,80,PC,2,0.49,0.55,0.7,0.4,0.43,4,7,3,6
+Aedes,genus,Culicidae,family,RNA,80,PC,3,0.6,0.6,0.7,0.5,0.38,5,7,3,5
+Aedes,genus,Culicidae,family,RNA,80,PC,4,0.8,0.7,0.7,0.7,0.3,7,7,3,3
+Aedes,genus,Culicidae,family,RNA,80,PC,5,0.74,0.75,0.8,0.7,0.22,7,8,2,3
+Aedes,genus,Culicidae,family,RNA,80,PC,6,0.73,0.75,0.8,0.7,0.22,7,8,2,3
+Aedes,genus,Culicidae,family,RNA,80,Domains,0,0.685,0.55,0.5,0.6,0.45,6,5,5,4
+Culex,genus,Culicidae,family,RNA,129,DNA,1,0.511,0.52,0.47,0.56,0.5,9,8,9,7
+Culex,genus,Culicidae,family,RNA,129,DNA,2,0.482,0.55,0.41,0.69,0.48,11,7,10,5
+Culex,genus,Culicidae,family,RNA,129,DNA,3,0.482,0.48,0.35,0.62,0.52,10,6,11,6
+Culex,genus,Culicidae,family,RNA,129,DNA,4,0.461,0.48,0.53,0.44,0.53,7,9,8,9
+Culex,genus,Culicidae,family,RNA,129,DNA,5,0.632,0.61,0.59,0.62,0.41,10,10,7,6
+Culex,genus,Culicidae,family,RNA,129,DNA,6,0.651,0.61,0.65,0.56,0.4,9,11,6,7
+Culex,genus,Culicidae,family,RNA,129,DNA,7,0.651,0.52,0.41,0.62,0.5,10,7,10,6
+Culex,genus,Culicidae,family,RNA,129,DNA,8,0.688,0.67,0.71,0.62,0.33,10,12,5,6
+Culex,genus,Culicidae,family,RNA,129,DNA,9,0.607,0.55,0.65,0.44,0.46,7,11,6,9
+Culex,genus,Culicidae,family,RNA,129,AA,1,0.425,0.58,0.47,0.69,0.45,11,8,9,5
+Culex,genus,Culicidae,family,RNA,129,AA,2,0.346,0.58,0.47,0.69,0.45,11,8,9,5
+Culex,genus,Culicidae,family,RNA,129,AA,3,0.724,0.67,0.71,0.62,0.33,10,12,5,6
+Culex,genus,Culicidae,family,RNA,129,AA,4,0.699,0.7,0.88,0.5,0.2,8,15,2,8
+Culex,genus,Culicidae,family,RNA,129,PC,1,0.419,0.52,0.41,0.62,0.5,10,7,10,6
+Culex,genus,Culicidae,family,RNA,129,PC,2,0.294,0.64,0.53,0.75,0.4,12,9,8,4
+Culex,genus,Culicidae,family,RNA,129,PC,3,0.702,0.58,0.71,0.44,0.42,7,12,5,9
+Culex,genus,Culicidae,family,RNA,129,PC,4,0.649,0.58,0.76,0.38,0.4,6,13,4,10
+Culex,genus,Culicidae,family,RNA,129,PC,5,0.629,0.61,0.82,0.38,0.33,6,14,3,10
+Culex,genus,Culicidae,family,RNA,129,PC,6,0.662,0.7,0.94,0.44,0.12,7,16,1,9
+Culex,genus,Culicidae,family,RNA,129,Domains,0,0.656,0.58,0.59,0.56,0.44,9,10,7,7
+Culicidae,family,Diptera,order,RNA,124,DNA,1,0.733,0.71,0.87,0.56,0.18,9,13,2,7
+Culicidae,family,Diptera,order,RNA,124,DNA,2,0.888,0.74,0.87,0.62,0.17,10,13,2,6
+Culicidae,family,Diptera,order,RNA,124,DNA,3,0.733,0.74,0.8,0.69,0.21,11,12,3,5
+Culicidae,family,Diptera,order,RNA,124,DNA,4,0.788,0.71,0.8,0.62,0.23,10,12,3,6
+Culicidae,family,Diptera,order,RNA,124,DNA,5,0.758,0.65,0.73,0.56,0.31,9,11,4,7
+Culicidae,family,Diptera,order,RNA,124,DNA,6,0.817,0.81,0.87,0.75,0.14,12,13,2,4
+Culicidae,family,Diptera,order,RNA,124,DNA,7,0.862,0.81,0.87,0.75,0.14,12,13,2,4
+Culicidae,family,Diptera,order,RNA,124,DNA,8,0.892,0.81,0.93,0.69,0.08,11,14,1,5
+Culicidae,family,Diptera,order,RNA,124,DNA,9,0.892,0.81,0.93,0.69,0.08,11,14,1,5
+Culicidae,family,Diptera,order,RNA,124,AA,1,0.904,0.84,0.87,0.81,0.13,13,13,2,3
+Culicidae,family,Diptera,order,RNA,124,AA,2,0.879,0.84,0.87,0.81,0.13,13,13,2,3
+Culicidae,family,Diptera,order,RNA,124,AA,3,0.942,0.81,0.73,0.88,0.22,14,11,4,2
+Culicidae,family,Diptera,order,RNA,124,AA,4,0.958,0.9,0.93,0.88,0.07,14,14,1,2
+Culicidae,family,Diptera,order,RNA,124,PC,1,0.896,0.84,0.93,0.75,0.08,12,14,1,4
+Culicidae,family,Diptera,order,RNA,124,PC,2,0.754,0.71,0.73,0.69,0.27,11,11,4,5
+Culicidae,family,Diptera,order,RNA,124,PC,3,0.812,0.71,0.73,0.69,0.27,11,11,4,5
+Culicidae,family,Diptera,order,RNA,124,PC,4,0.958,0.84,0.73,0.94,0.21,15,11,4,1
+Culicidae,family,Diptera,order,RNA,124,PC,5,0.958,0.87,0.87,0.88,0.12,14,13,2,2
+Culicidae,family,Diptera,order,RNA,124,PC,6,0.95,0.87,0.93,0.81,0.07,13,14,1,3
+Culicidae,family,Diptera,order,RNA,124,Domains,0,0.738,0.77,0.87,0.69,0.15,11,13,2,5
+Diptera,order,Insecta,class,RNA,232,DNA,1,0.35,0.62,0.64,0.6,0.36,18,18,10,12
+Diptera,order,Insecta,class,RNA,232,DNA,2,0.838,0.71,0.68,0.73,0.29,22,19,9,8
+Diptera,order,Insecta,class,RNA,232,DNA,3,0.861,0.84,0.86,0.83,0.14,25,24,4,5
+Diptera,order,Insecta,class,RNA,232,DNA,4,0.829,0.79,0.64,0.93,0.26,28,18,10,2
+Diptera,order,Insecta,class,RNA,232,DNA,5,0.883,0.81,0.71,0.9,0.23,27,20,8,3
+Diptera,order,Insecta,class,RNA,232,DNA,6,0.95,0.83,0.68,0.97,0.24,29,19,9,1
+Diptera,order,Insecta,class,RNA,232,DNA,7,0.954,0.86,0.75,0.97,0.19,29,21,7,1
+Diptera,order,Insecta,class,RNA,232,DNA,8,0.944,0.84,0.71,0.97,0.22,29,20,8,1
+Diptera,order,Insecta,class,RNA,232,DNA,9,0.956,0.81,0.61,1.0,0.27,30,17,11,0
+Diptera,order,Insecta,class,RNA,232,AA,1,0.81,0.78,0.75,0.8,0.23,24,21,7,6
+Diptera,order,Insecta,class,RNA,232,AA,2,0.889,0.81,0.75,0.87,0.21,26,21,7,4
+Diptera,order,Insecta,class,RNA,232,AA,3,0.962,0.9,0.82,0.97,0.15,29,23,5,1
+Diptera,order,Insecta,class,RNA,232,AA,4,0.973,0.84,0.71,0.97,0.22,29,20,8,1
+Diptera,order,Insecta,class,RNA,232,PC,1,0.736,0.67,0.57,0.77,0.34,23,16,12,7
+Diptera,order,Insecta,class,RNA,232,PC,2,0.764,0.69,0.61,0.77,0.32,23,17,11,7
+Diptera,order,Insecta,class,RNA,232,PC,3,0.892,0.83,0.71,0.93,0.22,28,20,8,2
+Diptera,order,Insecta,class,RNA,232,PC,4,0.938,0.83,0.79,0.87,0.19,26,22,6,4
+Diptera,order,Insecta,class,RNA,232,PC,5,0.96,0.84,0.79,0.9,0.18,27,22,6,3
+Diptera,order,Insecta,class,RNA,232,PC,6,0.949,0.79,0.64,0.93,0.26,28,18,10,2
+Diptera,order,Insecta,class,RNA,232,Domains,0,0.962,0.91,0.93,0.9,0.07,27,26,2,3
+Lepidoptera,order,Insecta,class,RNA,61,DNA,1,0.429,0.56,1.0,0.0,NA,0,9,0,7
+Lepidoptera,order,Insecta,class,RNA,61,DNA,2,0.54,0.5,0.44,0.57,0.56,4,4,5,3
+Lepidoptera,order,Insecta,class,RNA,61,DNA,3,0.698,0.56,0.56,0.57,0.5,4,5,4,3
+Lepidoptera,order,Insecta,class,RNA,61,DNA,4,0.889,0.81,0.89,0.71,0.17,5,8,1,2
+Lepidoptera,order,Insecta,class,RNA,61,DNA,5,0.889,0.81,0.89,0.71,0.17,5,8,1,2
+Lepidoptera,order,Insecta,class,RNA,61,DNA,6,0.921,0.81,0.89,0.71,0.17,5,8,1,2
+Lepidoptera,order,Insecta,class,RNA,61,DNA,7,0.921,0.75,0.89,0.57,0.2,4,8,1,3
+Lepidoptera,order,Insecta,class,RNA,61,DNA,8,0.857,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,DNA,9,0.698,0.62,1.0,0.14,0.0,1,9,0,6
+Lepidoptera,order,Insecta,class,RNA,61,AA,1,0.714,0.56,0.67,0.43,0.5,3,6,3,4
+Lepidoptera,order,Insecta,class,RNA,61,AA,2,0.968,0.94,0.89,1.0,0.12,7,8,1,0
+Lepidoptera,order,Insecta,class,RNA,61,AA,3,0.937,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,AA,4,0.889,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,PC,1,0.873,0.69,0.67,0.71,0.38,5,6,3,2
+Lepidoptera,order,Insecta,class,RNA,61,PC,2,0.81,0.88,0.78,1.0,0.22,7,7,2,0
+Lepidoptera,order,Insecta,class,RNA,61,PC,3,1.0,0.88,0.78,1.0,0.22,7,7,2,0
+Lepidoptera,order,Insecta,class,RNA,61,PC,4,0.905,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,PC,5,0.984,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,PC,6,0.952,0.75,1.0,0.43,0.0,3,9,0,4
+Lepidoptera,order,Insecta,class,RNA,61,Domains,0,0.921,0.94,0.89,1.0,0.12,7,8,1,0
+Hemiptera,order,Insecta,class,RNA,82,DNA,1,0.509,0.52,0.27,0.8,0.5,8,3,8,2
+Hemiptera,order,Insecta,class,RNA,82,DNA,2,0.909,0.86,0.82,0.9,0.18,9,9,2,1
+Hemiptera,order,Insecta,class,RNA,82,DNA,3,0.082,0.76,0.91,0.6,0.14,6,10,1,4
+Hemiptera,order,Insecta,class,RNA,82,DNA,4,0.818,0.81,0.91,0.7,0.12,7,10,1,3
+Hemiptera,order,Insecta,class,RNA,82,DNA,5,0.873,0.81,0.91,0.7,0.12,7,10,1,3
+Hemiptera,order,Insecta,class,RNA,82,DNA,6,0.964,0.81,1.0,0.6,0.0,6,11,0,4
+Hemiptera,order,Insecta,class,RNA,82,DNA,7,0.936,0.81,1.0,0.6,0.0,6,11,0,4
+Hemiptera,order,Insecta,class,RNA,82,DNA,8,0.055,0.81,1.0,0.6,0.0,6,11,0,4
+Hemiptera,order,Insecta,class,RNA,82,DNA,9,0.855,0.67,1.0,0.3,0.0,3,11,0,7
+Hemiptera,order,Insecta,class,RNA,82,AA,1,0.836,0.71,0.91,0.5,0.17,5,10,1,5
+Hemiptera,order,Insecta,class,RNA,82,AA,2,0.909,0.86,0.91,0.8,0.11,8,10,1,2
+Hemiptera,order,Insecta,class,RNA,82,AA,3,0.936,0.76,0.91,0.6,0.14,6,10,1,4
+Hemiptera,order,Insecta,class,RNA,82,AA,4,0.955,0.71,1.0,0.4,0.0,4,11,0,6
+Hemiptera,order,Insecta,class,RNA,82,PC,1,0.118,0.67,0.91,0.4,0.2,4,10,1,6
+Hemiptera,order,Insecta,class,RNA,82,PC,2,0.864,0.71,0.82,0.6,0.25,6,9,2,4
+Hemiptera,order,Insecta,class,RNA,82,PC,3,0.927,0.86,0.91,0.8,0.11,8,10,1,2
+Hemiptera,order,Insecta,class,RNA,82,PC,4,0.927,0.86,0.91,0.8,0.11,8,10,1,2
+Hemiptera,order,Insecta,class,RNA,82,PC,5,0.945,0.76,0.91,0.6,0.14,6,10,1,4
+Hemiptera,order,Insecta,class,RNA,82,PC,6,0.955,0.76,1.0,0.5,0.0,5,11,0,5
+Hemiptera,order,Insecta,class,RNA,82,Domains,0,0.836,0.81,1.0,0.6,0.0,6,11,0,4
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,1,0.589,0.56,0.53,0.58,0.39,11,8,7,8
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,2,0.653,0.68,0.47,0.84,0.33,16,7,8,3
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,3,0.681,0.68,0.53,0.79,0.32,15,8,7,4
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,4,0.611,0.56,0.53,0.58,0.39,11,8,7,8
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,5,0.726,0.65,0.53,0.74,0.33,14,8,7,5
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,6,0.758,0.68,0.6,0.74,0.3,14,9,6,5
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,7,0.772,0.71,0.6,0.79,0.29,15,9,6,4
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,8,0.73,0.71,0.6,0.79,0.29,15,9,6,4
+Insecta,class,Arthropoda,phylum,RNA,133,DNA,9,0.716,0.68,0.6,0.74,0.3,14,9,6,5
+Insecta,class,Arthropoda,phylum,RNA,133,AA,1,0.761,0.79,0.53,1.0,0.27,19,8,7,0
+Insecta,class,Arthropoda,phylum,RNA,133,AA,2,0.744,0.74,0.6,0.84,0.27,16,9,6,3
+Insecta,class,Arthropoda,phylum,RNA,133,AA,3,0.86,0.76,0.67,0.84,0.24,16,10,5,3
+Insecta,class,Arthropoda,phylum,RNA,133,AA,4,0.919,0.71,0.33,1.0,0.34,19,5,10,0
+Insecta,class,Arthropoda,phylum,RNA,133,PC,1,0.593,0.59,0.33,0.79,0.4,15,5,10,4
+Insecta,class,Arthropoda,phylum,RNA,133,PC,2,0.625,0.59,0.4,0.74,0.39,14,6,9,5
+Insecta,class,Arthropoda,phylum,RNA,133,PC,3,0.73,0.68,0.67,0.68,0.28,13,10,5,6
+Insecta,class,Arthropoda,phylum,RNA,133,PC,4,0.744,0.68,0.53,0.79,0.32,15,8,7,4
+Insecta,class,Arthropoda,phylum,RNA,133,PC,5,0.888,0.74,0.4,1.0,0.32,19,6,9,0
+Insecta,class,Arthropoda,phylum,RNA,133,PC,6,0.891,0.65,0.2,1.0,0.39,19,3,12,0
+Insecta,class,Arthropoda,phylum,RNA,133,Domains,0,0.681,0.71,0.6,0.79,0.29,15,9,6,4
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,1,0.888,0.83,0.8,0.88,0.22,7,8,2,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,2,0.988,0.89,0.9,0.88,0.12,7,9,1,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,3,0.988,0.89,1.0,0.75,0.0,6,10,0,2
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,4,0.975,0.83,0.9,0.75,0.14,6,9,1,2
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,5,0.95,0.83,0.8,0.88,0.22,7,8,2,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,6,0.925,0.83,0.8,0.88,0.22,7,8,2,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,7,0.925,0.89,0.8,1.0,0.2,8,8,2,0
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,8,0.925,0.89,0.8,1.0,0.2,8,8,2,0
+Ixodidae,family,Arthropoda,phylum,RNA,72,DNA,9,0.925,0.94,0.9,1.0,0.11,8,9,1,0
+Ixodidae,family,Arthropoda,phylum,RNA,72,AA,1,0.9,0.83,0.8,0.88,0.22,7,8,2,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,AA,2,0.888,0.72,0.8,0.62,0.29,5,8,2,3
+Ixodidae,family,Arthropoda,phylum,RNA,72,AA,3,0.912,0.83,0.9,0.75,0.14,6,9,1,2
+Ixodidae,family,Arthropoda,phylum,RNA,72,AA,4,0.95,0.78,1.0,0.5,0.0,4,10,0,4
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,1,0.825,0.78,0.8,0.75,0.25,6,8,2,2
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,2,0.875,0.83,0.8,0.88,0.22,7,8,2,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,3,0.913,0.89,0.9,0.88,0.12,7,9,1,1
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,4,0.912,0.72,0.8,0.62,0.29,5,8,2,3
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,5,0.875,0.78,0.9,0.62,0.17,5,9,1,3
+Ixodidae,family,Arthropoda,phylum,RNA,72,PC,6,0.769,0.72,0.9,0.5,0.2,4,9,1,4
+Ixodidae,family,Arthropoda,phylum,RNA,72,Domains,0,0.719,0.72,0.8,0.62,0.29,5,8,2,3
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,1,0.792,0.74,0.69,0.8,0.33,8,9,4,2
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,2,0.854,0.74,0.85,0.6,0.25,6,11,2,4
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,3,0.769,0.7,0.85,0.5,0.29,5,11,2,5
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,4,0.8,0.78,0.85,0.7,0.22,7,11,2,3
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,5,0.877,0.78,0.85,0.7,0.22,7,11,2,3
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,6,0.892,0.83,0.85,0.8,0.2,8,11,2,2
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,7,0.885,0.83,0.77,0.9,0.25,9,10,3,1
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,8,0.885,0.78,0.69,0.9,0.31,9,9,4,1
+Ixodida,order,Arthropoda,phylum,RNA,90,DNA,9,0.892,0.74,0.77,0.7,0.3,7,10,3,3
+Ixodida,order,Arthropoda,phylum,RNA,90,AA,1,0.908,0.78,0.85,0.7,0.22,7,11,2,3
+Ixodida,order,Arthropoda,phylum,RNA,90,AA,2,0.931,0.91,1.0,0.8,0.0,8,13,0,2
+Ixodida,order,Arthropoda,phylum,RNA,90,AA,3,0.9,0.87,1.0,0.7,0.0,7,13,0,3
+Ixodida,order,Arthropoda,phylum,RNA,90,AA,4,0.846,0.78,1.0,0.5,0.0,5,13,0,5
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,1,0.846,0.83,0.77,0.9,0.25,9,10,3,1
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,2,0.731,0.7,0.69,0.7,0.36,7,9,4,3
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,3,0.815,0.7,0.77,0.6,0.33,6,10,3,4
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,4,0.8,0.78,0.85,0.7,0.22,7,11,2,3
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,5,0.762,0.78,1.0,0.5,0.0,5,13,0,5
+Ixodida,order,Arthropoda,phylum,RNA,90,PC,6,0.846,0.78,1.0,0.5,0.0,5,13,0,5
+Ixodida,order,Arthropoda,phylum,RNA,90,Domains,0,0.831,0.7,0.69,0.7,0.36,7,9,4,3
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,1,0.732,0.73,0.71,0.75,0.31,9,10,4,3
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,2,0.827,0.73,0.71,0.75,0.31,9,10,4,3
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,3,0.747,0.73,0.71,0.75,0.31,9,10,4,3
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,4,0.744,0.65,0.64,0.67,0.38,8,9,5,4
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,5,0.851,0.77,0.71,0.83,0.29,10,10,4,2
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,6,0.869,0.85,0.86,0.83,0.17,10,12,2,2
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,7,0.869,0.81,0.79,0.83,0.23,10,11,3,2
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,8,0.851,0.77,0.71,0.83,0.29,10,10,4,2
+Arachnida,class,Arthropoda,phylum,RNA,103,DNA,9,0.833,0.73,0.86,0.58,0.22,7,12,2,5
+Arachnida,class,Arthropoda,phylum,RNA,103,AA,1,0.905,0.81,0.86,0.75,0.18,9,12,2,3
+Arachnida,class,Arthropoda,phylum,RNA,103,AA,2,0.952,0.85,0.86,0.83,0.17,10,12,2,2
+Arachnida,class,Arthropoda,phylum,RNA,103,AA,3,0.923,0.77,0.71,0.83,0.29,10,10,4,2
+Arachnida,class,Arthropoda,phylum,RNA,103,AA,4,0.839,0.81,1.0,0.58,0.0,7,14,0,5
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,1,0.875,0.73,0.86,0.58,0.22,7,12,2,5
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,2,0.756,0.73,0.71,0.75,0.31,9,10,4,3
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,3,0.839,0.77,0.64,0.92,0.31,11,9,5,1
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,4,0.798,0.73,0.79,0.67,0.27,8,11,3,4
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,5,0.893,0.85,1.0,0.67,0.0,8,14,0,4
+Arachnida,class,Arthropoda,phylum,RNA,103,PC,6,0.857,0.69,1.0,0.33,0.0,4,14,0,8
+Arachnida,class,Arthropoda,phylum,RNA,103,Domains,0,0.765,0.73,0.64,0.83,0.33,10,9,5,2
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,1,0.69,0.65,0.74,0.55,0.35,52,81,28,43
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,2,0.882,0.82,0.83,0.8,0.19,76,91,18,19
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,3,0.938,0.91,0.86,0.96,0.14,91,94,15,4
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,4,0.924,0.86,0.89,0.82,0.13,78,97,12,17
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,5,0.904,0.82,0.9,0.73,0.14,69,98,11,26
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,6,0.935,0.86,0.9,0.82,0.12,78,98,11,17
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,7,0.958,0.91,0.9,0.93,0.11,88,98,11,7
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,8,0.958,0.91,0.87,0.96,0.13,91,95,14,4
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,DNA,9,0.951,0.9,0.84,0.97,0.16,92,92,17,3
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,AA,1,0.874,0.82,0.79,0.85,0.22,81,86,23,14
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,AA,2,0.921,0.83,0.82,0.85,0.2,81,89,20,14
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,AA,3,0.965,0.93,0.9,0.97,0.11,92,98,11,3
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,AA,4,0.977,0.95,0.9,1.0,0.1,95,98,11,0
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,1,0.786,0.75,0.79,0.69,0.26,66,86,23,29
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,2,0.862,0.79,0.77,0.81,0.25,77,84,25,18
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,3,0.874,0.77,0.76,0.79,0.26,75,83,26,20
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,4,0.928,0.86,0.86,0.86,0.15,82,94,15,13
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,5,0.945,0.9,0.83,0.97,0.16,92,91,18,3
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,PC,6,0.961,0.88,0.79,0.99,0.2,94,86,23,1
+Arthropoda,phylum,Metazoa,kingdom,RNA,816,Domains,0,0.966,0.95,0.92,0.98,0.09,93,100,9,2
